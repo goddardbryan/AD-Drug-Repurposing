@@ -1,0 +1,5 @@
+{
+  "connector_top_n": 30,
+  "connector_min_seed_neighbors": 8,
+  "connector_min_support": 6
+}

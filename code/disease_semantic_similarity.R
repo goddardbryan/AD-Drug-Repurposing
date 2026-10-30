@@ -1,0 +1,17 @@
+args <- commandArgs(trailingOnly=TRUE)
+root <- if(length(args)) args[1] else '.'
+if (!requireNamespace('meshes', quietly=TRUE)) stop('Install Bioconductor meshes first.')
+sem <- readRDS(file.path(root,'data/mesh_semantic_data_ah107105.rds'))
+d <- read.csv(file.path(root,'data/disease_mesh_ids.csv'))
+ids <- unique(na.omit(d$MeSHID))
+# AD-versus-indication comparisons used for screening, retaining zero and NA scores.
+scores <- meshes::meshSim('D000544', ids, semData=sem, measure='Wang')
+result <- data.frame(MeSHID=ids, DSS=as.numeric(scores))
+if(nrow(result)!=length(ids)) stop('Unexpected meshSim output dimensions')
+ind <- read.csv(file.path(root,'data/drug_indications.csv'))
+joined <- merge(ind,result,by='MeSHID',all.x=TRUE)
+out <- file.path(root,'output/semantic');dir.create(out,recursive=TRUE,showWarnings=FALSE)
+write.csv(result,file.path(out,'disease_scores.csv'),row.names=FALSE)
+write.csv(joined,file.path(out,'drug_scores.csv'),row.names=FALSE)
+write.csv(joined[!is.na(joined$DSS) & joined$DSS>=0.5,],file.path(out,'selected_drugs.csv'),row.names=FALSE)
+capture.output(sessionInfo(),file=file.path(out,'R_session.txt'))

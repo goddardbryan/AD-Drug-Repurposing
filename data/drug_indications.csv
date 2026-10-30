@@ -1,0 +1,3852 @@
+name,id,disease,MeSHID
+Dihydroergocornine,DB11273,Dementia,D003704
+Citalopram,DB00215,Dementia,D003704
+Olanzapine,DB00334,Dementia,D003704
+Quetiapine,DB01224,Dementia,D003704
+Risperidone,DB00734,Dementia,D003704
+Felbamate,DB00949,Epilepsy,D004827
+Guaifenesin,DB00874,Headache Disorders,D020773
+Lamotrigine,DB00555,Epilepsy,D004827
+Methsuximide,DB05246,Epilepsy,D004827
+Pheniramine,DB01620,Headache Disorders,D020773
+Phenylephrine,DB00388,Headache Disorders,D020773
+Phenytoin,DB00252,Epilepsy,D004827
+Pseudoephedrine,DB00852,Headache Disorders,D020773
+Trihexyphenidyl,DB00376,Basal Ganglia Diseases,D001480
+Benzatropine,DB00245,Basal Ganglia Diseases,D001480
+Dexibuprofen,DB09213,Headache Disorders,D020773
+Carbamazepine,DB00564,Epilepsy,D004827
+Citric acid,DB04272,Headache Disorders,D020773
+Codeine,DB00318,Headache Disorders,D020773
+Acetylsalicylic acid,DB00945,Headache Disorders,D020773
+Dextromethorphan,DB00514,Headache Disorders,D020773
+Diazepam,DB00829,Epilepsy,D004827
+Mannitol,DB00742,Brain Edema,D001929
+Eslicarbazepine,DB14575,Epilepsy,D004827
+Zonisamide,DB00909,Epilepsy,D004827
+Tiagabine,DB00906,Epilepsy,D004827
+Ethosuximide,DB00593,Epilepsy,D004827
+Oxcarbazepine,DB00776,Epilepsy,D004827
+Isosorbide mononitrate,DB01020,Hydrocephalus,D006849
+Stiripentol,DB09118,Epilepsy,D004827
+Lacosamide,DB06218,Epilepsy,D004827
+Topiramate,DB00273,Epilepsy,D004827
+Vigabatrin,DB01080,Epilepsy,D004827
+Acetazolamide,DB00819,Epilepsy,D004827
+Albendazole,DB00518,Epilepsy,D004827
+Clobazam,DB00349,Epilepsy,D004827
+Levetiracetam,DB01202,Epilepsy,D004827
+Pregabalin,DB00230,Epilepsy,D004827
+Levodopa,DB01235,Parkinson Disease,D010300
+Levodopa,DB01235,Parkinson Disease,D010300
+Pramipexole,DB00413,Parkinson Disease,D010300
+Ropinirole,DB00268,Parkinson Disease,D010300
+Rotigotine,DB05271,Parkinson Disease,D010300
+Selegiline,DB01037,Parkinson Disease,D010300
+Trihexyphenidyl,DB00376,Parkinson Disease,D010300
+Benzatropine,DB00245,Parkinson Disease,D010300
+Bromocriptine,DB01200,Parkinson Disease,D010300
+Istradefylline,DB11757,Parkinson Disease,D010300
+Safinamide,DB06654,Parkinson Disease,D010300
+Pimavanserin,DB05316,Parkinson Disease,D010300
+Opicapone,DB11632,Parkinson Disease,D010300
+Droxidopa,DB06262,Parkinson Disease,D010300
+Droxidopa,DB06262,Parkinson Disease,D010300
+Ioflupane I-123,DB08824,Parkinson Disease,D010300
+Orphenadrine,DB01173,Parkinson Disease,D010300
+Dopamine,DB00988,Parkinson Disease,D010300
+Cabergoline,DB00248,Parkinson Disease,D010300
+Hyoscyamine,DB00424,Parkinson Disease,D010300
+Felbamate,DB00949,"Epilepsies, Partial",D004828
+Lamotrigine,DB00555,"Epilepsies, Partial",D004828
+Levetiracetam,DB01202,"Epilepsies, Partial",D004828
+Oxcarbazepine,DB00776,"Epilepsies, Partial",D004828
+Phenytoin,DB00252,"Epilepsies, Partial",D004828
+Phenytoin,DB00252,Status Epilepticus,D013226
+Stiripentol,DB09118,"Epilepsies, Myoclonic",D004831
+Tiagabine,DB00906,"Epilepsies, Partial",D004828
+Topiramate,DB00273,"Epilepsies, Partial",D004828
+Carbamazepine,DB00564,"Epilepsies, Partial",D004828
+Cannabidiol,DB09061,"Epilepsies, Myoclonic",D004831
+Diazepam,DB00829,Status Epilepticus,D013226
+Mannitol,DB00742,Pseudotumor Cerebri,D011559
+Baclofen,DB00181,Cerebral Palsy,D002547
+Diazepam,DB00829,Cerebral Palsy,D002547
+Propofol,DB00818,Status Epilepticus,D013226
+Vigabatrin,DB01080,"Epilepsies, Partial",D004828
+Zonisamide,DB00909,"Epilepsies, Partial",D004828
+Gadodiamide,DB00225,Central Nervous System Diseases,D002493
+Tetrabenazine,DB04844,Huntington Disease,D006816
+Deutetrabenazine,DB12161,Huntington Disease,D006816
+Baclofen,DB00181,Huntington Disease,D006816
+Ethosuximide,DB00593,"Epilepsy, Absence",D004832
+Ethotoin,DB00754,"Epilepsy, Tonic-Clonic",D004830
+Frovatriptan,DB00998,Migraine Disorders,D008881
+Almotriptan,DB00918,Migraine Disorders,D008881
+Isoxsuprine,DB08941,Cerebrovascular Disorders,D002561
+Levodopa,DB01235,Parkinsonian Disorders,D020734
+Levodopa,DB01235,Parkinsonian Disorders,D020734
+Methsuximide,DB05246,"Epilepsy, Absence",D004832
+Naratriptan,DB00952,Migraine Disorders,D008881
+Orphenadrine,DB01173,Parkinsonian Disorders,D020734
+Phenytoin,DB00252,"Epilepsy, Tonic-Clonic",D004830
+Rizatriptan,DB00953,Migraine Disorders,D008881
+Sumatriptan,DB00669,Migraine Disorders,D008881
+Tolazoline,DB00797,Cerebrovascular Disorders,D002561
+Topiramate,DB00273,"Epilepsy, Tonic-Clonic",D004830
+Trihexyphenidyl,DB00376,Parkinsonian Disorders,D020734
+Vigabatrin,DB01080,"Spasms, Infantile",D013036
+Zolmitriptan,DB00315,Migraine Disorders,D008881
+Benzatropine,DB00245,Parkinsonian Disorders,D020734
+Butalbital,DB00241,Tension-Type Headache,D018781
+Carbamazepine,DB00564,"Epilepsy, Tonic-Clonic",D004830
+Acetazolamide,DB00819,"Epilepsy, Absence",D004832
+Codeine,DB00318,Tension-Type Headache,D018781
+Acetylsalicylic acid,DB00945,Migraine Disorders,D008881
+Dihydroergotamine,DB00320,Migraine Disorders,D008881
+Eletriptan,DB00216,Migraine Disorders,D008881
+Ethotoin,DB00754,"Epilepsy, Complex Partial",D017029
+Lamotrigine,DB00555,"Epilepsy, Complex Partial",D017029
+Levetiracetam,DB01202,"Epilepsy, Complex Partial",D017029
+Oxcarbazepine,DB00776,"Epilepsy, Complex Partial",D017029
+Phenytoin,DB00252,"Epilepsy, Complex Partial",D017029
+Tiagabine,DB00906,"Epilepsy, Complex Partial",D017029
+Topiramate,DB00273,"Epilepsy, Complex Partial",D017029
+Vigabatrin,DB01080,"Epilepsy, Complex Partial",D017029
+Carbamazepine,DB00564,"Epilepsy, Complex Partial",D017029
+Propranolol,DB00571,Migraine Disorders,D008881
+Methysergide,DB00247,Migraine Disorders,D008881
+Lornoxicam,DB06725,Migraine Disorders,D008881
+Amitriptyline,DB00321,Migraine Disorders,D008881
+Atenolol,DB00335,Migraine Disorders,D008881
+Carbamazepine,DB00564,"Epilepsy, Absence",D004832
+Clonidine,DB00575,Migraine Disorders,D008881
+Cyproheptadine,DB00434,Migraine Disorders,D008881
+Diphenhydramine,DB01075,Parkinsonian Disorders,D020734
+Isometheptene,DB06706,Migraine Disorders,D008881
+Isometheptene,DB06706,Tension-Type Headache,D018781
+Metoprolol,DB00264,Migraine Disorders,D008881
+Phenytoin,DB00252,"Epilepsy, Temporal Lobe",D004833
+Timolol,DB00373,Migraine Disorders,D008881
+Topiramate,DB00273,"Spasms, Infantile",D013036
+Topiramate,DB00273,Migraine Disorders,D008881
+Clomipramine,DB01242,Tourette Syndrome,D005879
+Clonidine,DB00575,Tourette Syndrome,D005879
+Risperidone,DB00734,Tourette Syndrome,D005879
+Tetrabenazine,DB04844,Tourette Syndrome,D005879
+Ziprasidone,DB00246,Tourette Syndrome,D005879
+Felbamate,DB00949,Lennox Gastaut Syndrome,D065768
+Lamotrigine,DB00555,Lennox Gastaut Syndrome,D065768
+Papaverine,DB01113,Brain Ischemia,D002545
+Phenytoin,DB00252,Lennox Gastaut Syndrome,D065768
+Ramipril,DB00178,Stroke,D020521
+Ramipril,DB00178,Stroke,D020521
+Sumatriptan,DB00669,Cluster Headache,D003027
+Topiramate,DB00273,Lennox Gastaut Syndrome,D065768
+Carbamazepine,DB00564,Lennox Gastaut Syndrome,D065768
+Cannabidiol,DB09061,Lennox Gastaut Syndrome,D065768
+Clobazam,DB00349,Lennox Gastaut Syndrome,D065768
+Dihydroergotamine,DB00320,Cluster Headache,D003027
+Edaravone,DB12243,Stroke,D020521
+Citicoline,DB12153,Brain Ischemia,D002545
+Magnesium,DB14513,Stroke,D020521
+Nimodipine,DB00393,"Vasospasm, Intracranial",D020301
+Clopidogrel,DB00758,Stroke,D020521
+Oxygen,DB09140,Cluster Headache,D003027
+Pentoxifylline,DB00806,Brain Ischemia,D002545
+Pentoxifylline,DB00806,Stroke,D020521
+Prasugrel,DB06209,Stroke,D020521
+Topiramate,DB00273,Cluster Headache,D003027
+Lamotrigine,DB00555,Seizures,D012640
+Levodopa,DB01235,"Parkinson Disease, Postencephalitic",D010301
+Levodopa,DB01235,"Parkinson Disease, Postencephalitic",D010301
+Lomustine,DB01206,Brain Neoplasms,D001932
+Phenytoin,DB00252,Seizures,D012640
+Trihexyphenidyl,DB00376,"Parkinson Disease, Postencephalitic",D010301
+Benzatropine,DB00245,"Parkinson Disease, Postencephalitic",D010301
+Bromocriptine,DB01200,"Parkinson Disease, Postencephalitic",D010301
+Bromocriptine,DB01200,Hyperprolactinemia,D006966
+Cabergoline,DB00248,Hyperprolactinemia,D006966
+Carbamazepine,DB00564,Seizures,D012640
+Carmustine,DB00262,Brain Neoplasms,D001932
+Ethotoin,DB00754,Seizures,D012640
+Lacosamide,DB06218,Seizures,D012640
+Brivaracetam,DB05541,Seizures,D012640
+Vigabatrin,DB01080,Seizures,D012640
+Quinagolide,DB09097,Hyperprolactinemia,D006966
+Cenobamate,DB06119,Seizures,D012640
+Acetazolamide,DB00819,Seizures,D012640
+Bromocriptine,DB01200,Neuroleptic Malignant Syndrome,D009459
+Clobazam,DB00349,Seizures,D012640
+Diazepam,DB00829,Seizures,D012640
+Ethosuximide,DB00593,Seizures,D012640
+Ezogabine,DB04953,Seizures,D012640
+Felbamate,DB00949,Seizures,D012640
+Hydroxyurea,DB01005,Brain Neoplasms,D001932
+Ifosfamide,DB01181,Brain Neoplasms,D001932
+Levetiracetam,DB01202,Seizures,D012640
+Methsuximide,DB05246,Seizures,D012640
+Oxcarbazepine,DB00776,Seizures,D012640
+Paraldehyde,DB09117,Seizures,D012640
+Pregabalin,DB00230,Seizures,D012640
+Procarbazine,DB01168,Brain Neoplasms,D001932
+Pyridoxine,DB00165,Seizures,D012640
+Tamoxifen,DB00675,Brain Neoplasms,D001932
+Temozolomide,DB00853,Brain Neoplasms,D001932
+Tiagabine,DB00906,Seizures,D012640
+Topiramate,DB00273,Seizures,D012640
+Zonisamide,DB00909,Seizures,D012640
+Baclofen,DB00181,Spinal Cord Diseases,D013118
+Fluconazole,DB00196,Meningitis,D008581
+Ketoconazole,DB01026,Meningitis,D008581
+Metronidazole,DB00916,Meningitis,D008581
+Sulfadiazine,DB00359,Meningitis,D008581
+Dihydroergotamine,DB00320,Vascular Headaches,D014653
+Methysergide,DB00247,Vascular Headaches,D014653
+Nimodipine,DB00393,Intracranial Aneurysm,D002532
+Phenytoin,DB00252,"Epilepsy, Post-Traumatic",D004834
+Trihexyphenidyl,DB00376,Dystonic Disorders,D020821
+Propranolol,DB00571,Essential Tremor,D020329
+Riluzole,DB00740,Motor Neuron Disease,D016472
+Clopidogrel,DB00758,Intracranial Embolism,D020766
+Clopidogrel,DB00758,Cerebral Infarction,D002544
+Ozanimod,DB12612,Multiple Sclerosis,D009103
+Baclofen,DB00181,Multiple Sclerosis,D009103
+Dalfampridine,DB06637,Multiple Sclerosis,D009103
+Ponesimod,DB12016,Multiple Sclerosis,D009103
+Fingolimod,DB08868,Multiple Sclerosis,D009103
+Azathioprine,DB00993,Multiple Sclerosis,D009103
+Cyclophosphamide,DB00531,Multiple Sclerosis,D009103
+Tizanidine,DB00697,Multiple Sclerosis,D009103
+Dalfampridine,DB06637,Multiple Sclerosis,D009103
+Nimodipine,DB00393,Subarachnoid Hemorrhage,D013345
+Riluzole,DB00740,Amyotrophic Lateral Sclerosis,D000690
+Bromocriptine,DB01200,Acromegaly,D000172
+Edaravone,DB12243,Amyotrophic Lateral Sclerosis,D000690
+Glycerol phenylbutyrate,DB08909,Hepatic Encephalopathy,D006501
+Metronidazole,DB00916,Brain Abscess,D001922
+Zinc acetate,DB14487,Hepatolenticular Degeneration,D006527
+Triethylenetetramine,DB06824,Hepatolenticular Degeneration,D006527
+Glycerol phenylbutyrate,DB08909,"Urea Cycle Disorders, Inborn",D056806
+Pegvaliase,DB12839,Phenylketonurias,D010661
+Fingolimod,DB08868,"Multiple Sclerosis, Relapsing-Remitting",D020529
+Fingolimod,DB08868,"Multiple Sclerosis, Chronic Progressive",D020528
+Iophendylate,DB01187,Spinal Cord Injuries,D013119
+Baclofen,DB00181,Spinal Cord Injuries,D013119
+Carbamazepine,DB00564,Diabetes Insipidus,D003919
+Chlorothiazide,DB00880,Diabetes Insipidus,D003919
+Hydrochlorothiazide,DB00999,Diabetes Insipidus,D003919
+Cabergoline,DB00248,Pituitary Neoplasms,D010911
+Carbamazepine,DB00564,Chorea,D002819
+Diazepam,DB00829,Stiff-Person Syndrome,D016750
+Tetrabenazine,DB04844,Chorea,D002819
+Thiamine,DB00152,Wernicke Encephalopathy,D014899
+Atomoxetine,DB00289,Hyperkinesis,D006948
+Chlorpromazine,DB00477,Hyperkinesis,D006948
+Dextroamphetamine,DB01576,Hyperkinesis,D006948
+Diazepam,DB00829,Athetosis,D001264
+Diazepam,DB00829,Tremor,D014202
+Hyoscyamine,DB00424,Tremor,D014202
+Pemoline,DB01230,Hyperkinesis,D006948
+Propranolol,DB00571,Tremor,D014202
+Tetrabenazine,DB04844,Hyperkinesis,D006948
+Trihexyphenidyl,DB00376,Tremor,D014202
+Miglustat,DB00419,Gaucher Disease,D005776
+Eliglustat,DB09039,Gaucher Disease,D005776
+Bromocriptine,DB01200,Prolactinoma,D015175
+Cabergoline,DB00248,Prolactinoma,D015175
+Cyproheptadine,DB00434,Nelson Syndrome,D009347
+Sulfadiazine,DB00359,"Toxoplasmosis, Cerebral",D016781
+Pentoxifylline,DB00806,"Malaria, Cerebral",D016779
+Fluconazole,DB00196,"Meningitis, Cryptococcal",D016919
+Betaine,DB06756,Homocystinuria,D006712
+Albendazole,DB00518,Neurocysticercosis,D020019
+Sulfadiazine,DB00359,"Meningitis, Meningococcal",D008585
+Vancomycin,DB00512,"Meningitis, Pneumococcal",D008586
+Miglustat,DB00419,"Niemann-Pick Disease, Type C",D052556
+Migalastat,DB05018,Fabry Disease,D000795
+Sulfadiazine,DB00359,"Toxoplasmosis, Congenital",D014125
+Amifampridine,DB11640,Lambert-Eaton Myasthenic Syndrome,D015624
+Carbamazepine,DB00564,Glossopharyngeal Nerve Diseases,D020435
+Duloxetine,DB00476,Peripheral Nervous System Diseases,D010523
+Pregabalin,DB00230,Peripheral Nervous System Diseases,D010523
+Pyrazinamide,DB00339,"Tuberculosis, Meningeal",D014390
+Thiamine,DB00152,Neuritis,D009443
+Probenecid,DB01032,Neurosyphilis,D009494
+Alclofenac,DB13167,Pain,D010146
+Etodolac,DB00749,Pain,D010146
+Fenoprofen,DB00573,Pain,D010146
+Fentanyl,DB00813,Pain,D010146
+Hydrocodone,DB00956,Pain,D010146
+Hydromorphone,DB00327,Pain,D010146
+Lornoxicam,DB06725,Pain,D010146
+Morphine,DB00295,Pain,D010146
+Nalbuphine,DB00844,Pain,D010146
+Naloxone,DB01183,Pain,D010146
+Oxymorphone,DB01192,Pain,D010146
+Tiaprofenic acid,DB01600,Pain,D010146
+Tramadol,DB00193,Pain,D010146
+Pentazocine,DB00652,Pain,D010146
+Dexibuprofen,DB09213,Pain,D010146
+Benzydamine,DB09084,Pain,D010146
+Tapentadol,DB06204,Pain,D010146
+Citric acid,DB04272,Pain,D010146
+Codeine,DB00318,Pain,D010146
+Acetylsalicylic acid,DB00945,Pain,D010146
+Dextropropoxyphene,DB00647,Pain,D010146
+Dezocine,DB01209,Pain,D010146
+Dihydrocodeine,DB01551,Pain,D010146
+Flavoxate,DB01148,Pain,D010146
+Methadone,DB00333,Pain,D010146
+Naltrexone,DB00704,Pain,D010146
+Oxycodone,DB00497,Pain,D010146
+Pentosan polysulfate,DB00686,Pain,D010146
+Phenylephrine,DB00388,Pain,D010146
+Pramocaine,DB09345,Pain,D010146
+Zinc oxide,DB09321,Pain,D010146
+Zinc acetate,DB14487,Pain,D010146
+Buprenorphine,DB00921,Pain,D010146
+Clonidine,DB00575,Pain,D010146
+Piroxicam,DB00554,Pain,D010146
+Phenazopyridine,DB01438,Pain,D010146
+Dyclonine,DB00645,Pain,D010146
+Nefopam,DB12293,Pain,D010146
+Nabumetone,DB00461,Pain,D010146
+Ethyl chloride,DB13259,Pain,D010146
+Prilocaine,DB00750,Pain,D010146
+Butacaine,DB11502,Pain,D010146
+Etidocaine,DB08987,Pain,D010146
+Carprofen,DB00821,Pain,D010146
+Propoxycaine,DB09342,Pain,D010146
+Metaxalone,DB00660,Pain,D010146
+Anileridine,DB00913,Pain,D010146
+Alfentanil,DB00802,Pain,D010146
+Alosetron,DB00969,Pain,D010146
+Amitriptyline,DB00321,Pain,D010146
+Amitriptyline,DB00321,Sleep Wake Disorders,D012893
+Amphetamine,DB00182,Sleep Wake Disorders,D012893
+Antipyrine,DB01435,Pain,D010146
+Armodafinil,DB06413,Sleep Wake Disorders,D012893
+Atropine,DB00572,Pain,D010146
+Baclofen,DB00181,Pain,D010146
+Benzocaine,DB01086,Pain,D010146
+Bupivacaine,DB00297,Pain,D010146
+Capsaicin,DB06774,Pain,D010146
+Carbamazepine,DB00564,Pain,D010146
+Carisoprodol,DB00395,Pain,D010146
+Chlorzoxazone,DB00356,Pain,D010146
+Cimetidine,DB00501,Pain,D010146
+Clomipramine,DB01242,Pain,D010146
+Colchicine,DB01394,Pain,D010146
+Cyclobenzaprine,DB00924,Pain,D010146
+Desipramine,DB01151,Pain,D010146
+Dexmedetomidine,DB00633,Pain,D010146
+Doxepin,DB01142,Pain,D010146
+Duloxetine,DB00476,Pain,D010146
+Famciclovir,DB00426,Pain,D010146
+Goserelin,DB00014,Pain,D010146
+Imipramine,DB00458,Pain,D010146
+Ketamine,DB01221,Pain,D010146
+Leuprolide,DB00007,Pain,D010146
+Levobupivacaine,DB01002,Pain,D010146
+Lidocaine,DB00281,Pain,D010146
+Menthol,DB14123,Pain,D010146
+Methocarbamol,DB00423,Pain,D010146
+Methotrimeprazine,DB01403,Pain,D010146
+Milnacipran,DB04896,Pain,D010146
+Nifedipine,DB01115,Pain,D010146
+Nitroglycerin,DB00727,Pain,D010146
+Nortriptyline,DB00540,Pain,D010146
+Omeprazole,DB00338,Pain,D010146
+Orphenadrine,DB01173,Pain,D010146
+Pentoxifylline,DB00806,Pain,D010146
+Phenol,DB03255,Pain,D010146
+Prazosin,DB00457,Sleep Wake Disorders,D012893
+Pregabalin,DB00230,Pain,D010146
+Procaine,DB00721,Pain,D010146
+Promethazine,DB01069,Pain,D010146
+Remifentanil,DB00899,Pain,D010146
+Ropivacaine,DB00296,Pain,D010146
+Sodium oxybate,DB09072,Sleep Wake Disorders,D012893
+Sufentanil,DB00708,Pain,D010146
+Tetracaine,DB09085,Pain,D010146
+Venlafaxine,DB00285,Pain,D010146
+Zoledronic acid,DB00399,Pain,D010146
+Butenafine,DB01091,Pain,D010146
+Hydrochlorothiazide,DB00999,Pain,D010146
+Lenalidomide,DB00480,Pain,D010146
+Melatonin,DB01065,Pain,D010146
+Pentamidine,DB00738,Pain,D010146
+Naltrexone,DB00704,Chronic Pain,D059350
+Morphine,DB00295,Chronic Pain,D059350
+Nalbuphine,DB00844,Labor Pain,D048949
+Oxymorphone,DB01192,Chronic Pain,D059350
+Oxymorphone,DB01192,Labor Pain,D048949
+Pramiracetam,DB13247,Memory Disorders,D008569
+Tramadol,DB00193,Chronic Pain,D059350
+Capsaicin,DB06774,Back Pain,D001416
+Pentazocine,DB00652,Labor Pain,D048949
+Aceclofenac,DB06736,Back Pain,D001416
+Buprenorphine,DB00921,Chronic Pain,D059350
+Camphor,DB01744,Back Pain,D001416
+Carisoprodol,DB00395,Back Pain,D001416
+Acetylsalicylic acid,DB00945,Back Pain,D001416
+Levomenthol,DB00825,Back Pain,D001416
+Fentanyl,DB00813,Acute Pain,D059787
+Guaifenesin,DB00874,Headache,D006261
+Hydromorphone,DB00327,Acute Pain,D059787
+Morphine,DB00295,Acute Pain,D059787
+Oxycodone,DB00497,Acute Pain,D059787
+Pheniramine,DB01620,Headache,D006261
+Phenylephrine,DB00388,Headache,D006261
+Pseudoephedrine,DB00852,Headache,D006261
+Mepyramine,DB06691,Headache,D006261
+Remifentanil,DB00899,Acute Pain,D059787
+Buprenorphine,DB00921,Acute Pain,D059787
+Acetylsalicylic acid,DB00945,Headache,D006261
+Oliceridine,DB14881,Acute Pain,D059787
+Phenylbutazone,DB00812,Chronic Pain,D059350
+Cisatracurium,DB00565,Spasm,D013035
+Chlorzoxazone,DB00356,Acute Pain,D059787
+Camphor,DB01744,Acute Pain,D059787
+Meclizine,DB00737,Dizziness,D004244
+Ethanol,DB00898,Chronic Pain,D059350
+Butalbital,DB00241,Headache,D006261
+Acetazolamide,DB00819,Headache,D006261
+Almotriptan,DB00918,Headache,D006261
+Atropine,DB00572,Spasm,D013035
+Baclofen,DB00181,Spasm,D013035
+Carbamazepine,DB00564,Headache,D006261
+Carisoprodol,DB00395,Spasm,D013035
+Cyclobenzaprine,DB00924,Spasm,D013035
+Diazepam,DB00829,Spasm,D013035
+Dihydroergotamine,DB00320,Headache,D006261
+Duloxetine,DB00476,Chronic Pain,D059350
+Fentanyl,DB00813,Chronic Pain,D059350
+Hyoscyamine,DB00424,Spasm,D013035
+Methysergide,DB00247,Headache,D006261
+Metoprolol,DB00264,Chest Pain,D002637
+Naratriptan,DB00952,Headache,D006261
+Nifedipine,DB01115,Spasm,D013035
+Nitroglycerin,DB00727,Chest Pain,D002637
+Oxybutynin,DB01062,Spinal Dysraphism,D016135
+Oxycodone,DB00497,Chronic Pain,D059350
+Papaverine,DB01113,Spasm,D013035
+Phenylbutazone,DB00812,Back Pain,D001416
+Propranolol,DB00571,Headache,D006261
+Rizatriptan,DB00953,Headache,D006261
+Sumatriptan,DB00669,Headache,D006261
+Tapentadol,DB06204,Acute Pain,D059787
+Tapentadol,DB06204,Chronic Pain,D059350
+Tizanidine,DB00697,Spasm,D013035
+Zolmitriptan,DB00315,Headache,D006261
+Mechlorethamine,DB00888,Intellectual Disability,D008607
+Neostigmine,DB01400,Myasthenia Gravis,D009157
+Pyridostigmine,DB00545,Myasthenia Gravis,D009157
+Sufentanil,DB00708,Agnosia,D000377
+Fentanyl,DB00813,Agnosia,D000377
+Alosetron,DB00969,Abdominal Pain,D015746
+Cyclophosphamide,DB00531,Myasthenia Gravis,D009157
+Diazepam,DB00829,Delirium,D003693
+Duloxetine,DB00476,Low Back Pain,D017116
+Pralidoxime,DB00733,Myasthenia Gravis,D009157
+Tizanidine,DB00697,Low Back Pain,D017116
+Melatonin,DB01065,Sleep Initiation and Maintenance Disorders,D007319
+Diphenhydramine,DB01075,Sleep Initiation and Maintenance Disorders,D007319
+Doxepin,DB01142,Sleep Initiation and Maintenance Disorders,D007319
+Ramelteon,DB00980,Sleep Initiation and Maintenance Disorders,D007319
+Solriamfetol,DB14754,Disorders of Excessive Somnolence,D006970
+Pitolisant,DB11642,Disorders of Excessive Somnolence,D006970
+Nabilone,DB00486,Sleep Initiation and Maintenance Disorders,D007319
+Paraldehyde,DB09117,Sleep Initiation and Maintenance Disorders,D007319
+Tasimelteon,DB09071,Sleep Initiation and Maintenance Disorders,D007319
+Propiomazine,DB00777,Sleep Initiation and Maintenance Disorders,D007319
+Armodafinil,DB06413,Disorders of Excessive Somnolence,D006970
+Escitalopram,DB01175,Sleep Initiation and Maintenance Disorders,D007319
+Milnacipran,DB04896,Fibromyalgia,D005356
+Pregabalin,DB00230,Fibromyalgia,D005356
+Duloxetine,DB00476,Fibromyalgia,D005356
+Levomilnacipran,DB08918,Fibromyalgia,D005356
+Levetiracetam,DB01202,Fibromyalgia,D005356
+Tropisetron,DB11699,Fibromyalgia,D005356
+Lidocaine,DB00281,Neuralgia,D009437
+Sufentanil,DB00708,"Pain, Postoperative",D010149
+Capsaicin,DB06774,Neuralgia,D009437
+Methyl nicotinate,DB13882,Arthralgia,D018771
+Carbamazepine,DB00564,Trigeminal Neuralgia,D014277
+Acetylsalicylic acid,DB00945,Arthralgia,D018771
+Baclofen,DB00181,Trigeminal Neuralgia,D014277
+Benzocaine,DB01086,Earache,D004433
+Carbamazepine,DB00564,Neuralgia,D009437
+Clomipramine,DB01242,Neuralgia,D009437
+Clonidine,DB00575,Neuralgia,D009437
+Codeine,DB00318,"Pain, Postoperative",D010149
+Dihydrocodeine,DB01551,"Pain, Postoperative",D010149
+Duloxetine,DB00476,Neuralgia,D009437
+Etidocaine,DB08987,"Pain, Postoperative",D010149
+Famciclovir,DB00426,Neuralgia,D009437
+Fentanyl,DB00813,"Pain, Postoperative",D010149
+Hydrocodone,DB00956,"Pain, Postoperative",D010149
+Hydromorphone,DB00327,"Pain, Postoperative",D010149
+Morphine,DB00295,"Pain, Postoperative",D010149
+Nalbuphine,DB00844,"Pain, Postoperative",D010149
+Oxycodone,DB00497,"Pain, Postoperative",D010149
+Pregabalin,DB00230,Neuralgia,D009437
+Propranolol,DB00571,Syncope,D013575
+Ropivacaine,DB00296,"Pain, Postoperative",D010149
+Pramipexole,DB00413,Restless Legs Syndrome,D012148
+Ropinirole,DB00268,Restless Legs Syndrome,D012148
+Rotigotine,DB05271,Restless Legs Syndrome,D012148
+Viloxazine,DB09185,Narcolepsy,D009290
+Gabapentin enacarbil,DB08872,Restless Legs Syndrome,D012148
+Gabapentin enacarbil,DB08872,Restless Legs Syndrome,D012148
+Armodafinil,DB06413,Narcolepsy,D009290
+Sodium oxybate,DB09072,Narcolepsy,D009290
+Pitolisant,DB11642,Narcolepsy,D009290
+Solriamfetol,DB14754,Narcolepsy,D009290
+Dextroamphetamine,DB01576,Narcolepsy,D009290
+Amphetamine,DB00182,Narcolepsy,D009290
+Bromocriptine,DB01200,Restless Legs Syndrome,D012148
+Carbamazepine,DB00564,Restless Legs Syndrome,D012148
+Clomipramine,DB01242,Narcolepsy,D009290
+Melatonin,DB01065,"Sleep Disorders, Circadian Rhythm",D020178
+Pemoline,DB01230,Narcolepsy,D009290
+Tyrosine,DB00135,Narcolepsy,D009290
+Amphetamine,DB00182,Narcolepsy,D009290
+Dextroamphetamine,DB01576,Narcolepsy,D009290
+Phenylephrine,DB00388,Mydriasis,D015878
+Tropicamide,DB00809,Mydriasis,D015878
+Cyclopentolate,DB00979,Mydriasis,D015878
+Dapiprazole,DB00298,Mydriasis,D015878
+Tizanidine,DB00697,Muscle Cramp,D009120
+Papaverine,DB01113,Muscle Cramp,D009120
+Succinylcholine,DB00202,Muscle Cramp,D009120
+Orphenadrine,DB01173,Muscle Cramp,D009120
+Melatonin,DB01065,Jet Lag Syndrome,D020179
+Sulindac,DB00605,Tendinopathy,D052256
+Lidocaine,DB00281,"Neuralgia, Postherpetic",D051474
+Pregabalin,DB00230,"Neuralgia, Postherpetic",D051474
+Capsaicin,DB06774,"Neuralgia, Postherpetic",D051474
+Diphenidol,DB01231,Vertigo,D014717
+Gabapentin enacarbil,DB08872,"Neuralgia, Postherpetic",D051474
+Gabapentin enacarbil,DB08872,"Neuralgia, Postherpetic",D051474
+Acetylsalicylic acid,DB00945,Toothache,D014098
+Dimenhydrinate,DB00985,Vertigo,D014717
+Amitriptyline,DB00321,"Neuralgia, Postherpetic",D051474
+Benzocaine,DB01086,Toothache,D014098
+Betahistine,DB06698,Vertigo,D014717
+Buclizine,DB00354,Vertigo,D014717
+Meclizine,DB00737,Vertigo,D014717
+Thiamine,DB00152,Alcohol Amnestic Disorder,D000425
+Thiethylperazine,DB00372,Vertigo,D014717
+Meclizine,DB00737,Vertigo,D014717
+Amitriptyline,DB00321,Diabetic Neuropathies,D003929
+Capsaicin,DB06774,Diabetic Neuropathies,D003929
+Citalopram,DB00215,Diabetic Neuropathies,D003929
+Clomipramine,DB01242,Cataplexy,D002385
+Duloxetine,DB00476,Diabetic Neuropathies,D003929
+Mexiletine,DB00379,Diabetic Neuropathies,D003929
+Nortriptyline,DB00540,Diabetic Neuropathies,D003929
+Pentoxifylline,DB00806,Diabetic Neuropathies,D003929
+Sodium oxybate,DB09072,Cataplexy,D002385
+Metaxalone,DB00660,Muscle Spasticity,D009128
+Methocarbamol,DB00423,Muscle Spasticity,D009128
+Orphenadrine,DB01173,Muscle Spasticity,D009128
+Tizanidine,DB00697,Muscle Spasticity,D009128
+Carisoprodol,DB00395,Muscle Spasticity,D009128
+Chlorphenesin carbamate,DB14656,Muscle Spasticity,D009128
+Chlorphenesin carbamate,DB14656,Muscle Spasticity,D009128
+Chlorzoxazone,DB00356,Muscle Spasticity,D009128
+Cyclobenzaprine,DB00924,Muscle Spasticity,D009128
+Diazepam,DB00829,Muscle Spasticity,D009128
+Baclofen,DB00181,Muscle Spasticity,D009128
+Baclofen,DB00181,Muscle Rigidity,D009127
+Clonidine,DB00575,Muscle Spasticity,D009128
+Hyoscyamine,DB00424,Muscle Rigidity,D009127
+Phenol,DB03255,Muscle Spasticity,D009128
+Oxybutynin,DB01062,"Urinary Bladder, Neurogenic",D001750
+Aminobenzoic acid,DB02362,Dermatomyositis,D003882
+Butacaine,DB11502,"Urinary Bladder, Neurogenic",D001750
+Benzoic acid,DB03793,Dermatomyositis,D003882
+Chlordiazepoxide,DB00475,Alcohol Withdrawal Delirium,D000430
+Diazepam,DB00829,Alcohol Withdrawal Delirium,D000430
+Baclofen,DB00181,"Urinary Bladder, Neurogenic",D001750
+Hyoscyamine,DB00424,"Urinary Bladder, Neurogenic",D001750
+Phenoxybenzamine,DB00925,"Urinary Bladder, Neurogenic",D001750
+Midodrine,DB00211,"Hypotension, Orthostatic",D007024
+Droxidopa,DB06262,"Hypotension, Orthostatic",D007024
+Droxidopa,DB06262,"Hypotension, Orthostatic",D007024
+Oxilofrine,DB11610,"Hypotension, Orthostatic",D007024
+Dihydroergotamine,DB00320,"Hypotension, Orthostatic",D007024
+Chlorpromazine,DB00477,Tetany,D013746
+Labetalol,DB00598,Tetany,D013746
+Isosorbide dinitrate,DB00883,Angina Pectoris,D000787
+Isosorbide mononitrate,DB01020,Angina Pectoris,D000787
+Metoprolol,DB00264,Angina Pectoris,D000787
+Molsidomine,DB09282,Angina Pectoris,D000787
+Molsidomine,DB09282,Angina Pectoris,D000787
+Nadolol,DB01203,Angina Pectoris,D000787
+Nicardipine,DB00622,Angina Pectoris,D000787
+Nicorandil,DB09220,Angina Pectoris,D000787
+Nifedipine,DB01115,Angina Pectoris,D000787
+Propranolol,DB00571,Angina Pectoris,D000787
+Ranolazine,DB00243,Angina Pectoris,D000787
+Atenolol,DB00335,Angina Pectoris,D000787
+Ivabradine,DB09083,Angina Pectoris,D000787
+Diltiazem,DB00343,Angina Pectoris,D000787
+Amyl Nitrite,DB01612,Angina Pectoris,D000787
+Dronedarone,DB04855,Angina Pectoris,D000787
+Erythrityl tetranitrate,DB01613,Angina Pectoris,D000787
+Pentaerythritol tetranitrate,DB06154,Angina Pectoris,D000787
+Nitroglycerin,DB00727,Angina Pectoris,D000787
+Acebutolol,DB01193,Angina Pectoris,D000787
+Bisoprolol,DB00612,Angina Pectoris,D000787
+Clopidogrel,DB00758,Angina Pectoris,D000787
+Digoxin,DB00390,Angina Pectoris,D000787
+Labetalol,DB00598,Angina Pectoris,D000787
+Papaverine,DB01113,Angina Pectoris,D000787
+Penbutolol,DB01359,Angina Pectoris,D000787
+Pindolol,DB00960,Angina Pectoris,D000787
+Timolol,DB00373,Angina Pectoris,D000787
+Nitroglycerin,DB00727,Angina Pectoris,D000787
+Mepyramine,DB06691,Dysmenorrhea,D004412
+Dexibuprofen,DB09213,Dysmenorrhea,D004412
+Dexpanthenol,DB09357,Gastroparesis,D018589
+Metoclopramide,DB01233,Gastroparesis,D018589
+Clonidine,DB00575,Dysmenorrhea,D004412
+Isoxsuprine,DB08941,Dysmenorrhea,D004412
+Piroxicam,DB00554,Dysmenorrhea,D004412
+Ketoconazole,DB01026,Dysmenorrhea,D004412
+Naphazoline,DB06711,Dysmenorrhea,D004412
+Solriamfetol,DB14754,"Sleep Apnea, Obstructive",D020181
+Armodafinil,DB06413,"Sleep Apnea, Obstructive",D020181
+Ranolazine,DB00243,"Angina, Stable",D060050
+Clopidogrel,DB00758,"Angina, Unstable",D000789
+Nicardipine,DB00622,"Angina, Stable",D060050
+Nifedipine,DB01115,"Angina, Unstable",D000789
+Nifedipine,DB01115,"Angina, Stable",D060050
+Nifedipine,DB01115,"Angina Pectoris, Variant",D000788
+Diltiazem,DB00343,"Angina Pectoris, Variant",D000788
+Thiamine,DB00152,Korsakoff Syndrome,D020915
+Carbetocin,DB01282,Prader-Willi Syndrome,D011218
+Nitroglycerin,DB00727,Diabetic Foot,D017719
+Epinephrine,DB00668,Anaphylaxis,D000707
+Epinephrine,DB00668,Hypotension,D007022
+Epinephrine,DB00668,Bronchiectasis,D001987
+Epinephrine,DB00668,"Glaucoma, Open-Angle",D005902
+Epinephrine,DB00668,Dyspnea,D004417
+Epinephrine,DB00668,Bronchitis,D001991
+Epinephrine,DB00668,Respiratory Sounds,D012135
+Epinephrine,DB00668,Pulmonary Emphysema,D011656
+Erlotinib,DB00530,"Carcinoma, Non-Small-Cell Lung",D002289
+Salbutamol,DB01001,Bronchial Spasm,D001986
+Escitalopram,DB01175,"Depressive Disorder, Major",D003865
+Esmolol,DB00187,Atrial Fibrillation,D001281
+Esmolol,DB00187,"Tachycardia, Supraventricular",D013617
+Esomeprazole,DB00736,Zollinger-Ellison Syndrome,D015043
+Esomeprazole,DB00736,"Esophagitis, Peptic",D004942
+Esomeprazole,DB00736,Gastroesophageal Reflux,D005764
+Esomeprazole,DB00736,Peptic Ulcer,D010437
+Esomeprazole,DB00736,Zollinger-Ellison Syndrome,D015043
+Esomeprazole,DB00736,"Esophagitis, Peptic",D004942
+Esomeprazole,DB00736,Gastroesophageal Reflux,D005764
+Esomeprazole,DB00736,Peptic Ulcer,D010437
+Alclofenac,DB13167,"Arthritis, Rheumatoid",D001172
+Ethambutol,DB00330,"Tuberculosis, Pulmonary",D014397
+Ethionamide,DB00609,"Tuberculosis, Pulmonary",D014397
+Etidronic acid,DB01077,Osteitis Deformans,D010001
+Etidronic acid,DB01077,"Ossification, Heterotopic",D009999
+Etodolac,DB00749,Osteoarthritis,D010003
+Etodolac,DB00749,"Arthritis, Juvenile",D001171
+Etodolac,DB00749,"Arthritis, Rheumatoid",D001172
+Etravirine,DB06414,HIV Infections,D015658
+Alendronic acid,DB00630,"Osteoporosis, Postmenopausal",D015663
+Alendronic acid,DB00630,Osteitis Deformans,D010001
+Famciclovir,DB00426,Herpes Zoster,D006562
+Famciclovir,DB00426,Herpes Zoster,D006562
+Famotidine,DB00927,"Esophagitis, Peptic",D004942
+Famotidine,DB00927,Duodenal Ulcer,D004381
+Famotidine,DB00927,Zollinger-Ellison Syndrome,D015043
+Famotidine,DB00927,Dyspepsia,D004415
+Famotidine,DB00927,Heartburn,D006356
+Famotidine,DB00927,Stomach Ulcer,D013276
+Famotidine,DB00927,Gastroesophageal Reflux,D005764
+Felodipine,DB01023,Hypertension,D006973
+Alfuzosin,DB00346,Prostatic Hyperplasia,D011470
+Fenofibrate,DB01039,Hypercholesterolemia,D006937
+Fenofibrate,DB01039,Hyperlipidemias,D006949
+Fenofibrate,DB01039,Hypertriglyceridemia,D015228
+Fenofibrate,DB01039,"Hyperlipidemia, Familial Combined",D006950
+Fenofibrate,DB01039,Hypoalphalipoproteinemias,D052456
+Fenofibrate,DB01039,Hypercholesterolemia,D006937
+Fenofibrate,DB01039,Hyperlipidemias,D006949
+Fenofibrate,DB01039,Hypertriglyceridemia,D015228
+Fenofibrate,DB01039,"Hyperlipidemia, Familial Combined",D006950
+Fenofibrate,DB01039,Hypoalphalipoproteinemias,D052456
+Fenoprofen,DB00573,"Arthritis, Rheumatoid",D001172
+Fenoprofen,DB00573,Osteoarthritis,D010003
+Flavoxate,DB01148,Nocturia,D053158
+Flavoxate,DB01148,Urinary Incontinence,D014549
+Flavoxate,DB01148,Dysuria,D053159
+Fluconazole,DB00196,"Candidiasis, Vulvovaginal",D002181
+Fluconazole,DB00196,"Candidiasis, Oral",D002180
+Fluconazole,DB00196,Candidemia,D058387
+Fondaparinux,DB00569,Pulmonary Embolism,D011655
+Fondaparinux,DB00569,Venous Thrombosis,D020246
+Formoterol,DB00983,Pulmonary Emphysema,D011656
+Allopurinol,DB00437,Gout,D006073
+Allopurinol,DB00437,"Arthritis, Gouty",D015210
+Allopurinol,DB00437,Hyperuricemia,D033461
+Fosfomycin,DB00828,Urinary Tract Infections,D014552
+Furosemide,DB00695,Edema,D004487
+Furosemide,DB00695,Hypertension,D006973
+Almitrine,DB01430,"Pulmonary Disease, Chronic Obstructive",D029424
+Gefitinib,DB00317,"Carcinoma, Non-Small-Cell Lung",D002289
+Gemfibrozil,DB01241,Hypertriglyceridemia,D015228
+Gimeracil,DB09257,Stomach Neoplasms,D013274
+Gliclazide,DB01120,"Diabetes Mellitus, Type 2",D003924
+Sodium glycerophosphate,DB09561,Hypophosphatemia,D017674
+Glycine,DB00145,Cough,D003371
+Glycine,DB00145,"Rhinitis, Allergic",D065631
+Glycine,DB00145,Rhinitis,D012220
+Glycine,DB00145,Common Cold,D003139
+Glymidine,DB01382,"Diabetes Mellitus, Type 2",D003924
+Goserelin,DB00014,Endometriosis,D004715
+Guaiacol,DB11359,Common Cold,D003139
+Guaiacol,DB11359,Cough,D003371
+Guaiacol,DB11359,Rhinitis,D012220
+Guaifenesin,DB00874,Fever,D005334
+Guaifenesin,DB00874,Rhinitis,D012220
+Guaifenesin,DB00874,Common Cold,D003139
+Guaifenesin,DB00874,"Rhinitis, Allergic",D065631
+Guaifenesin,DB00874,Cough,D003371
+Guanethidine,DB01170,Hypertension,D006973
+Haloprogin,DB00793,Tinea Pedis,D014008
+Histamine,DB05381,"Leukemia, Myeloid, Acute",D015470
+Histamine,DB05381,Osteoarthritis,D010003
+Hydrochlorothiazide,DB00999,Hypertension,D006973
+Hydrochlorothiazide,DB00999,Edema,D004487
+Hydrocodone,DB00956,Cough,D003371
+Hydrocodone,DB00956,Rhinitis,D012220
+Hydrocodone,DB00956,"Rhinitis, Allergic",D065631
+Hydrocodone,DB00956,Common Cold,D003139
+Hydromorphone,DB00327,Common Cold,D003139
+Hydromorphone,DB00327,Cough,D003371
+Hydroxychloroquine,DB01611,"Malaria, Vivax",D016780
+Hydroxychloroquine,DB01611,"Lupus Erythematosus, Systemic",D008180
+Hydroxychloroquine,DB01611,"Arthritis, Rheumatoid",D001172
+Hydroxychloroquine,DB01611,"Lupus Erythematosus, Discoid",D008179
+Hydroxychloroquine,DB01611,"Malaria, Falciparum",D016778
+Hydroxyzine,DB00557,"Conjunctivitis, Allergic",D003233
+Hydroxyzine,DB00557,Urticaria,D014581
+Hydroxyzine,DB00557,Pruritus,D011537
+Hydroxyzine,DB00557,"Dermatitis, Atopic",D003876
+Hydroxyzine,DB00557,"Rhinitis, Allergic",D065631
+Hyoscyamine,DB00424,Peptic Ulcer,D010437
+Hyoscyamine,DB00424,Sialorrhea,D012798
+Hyoscyamine,DB00424,Dysuria,D053159
+Altretamine,DB00488,Ovarian Neoplasms,D010051
+Icosapent ethyl,DB08887,Hypertriglyceridemia,D015228
+Icosapent ethyl,DB08887,Hypertriglyceridemia,D015228
+Idoxuridine,DB00249,"Keratitis, Herpetic",D016849
+Imatinib,DB00619,"Mastocytosis, Systemic",D034721
+Imatinib,DB00619,"Leukemia, Myeloid, Chronic-Phase",D015466
+Imatinib,DB00619,Blast Crisis,D001752
+Imatinib,DB00619,Hypereosinophilic Syndrome,D017681
+Imatinib,DB00619,Gastrointestinal Stromal Tumors,D046152
+Imipramine,DB00458,Depressive Disorder,D003866
+Imipramine,DB00458,Nocturnal Enuresis,D053206
+Imiquimod,DB00724,Condylomata Acuminata,D003218
+Imiquimod,DB00724,"Keratosis, Actinic",D055623
+Indapamide,DB00808,Hypertension,D006973
+Indapamide,DB00808,Edema,D004487
+Inositol nicotinate,DB08949,Pellagra,D010383
+Diiodohydroxyquinoline,DB09115,Amebiasis,D000562
+Ambroxol,DB06742,Pharyngitis,D010612
+Isocarboxazid,DB01247,"Depressive Disorder, Major",D003865
+Isoniazid,DB00951,"Tuberculosis, Pulmonary",D014397
+Isoprenaline,DB01064,Common Cold,D003139
+Isoprenaline,DB01064,"Cardiac Output, Low",D002303
+Isoprenaline,DB01064,Atrioventricular Block,D054537
+Isoprenaline,DB01064,Shock,D012769
+Isoprenaline,DB01064,Heart Arrest,D006323
+Isosorbide,DB09401,Ocular Hypertension,D009798
+Isoxsuprine,DB08941,Raynaud Disease,D011928
+Isoxsuprine,DB08941,Vascular Diseases,D014652
+Isradipine,DB00270,Hypertension,D006973
+Ketoconazole,DB01026,"Candidiasis, Oral",D002180
+Ketoconazole,DB01026,"Dermatitis, Seborrheic",D012628
+Ketoconazole,DB01026,Coccidioidomycosis,D003047
+Ketoconazole,DB01026,Chromoblastomycosis,D002862
+Ketoconazole,DB01026,Histoplasmosis,D006660
+Ketoconazole,DB01026,Tinea Versicolor,D014010
+Ketoconazole,DB01026,Paracoccidioidomycosis,D010229
+Ketoconazole,DB01026,"Candidiasis, Cutaneous",D002179
+Ketoconazole,DB01026,Blastomycosis,D001759
+Ketoconazole,DB01026,Tinea Pedis,D014008
+Ketoconazole,DB01026,Adrenocortical Hyperfunction,D000308
+Ketotifen,DB00920,"Conjunctivitis, Allergic",D003233
+Labetalol,DB00598,Hypertension,D006973
+Lactic acid,DB04398,Pruritus,D011537
+Lansoprazole,DB00448,Duodenal Ulcer,D004381
+Lansoprazole,DB00448,Stomach Ulcer,D013276
+Lansoprazole,DB00448,Zollinger-Ellison Syndrome,D015043
+Lansoprazole,DB00448,Gastroesophageal Reflux,D005764
+Lansoprazole,DB00448,Peptic Ulcer,D010437
+Levamisole,DB00848,Ascariasis,D001196
+Levamisole,DB00848,Ancylostomiasis,D000724
+Levocetirizine,DB06282,"Rhinitis, Allergic, Seasonal",D006255
+Levocetirizine,DB06282,"Rhinitis, Allergic",D065631
+Levosalbutamol,DB13139,Bronchial Spasm,D001986
+Levosimendan,DB00922,Heart Failure,D006333
+Lidocaine,DB00281,Premature Ejaculation,D061686
+Lidocaine,DB00281,Scabies,D012532
+Lidocaine,DB00281,Pruritus Ani,D011538
+Lidocaine,DB00281,Pruritus,D011537
+Lidocaine,DB00281,Hemorrhoids,D006484
+Lidocaine,DB00281,Urethritis,D014526
+Amiloride,DB00594,Edema,D004487
+Amiloride,DB00594,Hypertension,D006973
+Lindane,DB00431,Scabies,D012532
+Liothyronine,DB00279,"Goiter, Endemic",D006043
+Liothyronine,DB00279,Myxedema,D009230
+Liothyronine,DB00279,Congenital Hypothyroidism,D003409
+Liothyronine,DB00279,Goiter,D006042
+Liothyronine,DB00279,Hypothyroidism,D007037
+Lomustine,DB01206,Hodgkin Disease,D006689
+Loperamide,DB00836,Diarrhea,D003967
+Loratadine,DB00455,Sneezing,D012912
+Loratadine,DB00455,"Rhinitis, Vasomotor",D012223
+Loratadine,DB00455,"Rhinitis, Allergic, Seasonal",D006255
+Loratadine,DB00455,Common Cold,D003139
+Loratadine,DB00455,"Conjunctivitis, Allergic",D003233
+Loratadine,DB00455,"Rhinitis, Allergic",D065631
+Loxapine,DB00408,Schizophrenia,D012559
+Loxapine,DB00408,Bipolar Disorder,D001714
+Loxoprofen,DB09212,"Arthritis, Rheumatoid",D001172
+Lumefantrine,DB06708,"Malaria, Falciparum",D016778
+Mandelic acid,DB13218,Urinary Tract Infections,D014552
+Maprotiline,DB00934,Depressive Disorder,D003866
+Masoprocol,DB00179,"Keratosis, Actinic",D055623
+Mebeverine,DB12554,Irritable Bowel Syndrome,D043183
+Mechlorethamine,DB00888,Hodgkin Disease,D006689
+Mechlorethamine,DB00888,Polycythemia Vera,D011087
+Mechlorethamine,DB00888,Lung Neoplasms,D008175
+Mechlorethamine,DB00888,"Lymphoma, Non-Hodgkin",D008228
+Mechlorethamine,DB00888,"Lymphoma, T-Cell, Cutaneous",D016410
+Mechlorethamine,DB00888,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Mechlorethamine,DB00888,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Mechlorethamine,DB00888,Mycosis Fungoides,D009182
+Aminolevulinic acid,DB00855,"Keratosis, Actinic",D055623
+Meprobamate,DB00371,Anxiety,D001007
+Mercaptopurine,DB01033,"Leukemia, Promyelocytic, Acute",D015473
+Mesoridazine,DB00933,Schizophrenia,D012559
+Orciprenaline,DB00816,Bronchitis,D001991
+Orciprenaline,DB00816,Pulmonary Emphysema,D011656
+Orciprenaline,DB00816,Asthma,D001249
+Metaraminol,DB00610,Hypotension,D007022
+Metformin,DB00331,"Diabetes Mellitus, Type 2",D003924
+Methazolamide,DB00703,"Glaucoma, Angle-Closure",D015812
+Methazolamide,DB00703,"Glaucoma, Open-Angle",D005902
+Methdilazine,DB00902,Pruritus,D011537
+Methdilazine,DB00902,"Rhinitis, Allergic",D065631
+Methdilazine,DB00902,Angioedema,D000799
+Methdilazine,DB00902,Urticaria,D014581
+Methdilazine,DB00902,"Conjunctivitis, Allergic",D003233
+Methdilazine,DB00902,Sneezing,D012912
+Methoxamine,DB00723,Hypotension,D007022
+Amiodarone,DB01118,Ventricular Fibrillation,D014693
+Methyldopa,DB00968,Hypertension,D006973
+Methylergometrine,DB00353,Postpartum Hemorrhage,D006473
+Naltrexone,DB00704,Alcoholism,D000437
+Naltrexone,DB00704,Obesity,D009765
+Meticrane,DB13284,Hypertension,D006973
+Metoclopramide,DB01233,Gastroesophageal Reflux,D005764
+Metolazone,DB00524,Hypertension,D006973
+Metoprolol,DB00264,Hypertension,D006973
+Metoprolol,DB00264,Myocardial Infarction,D009203
+Metoprolol,DB00264,Acute Coronary Syndrome,D054058
+Amisulpride,DB06288,Postoperative Nausea and Vomiting,D020250
+Metronidazole,DB00916,"Liver Abscess, Amebic",D008101
+Metronidazole,DB00916,"Endocarditis, Bacterial",D004697
+Metronidazole,DB00916,Trichomonas Infections,D014245
+Metronidazole,DB00916,Liver Abscess,D008100
+Metronidazole,DB00916,Intraabdominal Infections,D059413
+Metronidazole,DB00916,Peritonitis,D010538
+Metronidazole,DB00916,"Vaginosis, Bacterial",D016585
+Metronidazole,DB00916,Giardiasis,D005873
+Metronidazole,DB00916,Rosacea,D012393
+Metronidazole,DB00916,Abdominal Abscess,D018784
+Metronidazole,DB00916,Endometritis,D004716
+Mianserin,DB06148,"Depressive Disorder, Major",D003865
+Amitriptyline,DB00321,Depressive Disorder,D003866
+Miglitol,DB00491,"Diabetes Mellitus, Type 2",D003924
+Minoxidil,DB00350,Hypertension,D006973
+Minoxidil,DB00350,Alopecia,D000505
+Mirtazapine,DB00370,"Depressive Disorder, Major",D003865
+Moclobemide,DB01171,Depressive Disorder,D003866
+Moexipril,DB00691,Hypertension,D006973
+Moexipril,DB00691,Hypertension,D006973
+Mometasone furoate,DB14512,"Lymphoma, T-Cell, Cutaneous",D016410
+Mometasone furoate,DB14512,Neurodermatitis,D009450
+Mometasone furoate,DB14512,"Dermatitis, Seborrheic",D012628
+Mometasone furoate,DB14512,Asthma,D001249
+Mometasone furoate,DB14512,Pruritus Ani,D011538
+Mometasone furoate,DB14512,"Rhinitis, Allergic",D065631
+Mometasone furoate,DB14512,Exanthema,D005076
+Mometasone furoate,DB14512,"Dermatitis, Contact",D003877
+Mometasone furoate,DB14512,Granuloma Annulare,D016460
+Mometasone furoate,DB14512,"Dermatitis, Atopic",D003876
+Mometasone furoate,DB14512,"Lupus Erythematosus, Discoid",D008179
+Mometasone furoate,DB14512,"Lymphoma, T-Cell, Cutaneous",D016410
+Mometasone furoate,DB14512,Neurodermatitis,D009450
+Mometasone furoate,DB14512,"Dermatitis, Seborrheic",D012628
+Mometasone furoate,DB14512,Asthma,D001249
+Mometasone furoate,DB14512,Pruritus Ani,D011538
+Mometasone furoate,DB14512,"Rhinitis, Allergic",D065631
+Mometasone furoate,DB14512,Exanthema,D005076
+Mometasone furoate,DB14512,"Dermatitis, Contact",D003877
+Mometasone furoate,DB14512,Granuloma Annulare,D016460
+Mometasone furoate,DB14512,"Dermatitis, Atopic",D003876
+Mometasone furoate,DB14512,"Lupus Erythematosus, Discoid",D008179
+Montelukast,DB00471,"Rhinitis, Allergic",D065631
+Morphine,DB00295,Diarrhea,D003967
+Moxisylyte,DB09205,Erectile Dysfunction,D007172
+Moxisylyte,DB09205,Raynaud Disease,D011928
+Moxonidine,DB09242,Essential Hypertension,D000075222
+Mupirocin,DB00410,Impetigo,D007169
+Nabumetone,DB00461,Osteoarthritis,D010003
+Nabumetone,DB00461,"Arthritis, Rheumatoid",D001172
+Nadolol,DB01203,Hypertension,D006973
+Naftifine,DB00735,Tinea Pedis,D014008
+Nalmefene,DB06230,Alcoholism,D000437
+Naloxone,DB01183,Opioid-Related Disorders,D009293
+Nedocromil,DB00716,"Conjunctivitis, Allergic",D003233
+Nedocromil,DB00716,Asthma,D001249
+Nefazodone,DB01149,"Depressive Disorder, Major",D003865
+Nelfinavir,DB00220,HIV Infections,D015658
+Neostigmine,DB01400,Urinary Retention,D016055
+Nevirapine,DB00238,HIV Infections,D015658
+Nicotinamide,DB02701,Acne Vulgaris,D000152
+Nicotinamide,DB02701,Pellagra,D010383
+Nicardipine,DB00622,Hypertension,D006973
+Amoxapine,DB00543,Depressive Disorder,D003866
+Nicotine,DB00184,Pellagra,D010383
+Nicotine,DB00184,Tobacco Use Disorder,D014029
+Nifedipine,DB01115,Hypertension,D006973
+Nifurtimox,DB11820,Chagas Disease,D014355
+Nisoldipine,DB00401,Hypertension,D006973
+Norepinephrine,DB00368,Hypotension,D007022
+Norepinephrine,DB00368,Bronchitis,D001991
+Norepinephrine,DB00368,Asthma,D001249
+Norepinephrine,DB00368,Bronchiectasis,D001987
+Norepinephrine,DB00368,Pulmonary Emphysema,D011656
+Nortriptyline,DB00540,Depressive Disorder,D003866
+Olanzapine,DB00334,Bipolar Disorder,D001714
+Olanzapine,DB00334,"Depressive Disorder, Major",D003865
+Olanzapine,DB00334,Schizophrenia,D012559
+Omeprazole,DB00338,Stomach Ulcer,D013276
+Omeprazole,DB00338,Zollinger-Ellison Syndrome,D015043
+Omeprazole,DB00338,"Esophagitis, Peptic",D004942
+Omeprazole,DB00338,Gastroesophageal Reflux,D005764
+Omeprazole,DB00338,Duodenal Ulcer,D004381
+Omeprazole,DB00338,Peptic Ulcer,D010437
+Orlistat,DB01083,Obesity,D009765
+Oseltamivir,DB00198,"Influenza, Human",D007251
+Oseltamivir,DB00198,"Influenza, Human",D007251
+Oxamniquine,DB01096,Schistosomiasis,D012552
+Oxaprozin,DB00991,"Arthritis, Juvenile",D001171
+Oxaprozin,DB00991,Osteoarthritis,D010003
+Oxaprozin,DB00991,"Arthritis, Rheumatoid",D001172
+Oxyphencyclimine,DB00383,Peptic Ulcer,D010437
+Oxybutynin,DB01062,"Urinary Incontinence, Urge",D053202
+Pamidronic acid,DB00282,Osteitis Deformans,D010001
+Aminobenzoic acid,DB02362,Pemphigus,D010392
+Aminobenzoic acid,DB02362,Penile Induration,D010411
+Aminobenzoic acid,DB02362,"Scleroderma, Localized",D012594
+Aminosalicylic acid,DB00233,"Tuberculosis, Pulmonary",D014397
+Pantoprazole,DB00213,Zollinger-Ellison Syndrome,D015043
+Pantoprazole,DB00213,Gastroesophageal Reflux,D005764
+Pantoprazole,DB00213,Multiple Endocrine Neoplasia,D009377
+Pantoprazole,DB00213,Peptic Ulcer,D010437
+Papaverine,DB01113,Peripheral Vascular Diseases,D016491
+Pargyline,DB01626,Hypertension,D006973
+Pemirolast,DB00885,"Conjunctivitis, Allergic",D003233
+Pemirolast,DB00885,Asthma,D001249
+Pemirolast,DB00885,"Rhinitis, Allergic",D065631
+Pemoline,DB01230,Attention Deficit Disorder with Hyperactivity,D001289
+Penbutolol,DB01359,Hypertension,D006973
+Pentamidine,DB00738,"Trypanosomiasis, African",D014353
+Pentosan polysulfate,DB00686,"Cystitis, Interstitial",D018856
+Pentoxifylline,DB00806,Peripheral Vascular Diseases,D016491
+Perazine,DB12710,Anxiety,D001007
+Perazine,DB12710,Enterobiasis,D017229
+Perazine,DB12710,Schizophrenia,D012559
+Perazine,DB12710,Nausea,D009325
+Perazine,DB12710,Ascariasis,D001196
+Perazine,DB12710,Vomiting,D014839
+Perindopril,DB00790,Hypertension,D006973
+Perindopril,DB00790,Hypertension,D006973
+Perphenazine,DB00850,Schizophrenia,D012559
+Phenazopyridine,DB01438,Dysuria,D053159
+Phendimetrazine,DB01579,Obesity,D009765
+Phenelzine,DB00780,Depressive Disorder,D003866
+Pheniramine,DB01620,"Rhinitis, Allergic",D065631
+Pheniramine,DB01620,Fever,D005334
+Pheniramine,DB01620,"Rhinitis, Allergic, Seasonal",D006255
+Pheniramine,DB01620,Urticaria,D014581
+Pheniramine,DB01620,Pharyngitis,D010612
+Pheniramine,DB01620,Sneezing,D012912
+Pheniramine,DB01620,Common Cold,D003139
+Pheniramine,DB01620,"Conjunctivitis, Allergic",D003233
+Pheniramine,DB01620,Cough,D003371
+Pheniramine,DB01620,"Rhinitis, Vasomotor",D012223
+Pheniramine,DB01620,Pruritus,D011537
+Phenoxybenzamine,DB00925,Pheochromocytoma,D010673
+Phentermine,DB00191,Hypotension,D007022
+Phentermine,DB00191,Obesity,D009765
+Phenylephrine,DB00388,Cough,D003371
+Phenylephrine,DB00388,Sneezing,D012912
+Phenylephrine,DB00388,Fever,D005334
+Phenylephrine,DB00388,"Conjunctivitis, Allergic",D003233
+Phenylephrine,DB00388,Rhinitis,D012220
+Phenylephrine,DB00388,Proctitis,D011349
+Phenylephrine,DB00388,"Rhinitis, Allergic",D065631
+Phenylephrine,DB00388,Hemorrhoids,D006484
+Phenylephrine,DB00388,"Rhinitis, Allergic, Seasonal",D006255
+Phenylephrine,DB00388,"Rhinitis, Vasomotor",D012223
+Phenylephrine,DB00388,Common Cold,D003139
+Phenylephrine,DB00388,Pruritus Ani,D011538
+Phenyltoloxamine,DB11160,"Rhinitis, Allergic",D065631
+Phenyltoloxamine,DB11160,"Rhinitis, Vasomotor",D012223
+Phenyltoloxamine,DB11160,Urticaria,D014581
+Phenyltoloxamine,DB11160,Pruritus,D011537
+Phenyltoloxamine,DB11160,"Rhinitis, Allergic, Seasonal",D006255
+Phenyltoloxamine,DB11160,"Conjunctivitis, Allergic",D003233
+Physostigmine,DB00981,"Glaucoma, Open-Angle",D005902
+Pilocarpine,DB01085,Xerostomia,D014987
+Pilocarpine,DB01085,"Glaucoma, Open-Angle",D005902
+Pilocarpine,DB01085,Ocular Hypertension,D009798
+Pimecrolimus,DB00337,"Dermatitis, Atopic",D003876
+Pindolol,DB00960,Hypertension,D006973
+Pioglitazone,DB01132,"Diabetes Mellitus, Type 2",D003924
+Pirbuterol,DB01291,Lung Diseases,D008171
+Pirbuterol,DB01291,Bronchiectasis,D001987
+Pirbuterol,DB01291,Pulmonary Emphysema,D011656
+Pirbuterol,DB01291,Asthma,D001249
+Pirbuterol,DB01291,Bronchitis,D001991
+Pirenzepine,DB00670,Peptic Ulcer,D010437
+Piretanide,DB02925,Edema,D004487
+Piretanide,DB02925,Hypertension,D006973
+Piroxicam,DB00554,Osteoarthritis,D010003
+Piroxicam,DB00554,"Arthritis, Rheumatoid",D001172
+Pralidoxime,DB00733,Organophosphate Poisoning,D062025
+Antazoline,DB08799,"Rhinitis, Vasomotor",D012223
+Antazoline,DB08799,Pruritus,D011537
+Antazoline,DB08799,Sneezing,D012912
+Antazoline,DB08799,"Conjunctivitis, Allergic",D003233
+Antazoline,DB08799,Urticaria,D014581
+Antazoline,DB08799,"Rhinitis, Allergic",D065631
+Praziquantel,DB01058,Opisthorchiasis,D009889
+Praziquantel,DB01058,Schistosomiasis,D012552
+Prednisolone acetate,DB15566,"Conjunctivitis, Bacterial",D003234
+Prednisolone acetate,DB15566,Iridocyclitis,D015863
+Prednisolone acetate,DB15566,Uveitis,D014605
+Prednisolone acetate,DB15566,"Conjunctivitis, Bacterial",D003234
+Prednisolone acetate,DB15566,Iridocyclitis,D015863
+Prednisolone acetate,DB15566,Uveitis,D014605
+Prilocaine,DB00750,Premature Ejaculation,D061686
+Primaquine,DB01087,"Malaria, Vivax",D016780
+Probenecid,DB01032,"Arthritis, Gouty",D015210
+Probenecid,DB01032,Hyperuricemia,D033461
+Probucol,DB01599,Hypercholesterolemia,D006937
+Probucol,DB01599,Hyperlipidemias,D006949
+Procarbazine,DB01168,Hodgkin Disease,D006689
+Prochlorperazine,DB00433,Schizophrenia,D012559
+Proguanil,DB01131,"Malaria, Falciparum",D016778
+Promethazine,DB01069,"Rhinitis, Allergic, Seasonal",D006255
+Promethazine,DB01069,"Rhinitis, Vasomotor",D012223
+Promethazine,DB01069,Urticaria,D014581
+Promethazine,DB01069,"Conjunctivitis, Allergic",D003233
+Apraclonidine,DB00964,"Glaucoma, Open-Angle",D005902
+Propafenone,DB01182,Atrial Fibrillation,D001281
+Propranolol,DB00571,Hemangioma,D006391
+Propranolol,DB00571,"Cardiomyopathy, Hypertrophic, Familial",D024741
+Propranolol,DB00571,Atrial Fibrillation,D001281
+Propranolol,DB00571,"Tachycardia, Supraventricular",D013617
+Propranolol,DB00571,"Cardiomyopathy, Hypertrophic",D002312
+Propranolol,DB00571,Hypertension,D006973
+Propylthiouracil,DB00550,Thyroid Crisis,D013958
+Propylthiouracil,DB00550,Hyperthyroidism,D006980
+Protriptyline,DB00344,Depressive Disorder,D003866
+Pseudoephedrine,DB00852,"Conjunctivitis, Allergic",D003233
+Pseudoephedrine,DB00852,"Rhinitis, Allergic, Seasonal",D006255
+Pseudoephedrine,DB00852,"Rhinitis, Vasomotor",D012223
+Pseudoephedrine,DB00852,"Rhinitis, Allergic",D065631
+Pseudoephedrine,DB00852,Rhinitis,D012220
+Pseudoephedrine,DB00852,Common Cold,D003139
+Pyrazinamide,DB00339,"Tuberculosis, Pulmonary",D014397
+Mepyramine,DB06691,Sneezing,D012912
+Mepyramine,DB06691,Pruritus,D011537
+Mepyramine,DB06691,Common Cold,D003139
+Mepyramine,DB06691,"Conjunctivitis, Allergic",D003233
+Mepyramine,DB06691,"Rhinitis, Allergic, Seasonal",D006255
+Mepyramine,DB06691,"Rhinitis, Allergic",D065631
+Mepyramine,DB06691,"Rhinitis, Vasomotor",D012223
+Mepyramine,DB06691,Urticaria,D014581
+Quetiapine,DB01224,Schizophrenia,D012559
+Quetiapine,DB01224,Bipolar Disorder,D001714
+Quinapril,DB00881,Hypertension,D006973
+Quinapril,DB00881,Hypertension,D006973
+Rabeprazole,DB01129,Multiple Endocrine Neoplasia,D009377
+Rabeprazole,DB01129,Zollinger-Ellison Syndrome,D015043
+Rabeprazole,DB01129,"Mastocytosis, Systemic",D034721
+Rabeprazole,DB01129,Gastroesophageal Reflux,D005764
+Rabeprazole,DB01129,Duodenal Ulcer,D004381
+Rabeprazole,DB01129,Peptic Ulcer,D010437
+Ramipril,DB00178,Hypertension,D006973
+Ramipril,DB00178,Hypertension,D006973
+Repaglinide,DB00912,"Diabetes Mellitus, Type 2",D003924
+Rilmenidine,DB11738,Hypertension,D006973
+Risedronic acid,DB00884,Osteitis Deformans,D010001
+Risedronic acid,DB00884,"Osteoporosis, Postmenopausal",D015663
+Risedronic acid,DB00884,Osteoporosis,D010024
+Risperidone,DB00734,Schizophrenia,D012559
+Risperidone,DB00734,Autistic Disorder,D001321
+Ritodrine,DB00867,"Obstetric Labor, Premature",D007752
+Aripiprazole,DB01238,Autistic Disorder,D001321
+Aripiprazole,DB01238,Schizophrenia,D012559
+Secnidazole,DB12834,"Vaginosis, Bacterial",D016585
+Secnidazole,DB12834,Giardiasis,D005873
+Secnidazole,DB12834,Trichomonas Infections,D014245
+Selegiline,DB01037,"Depressive Disorder, Major",D003865
+Solifenacin,DB01591,"Urinary Incontinence, Urge",D053202
+Sotalol,DB00489,Atrial Fibrillation,D001281
+Artesunate,DB09274,"Malaria, Falciparum",D016778
+Artesunate,DB09274,"Malaria, Vivax",D016780
+Succinic acid,DB00139,"Anemia, Iron-Deficiency",D018798
+Sulfacetamide,DB00634,Trachoma,D014141
+Sulfacetamide,DB00634,Uveitis,D014605
+Sulfacetamide,DB00634,Acne Vulgaris,D000152
+Sulfacetamide,DB00634,"Conjunctivitis, Inclusion",D003235
+Sulfacetamide,DB00634,Amebiasis,D000562
+Sulfacetamide,DB00634,Iridocyclitis,D015863
+Sulfacetamide,DB00634,Vulvovaginitis,D014848
+Sulfacetamide,DB00634,"Dermatitis, Seborrheic",D012628
+Sulfadiazine,DB00359,Toxoplasmosis,D014123
+Sulfadiazine,DB00359,Chorioretinitis,D002825
+Sulfadiazine,DB00359,"Colitis, Ulcerative",D003093
+Sulfadiazine,DB00359,Skin Ulcer,D012883
+Sulfamethoxazole,DB01015,"Dysentery, Bacillary",D004405
+Sulfamethoxazole,DB01015,Toxoplasmosis,D014123
+Sulfamethoxazole,DB01015,Nocardia Infections,D009617
+Sulfamethoxazole,DB01015,"Conjunctivitis, Inclusion",D003235
+Sulfanilamide,DB00259,Vulvovaginitis,D014848
+Sulfanilamide,DB00259,"Candidiasis, Vulvovaginal",D002181
+Sulfapyridine,DB00891,Dermatitis Herpetiformis,D003874
+Sulfathiazole,DB06147,Vulvovaginitis,D014848
+Sulindac,DB00605,"Spondylitis, Ankylosing",D013167
+Sulindac,DB00605,"Arthritis, Rheumatoid",D001172
+Sulindac,DB00605,Osteoarthritis,D010003
+Sulindac,DB00605,"Arthritis, Gouty",D015210
+Sulindac,DB00605,Bursitis,D002062
+Atenolol,DB00335,Myocardial Infarction,D009203
+Atenolol,DB00335,Hypertension,D006973
+Atomoxetine,DB00289,Attention Deficit Disorder with Hyperactivity,D001289
+Tamoxifen,DB00675,"Carcinoma, Ductal, Breast",D018270
+Tamsulosin,DB00706,Prostatic Hyperplasia,D011470
+Tazarotene,DB00799,Acne Vulgaris,D000152
+Tazarotene,DB00799,Psoriasis,D011565
+Tazobactam,DB01606,Appendicitis,D001064
+Tazobactam,DB01606,"Pneumonia, Bacterial",D018410
+Tazobactam,DB01606,Peritonitis,D010538
+Tazobactam,DB01606,Abdominal Abscess,D018784
+Tazobactam,DB01606,Staphylococcal Infections,D013203
+Temozolomide,DB00853,Astrocytoma,D001254
+Tenofovir disoproxil,DB00300,HIV Infections,D015658
+Tenofovir disoproxil,DB00300,"Hepatitis B, Chronic",D019694
+Tenofovir disoproxil,DB00300,HIV Infections,D015658
+Tenofovir disoproxil,DB00300,"Hepatitis B, Chronic",D019694
+Tenoxicam,DB00469,Arthritis,D001168
+Terbinafine,DB00857,Onychomycosis,D014009
+Terbinafine,DB00857,Tinea Pedis,D014008
+Terbinafine,DB00857,Tinea Versicolor,D014010
+Terbinafine,DB00857,Tinea Capitis,D014006
+Terbutaline,DB00871,Pulmonary Emphysema,D011656
+Terbutaline,DB00871,Pruritus,D011537
+Terbutaline,DB00871,Dry Eye Syndromes,D015352
+Terbutaline,DB00871,Asthma,D001249
+Terbutaline,DB00871,Bronchitis,D001991
+Terconazole,DB00251,"Candidiasis, Vulvovaginal",D002181
+Tetracaine,DB09085,Pruritus,D011537
+Theophylline,DB00277,Lung Diseases,D008171
+Theophylline,DB00277,Asthma,D001249
+Theophylline,DB00277,Bronchitis,D001991
+Theophylline,DB00277,Pulmonary Emphysema,D011656
+Theophylline,DB00277,Bronchial Spasm,D001986
+Theophylline,DB00277,Lung Diseases,D008171
+Theophylline,DB00277,Asthma,D001249
+Theophylline,DB00277,Bronchitis,D001991
+Theophylline,DB00277,Pulmonary Emphysema,D011656
+Theophylline,DB00277,Bronchial Spasm,D001986
+Thiabendazole,DB00730,Larva Migrans,D007815
+Thiabendazole,DB00730,Toxocariasis,D014120
+Thiabendazole,DB00730,Enterobiasis,D017229
+Thiabendazole,DB00730,Trichinellosis,D014235
+Thiabendazole,DB00730,Ascariasis,D001196
+Thiabendazole,DB00730,Trichuriasis,D014257
+Thiabendazole,DB00730,Strongyloidiasis,D013322
+Thiethylperazine,DB00372,Vomiting,D014839
+Thiethylperazine,DB00372,Nausea,D009325
+Thiotepa,DB04572,Hodgkin Disease,D006689
+Thiotepa,DB04572,Ovarian Neoplasms,D010051
+Thiotepa,DB04572,"Lymphoma, Non-Hodgkin",D008228
+Thiotepa,DB04572,Urinary Bladder Neoplasms,D001749
+Thiothixene,DB01623,Schizophrenia,D012559
+Levothyroxine,DB00451,Myxedema,D009230
+Levothyroxine,DB00451,Hyperlipidemias,D006949
+Levothyroxine,DB00451,Congenital Hypothyroidism,D003409
+Levothyroxine,DB00451,Hypothyroidism,D007037
+Levothyroxine,DB00451,Hashimoto Disease,D050031
+Levothyroxine,DB00451,Goiter,D006042
+Tiaprofenic acid,DB01600,Osteoarthritis,D010003
+Tiaprofenic acid,DB01600,"Arthritis, Rheumatoid",D001172
+Tiludronic acid,DB01133,Osteitis Deformans,D010001
+Tinidazole,DB00911,Trichomonas Infections,D014245
+Tinidazole,DB00911,"Vaginosis, Bacterial",D016585
+Tinidazole,DB00911,"Liver Abscess, Amebic",D008101
+Tinidazole,DB00911,Giardiasis,D005873
+Tiopronin,DB06823,Cystinuria,D003555
+Azathioprine,DB00993,"Arthritis, Rheumatoid",D001172
+Tolazamide,DB00839,"Diabetes Mellitus, Type 2",D003924
+Tolazoline,DB00797,Persistent Fetal Circulation Syndrome,D010547
+Tolazoline,DB00797,Vascular Diseases,D014652
+Azelaic acid,DB00548,Rosacea,D012393
+Azelaic acid,DB00548,Acne Vulgaris,D000152
+Tolterodine,DB01036,"Urinary Incontinence, Urge",D053202
+Tramadol,DB00193,Osteoarthritis,D010003
+Trandolapril,DB00519,Hypertension,D006973
+Trandolapril,DB00519,Hypertension,D006973
+Tranylcypromine,DB00752,"Depressive Disorder, Major",D003865
+Triamterene,DB00384,Hypertension,D006973
+Triamterene,DB00384,Edema,D004487
+Trichlormethiazide,DB01021,Hypertension,D006973
+Triclabendazole,DB12245,Fascioliasis,D005211
+Alimemazine,DB01246,Sneezing,D012912
+Alimemazine,DB01246,"Rhinitis, Allergic",D065631
+Alimemazine,DB01246,"Conjunctivitis, Allergic",D003233
+Alimemazine,DB01246,Angioedema,D000799
+Alimemazine,DB01246,Urticaria,D014581
+Alimemazine,DB01246,Pruritus,D011537
+Trimethobenzamide,DB00662,Vomiting,D014839
+Trimethobenzamide,DB00662,Nausea,D009325
+Trimethoprim,DB00440,Urinary Tract Infections,D014552
+Trimethoprim,DB00440,"Conjunctivitis, Bacterial",D003234
+Trimethoprim,DB00440,"Dysentery, Bacillary",D004405
+Trimipramine,DB00726,Depressive Disorder,D003866
+Trioxsalen,DB04571,Photosensitivity Disorders,D010787
+Trioxsalen,DB04571,Vitiligo,D014820
+Triprolidine,DB00427,"Rhinitis, Allergic, Seasonal",D006255
+Triprolidine,DB00427,"Rhinitis, Vasomotor",D012223
+Triprolidine,DB00427,Common Cold,D003139
+Triprolidine,DB00427,Urticaria,D014581
+Triprolidine,DB00427,Pruritus,D011537
+Triprolidine,DB00427,"Conjunctivitis, Allergic",D003233
+Triprolidine,DB00427,"Rhinitis, Allergic",D065631
+Troglitazone,DB00197,"Diabetes Mellitus, Type 2",D003924
+Aztreonam,DB00355,Intraabdominal Infections,D059413
+Aztreonam,DB00355,Serratia Infections,D016868
+Aztreonam,DB00355,Rhinoscleroma,D012226
+Aztreonam,DB00355,Enterobacteriaceae Infections,D004756
+Aztreonam,DB00355,Escherichia coli Infections,D004927
+Aztreonam,DB00355,Peritonitis,D010538
+Aztreonam,DB00355,Endometritis,D004716
+Aztreonam,DB00355,Urinary Tract Infections,D014552
+Uracil mustard,DB00791,"Lymphoma, Non-Hodgkin",D008228
+Uracil mustard,DB00791,Polycythemia Vera,D011087
+Uracil mustard,DB00791,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Uracil mustard,DB00791,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Valaciclovir,DB00577,Herpes Zoster,D006562
+Valaciclovir,DB00577,Herpes Labialis,D006560
+Valaciclovir,DB00577,Chickenpox,D002644
+Valaciclovir,DB00577,Herpes Genitalis,D006558
+Valsartan,DB00177,Hypertension,D006973
+Vancomycin,DB00512,"Endocarditis, Bacterial",D004697
+Vancomycin,DB00512,"Pneumonia, Staphylococcal",D011023
+Vancomycin,DB00512,Neonatal Sepsis,D000071074
+Vancomycin,DB00512,Staphylococcal Infections,D013203
+Vancomycin,DB00512,"Enterocolitis, Pseudomembranous",D004761
+Vardenafil,DB00862,Erectile Dysfunction,D007172
+Bacitracin,DB00626,Keratitis,D007634
+Venlafaxine,DB00285,"Phobia, Social",D000072861
+Venlafaxine,DB00285,"Depressive Disorder, Major",D003865
+Venlafaxine,DB00285,Panic Disorder,D016584
+Thiamine,DB00152,Vitamin B 12 Deficiency,D014806
+Thiamine,DB00152,Avitaminosis,D001361
+Thiamine,DB00152,"Anemia, Pernicious",D000752
+Thiamine,DB00152,Thiamine Deficiency,D013832
+Pyridoxine,DB00165,Vitamin B 6 Deficiency,D026681
+Ziprasidone,DB00246,Schizophrenia,D012559
+Zofenopril,DB13166,Hypertension,D006973
+Zofenopril,DB13166,Hypertension,D006973
+Zoledronic acid,DB00399,Osteoporosis,D010024
+Zoledronic acid,DB00399,"Osteoporosis, Postmenopausal",D015663
+Zoledronic acid,DB00399,Osteitis Deformans,D010001
+Zuclopenthixol,DB01624,Schizophrenia,D012559
+Zuclopenthixol,DB01624,Schizophrenia,D012559
+Pyrantel,DB11156,Ascariasis,D001196
+Pyrantel,DB11156,Enterobiasis,D017229
+Bendamustine,DB06769,"Lymphoma, Follicular",D008224
+Bendamustine,DB06769,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Butacaine,DB11502,"Urinary Incontinence, Urge",D053202
+Butamben,DB11148,Pruritus,D011537
+Dantron,DB04816,Constipation,D003248
+Benznidazole,DB11989,Chagas Disease,D014355
+Benzocaine,DB01086,Cough,D003371
+Benzocaine,DB01086,Pharyngitis,D010612
+Benzocaine,DB01086,Pruritus,D011537
+Benzocaine,DB01086,Tinea Pedis,D014008
+Benzonatate,DB00868,Cough,D003371
+Hexamidine,DB03808,Acanthamoeba Keratitis,D015823
+Benzoyl peroxide,DB09096,"Dermatitis, Seborrheic",D012628
+Benzoyl peroxide,DB09096,"Dermatitis, Atopic",D003876
+Benzoyl peroxide,DB09096,Acne Vulgaris,D000152
+Benzoyl peroxide,DB09096,Exanthema,D005076
+Benzoyl peroxide,DB09096,Granuloma Annulare,D016460
+Benzoyl peroxide,DB09096,"Dermatitis, Contact",D003877
+Benzoyl peroxide,DB09096,Pruritus Ani,D011538
+Hydroquinone,DB09526,Melanosis,D008548
+Benzphetamine,DB00865,Obesity,D009765
+Iloperidone,DB04946,Schizophrenia,D012559
+Lenalidomide,DB00480,Multiple Myeloma,D009101
+Lenalidomide,DB00480,"Lymphoma, Mantle-Cell",D020522
+Benzyl alcohol,DB06770,Pruritus,D011537
+Methenamine,DB06799,Urinary Tract Infections,D014552
+Bepotastine,DB04890,"Conjunctivitis, Allergic",D003233
+Undecylenic acid,DB11117,Tinea Pedis,D014008
+Betahistine,DB06698,Meniere Disease,D008575
+Betaine,DB06756,Cystitis,D003556
+Pramocaine,DB09345,Pruritus,D011537
+Pramocaine,DB09345,Proctitis,D011349
+Pramocaine,DB09345,Wounds and Injuries,D014947
+Pramocaine,DB09345,Otitis Externa,D010032
+Pramocaine,DB09345,Tinea Pedis,D014008
+Pramocaine,DB09345,Pruritus Ani,D011538
+Pramocaine,DB09345,Exanthema,D005076
+Pramocaine,DB09345,Burns,D002056
+Pramocaine,DB09345,Hemorrhoids,D006484
+Prucalopride,DB06480,Constipation,D003248
+Pyrithione,DB06815,"Rhinitis, Allergic",D065631
+Pyrithione,DB06815,"Dermatitis, Seborrheic",D012628
+Pyrithione,DB06815,Cough,D003371
+Pyrithione,DB06815,Common Cold,D003139
+Pyrithione,DB06815,"Rhinitis, Vasomotor",D012223
+Pyrithione,DB06815,Tinea Versicolor,D014010
+Sodium tetradecyl sulfate,DB00464,Varicose Veins,D014648
+Sodium tetradecyl sulfate,DB00464,Varicose Veins,D014648
+Sulfabenzamide,DB09355,Vulvovaginitis,D014848
+Betaxolol,DB00195,Hypertension,D006973
+Betaxolol,DB00195,Ocular Hypertension,D009798
+Betaxolol,DB00195,"Glaucoma, Open-Angle",D005902
+Bethanechol,DB01019,Urinary Retention,D016055
+Terazosin,DB01162,Prostatic Hyperplasia,D011470
+Terazosin,DB01162,Hypertension,D006973
+Tolnaftate,DB00525,Tinea Versicolor,D014010
+Tolnaftate,DB00525,Tinea Capitis,D014006
+Tolnaftate,DB00525,Tinea Pedis,D014008
+Bisacodyl,DB09020,Constipation,D003248
+Acamprosate,DB00659,Alcoholism,D000437
+Bisoprolol,DB00612,Hypertension,D006973
+Dexibuprofen,DB09213,Fever,D005334
+Dexibuprofen,DB09213,Osteoarthritis,D010003
+Dexibuprofen,DB09213,"Arthritis, Juvenile",D001171
+Dexibuprofen,DB09213,"Arthritis, Rheumatoid",D001172
+Brimonidine,DB00484,Rosacea,D012393
+Brimonidine,DB00484,"Glaucoma, Open-Angle",D005902
+Brimonidine,DB00484,Ocular Hypertension,D009798
+Brinzolamide,DB01194,Ocular Hypertension,D009798
+Brinzolamide,DB01194,"Glaucoma, Open-Angle",D005902
+Ivermectin,DB00602,Onchocerciasis,D009855
+Ivermectin,DB00602,Strongyloidiasis,D013322
+Acebutolol,DB01193,Hypertension,D006973
+Acebutolol,DB01193,Ventricular Premature Complexes,D018879
+Propylene glycol,DB01839,Dry Eye Syndromes,D015352
+Timolol,DB00373,Ocular Hypertension,D009798
+Timolol,DB00373,"Glaucoma, Open-Angle",D005902
+Timolol,DB00373,Hypertension,D006973
+Ascorbic acid,DB00126,Ascorbic Acid Deficiency,D001206
+Ascorbic acid,DB00126,Ascorbic Acid Deficiency,D001206
+Ascorbic acid,DB00126,Ascorbic Acid Deficiency,D001206
+Brompheniramine,DB00835,"Conjunctivitis, Allergic",D003233
+Brompheniramine,DB00835,"Rhinitis, Allergic",D065631
+Brompheniramine,DB00835,"Rhinitis, Allergic, Seasonal",D006255
+Brompheniramine,DB00835,Urticaria,D014581
+Brompheniramine,DB00835,Pruritus,D011537
+Brompheniramine,DB00835,"Rhinitis, Vasomotor",D012223
+Dronedarone,DB04855,Atrial Fibrillation,D001281
+Prasugrel,DB06209,Acute Coronary Syndrome,D054058
+Asenapine,DB06216,Schizophrenia,D012559
+Vorinostat,DB02546,"Lymphoma, T-Cell, Cutaneous",D016410
+Lisdexamfetamine,DB01255,Attention Deficit Disorder with Hyperactivity,D001289
+Lisdexamfetamine,DB01255,Binge-Eating Disorder,D056912
+Paliperidone,DB01267,Psychotic Disorders,D011618
+Paliperidone,DB01267,Schizophrenia,D012559
+Buclizine,DB00354,Motion Sickness,D009041
+Dexlansoprazole,DB05351,Gastroesophageal Reflux,D005764
+Dexlansoprazole,DB05351,Peptic Ulcer,D010437
+Alcaftadine,DB06766,"Conjunctivitis, Allergic",D003233
+Eribulin,DB08871,Liposarcoma,D008080
+Rilpivirine,DB08864,HIV Infections,D015658
+Ticagrelor,DB08816,Peripheral Vascular Diseases,D016491
+Ticagrelor,DB08816,Acute Coronary Syndrome,D054058
+Deferiprone,DB08826,beta-Thalassemia,D017086
+Deferiprone,DB08826,Iron Overload,D019190
+Ruxolitinib,DB08877,Polycythemia Vera,D011087
+Ruxolitinib,DB08877,Myeloproliferative Disorders,D009196
+Fesoterodine,DB06702,"Urinary Incontinence, Urge",D053202
+Fesoterodine,DB06702,"Urinary Incontinence, Urge",D053202
+Prazosin,DB00457,Hypertension,D006973
+Pirfenidone,DB04951,Pulmonary Fibrosis,D011658
+Axitinib,DB06626,"Carcinoma, Renal Cell",D002292
+Ivacaftor,DB08820,Cystic Fibrosis,D003550
+Octinoxate,DB09496,Melanosis,D008548
+Zinc oxide,DB09321,Exanthema,D005076
+Zinc oxide,DB09321,Tinea Versicolor,D014010
+Zinc oxide,DB09321,"Candidiasis, Cutaneous",D002179
+Zinc oxide,DB09321,Pruritus,D011537
+Zinc oxide,DB09321,Pruritus Ani,D011538
+Zinc oxide,DB09321,Burns,D002056
+Zinc oxide,DB09321,Hemorrhoids,D006484
+Zinc oxide,DB09321,Diaper Rash,D003963
+Zinc oxide,DB09321,Wounds and Injuries,D014947
+Zinc oxide,DB09321,Proctitis,D011349
+Zinc oxide,DB09321,Tinea Pedis,D014008
+Polymyxin B,DB00781,Uveitis,D014605
+Polymyxin B,DB00781,"Conjunctivitis, Bacterial",D003234
+Polymyxin B,DB00781,Urinary Tract Infections,D014552
+Polymyxin B,DB00781,Otitis Externa,D010032
+Polymyxin B,DB00781,Keratitis,D007634
+Nitrogen,DB09152,Persistent Fetal Circulation Syndrome,D010547
+Phenol,DB03255,Pruritus,D011537
+Allantoin,DB11100,Pruritus,D011537
+Allantoin,DB11100,"Dermatitis, Seborrheic",D012628
+Allantoin,DB11100,Psoriasis,D011565
+Zinc acetate,DB14487,Exanthema,D005076
+Zinc acetate,DB14487,Proctitis,D011349
+Zinc acetate,DB14487,Diaper Rash,D003963
+Zinc acetate,DB14487,Otitis Externa,D010032
+Zinc acetate,DB14487,Hemorrhoids,D006484
+Zinc acetate,DB14487,Burns,D002056
+Zinc acetate,DB14487,Pruritus,D011537
+Zinc acetate,DB14487,Wounds and Injuries,D014947
+Bumetanide,DB00887,Edema,D004487
+Selenium Sulfide,DB00971,"Dermatitis, Seborrheic",D012628
+Selenium Sulfide,DB00971,Tinea Versicolor,D014010
+Silicon dioxide,DB11132,Heartburn,D006356
+Silicon dioxide,DB11132,Dyspepsia,D004415
+Silicon dioxide,DB11132,Gastroesophageal Reflux,D005764
+Silicon dioxide,DB11132,Peptic Ulcer,D010437
+Silicon dioxide,DB11132,Flatulence,D005414
+Cobicistat,DB09065,HIV Infections,D015658
+Aceclofenac,DB06736,"Arthritis, Rheumatoid",D001172
+Aceclofenac,DB06736,"Spondylitis, Ankylosing",D013167
+Aceclofenac,DB06736,Osteoarthritis,D010003
+Levobunolol,DB01210,Ocular Hypertension,D009798
+Levobunolol,DB01210,"Glaucoma, Open-Angle",D005902
+Aceclidine,DB13262,"Glaucoma, Open-Angle",D005902
+Bupivacaine,DB00297,Pruritus,D011537
+Buprenorphine,DB00921,Opioid-Related Disorders,D009293
+Almasilate,DB13595,Gastroesophageal Reflux,D005764
+Almasilate,DB13595,Peptic Ulcer,D010437
+Almasilate,DB13595,Dyspepsia,D004415
+Almasilate,DB13595,Heartburn,D006356
+Zinc gluconate,DB11248,Ascorbic Acid Deficiency,D001206
+Bupropion,DB01156,Tobacco Use Disorder,D014029
+Bupropion,DB01156,Depressive Disorder,D003866
+Bupropion,DB01156,"Depressive Disorder, Major",D003865
+Bupropion,DB01156,Seasonal Affective Disorder,D016574
+Bupropion,DB01156,Obesity,D009765
+Bosutinib,DB06616,Blast Crisis,D001752
+Desvenlafaxine,DB06700,"Depressive Disorder, Major",D003865
+Calcium lactate,DB13231,Heart Arrest,D006323
+Calcium lactate,DB13231,Hypocalcemia,D006996
+Calcium lactate,DB13231,"Osteoporosis, Postmenopausal",D015663
+Calcium lactate,DB13231,Hyperkalemia,D006947
+Calcium lactate,DB13231,Osteoporosis,D010024
+Plerixafor,DB06809,Multiple Myeloma,D009101
+Colistin,DB00803,Escherichia coli Infections,D004927
+Colistin,DB00803,Otitis Externa,D010032
+Calcium glucoheptonate,DB00326,Hyperkalemia,D006947
+Calcium glucoheptonate,DB00326,Hypocalcemia,D006996
+Calcium glucoheptonate,DB00326,Heart Arrest,D006323
+Butenafine,DB01091,Tinea Versicolor,D014010
+Butenafine,DB01091,Tinea Pedis,D014008
+Esketamine,DB11823,Depressive Disorder,D003866
+Ammonium lactate,DB06768,"Dermatitis, Seborrheic",D012628
+Ammonium lactate,DB06768,Exanthema,D005076
+Ammonium lactate,DB06768,Pruritus Ani,D011538
+Ammonium lactate,DB06768,"Dermatitis, Contact",D003877
+Ammonium lactate,DB06768,Pruritus,D011537
+Ammonium lactate,DB06768,"Dermatitis, Atopic",D003876
+Ammonium lactate,DB06768,Granuloma Annulare,D016460
+Carfilzomib,DB08889,Multiple Myeloma,D009101
+Butoconazole,DB00639,"Candidiasis, Vulvovaginal",D002181
+Lithium citrate,DB14507,Bipolar Disorder,D001714
+Magnesium gluconate,DB13749,Dyspepsia,D004415
+Magnesium gluconate,DB13749,Constipation,D003248
+Potassium gluconate,DB13620,Hypokalemia,D007008
+Ubidecarenone,DB09270,Heart Failure,D006333
+Polidocanol,DB06811,Varicose Veins,D014648
+Phenylacetic acid,DB09269,Hyperammonemia,D022124
+Trabectedin,DB05109,Ovarian Neoplasms,D010051
+Trabectedin,DB05109,Liposarcoma,D008080
+Trabectedin,DB05109,Leiomyosarcoma,D007890
+Benzoic acid,DB03793,"Scleroderma, Localized",D012594
+Benzoic acid,DB03793,Penile Induration,D010411
+Benzoic acid,DB03793,Pemphigus,D010392
+Benzoic acid,DB03793,Hyperammonemia,D022124
+Omacetaxine mepesuccinate,DB04865,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Sodium aurothiomalate,DB09276,"Arthritis, Rheumatoid",D001172
+Sodium aurothiomalate,DB09276,"Arthritis, Juvenile",D001171
+Tofacitinib,DB08895,"Arthritis, Rheumatoid",D001172
+Ospemifene,DB04938,Dyspareunia,D004414
+Cetyl alcohol,DB09494,"Respiratory Distress Syndrome, Newborn",D012127
+Levobetaxolol,DB09351,"Glaucoma, Open-Angle",D005902
+Levobetaxolol,DB09351,Ocular Hypertension,D009798
+Vilanterol,DB09082,Asthma,D001249
+Vilanterol,DB09082,"Bronchitis, Chronic",D029481
+Vilanterol,DB09082,Pulmonary Emphysema,D011656
+Vilanterol,DB09082,"Pulmonary Disease, Chronic Obstructive",D029424
+Vortioxetine,DB09068,"Depressive Disorder, Major",D003865
+Sofosbuvir,DB08934,"Hepatitis C, Chronic",D019698
+Luliconazole,DB08933,Tinea Pedis,D014008
+Apremilast,DB05676,"Arthritis, Psoriatic",D015535
+Calcium levulinate,DB13800,Hypocalcemia,D006996
+Levomilnacipran,DB08918,"Depressive Disorder, Major",D003865
+Efinaconazole,DB09040,Onychomycosis,D014009
+Olaparib,DB09074,Ovarian Neoplasms,D010051
+Alectinib,DB11363,"Carcinoma, Non-Small-Cell Lung",D002289
+Pentoxyverine,DB11186,"Rhinitis, Vasomotor",D012223
+Pentoxyverine,DB11186,Rhinitis,D012220
+Pentoxyverine,DB11186,Common Cold,D003139
+Pentoxyverine,DB11186,"Rhinitis, Allergic",D065631
+Pentoxyverine,DB11186,Cough,D003371
+Arformoterol,DB01274,"Pulmonary Disease, Chronic Obstructive",D029424
+Arformoterol,DB01274,"Bronchitis, Chronic",D029481
+Arformoterol,DB01274,Pulmonary Emphysema,D011656
+Tenofovir alafenamide,DB09299,HIV Infections,D015658
+Tenofovir alafenamide,DB09299,HIV Infections,D015658
+Avibactam,DB09060,Pyelonephritis,D011704
+Avibactam,DB09060,Intraabdominal Infections,D059413
+Carbetocin,DB01282,Uterine Inertia,D014593
+Carbinoxamine,DB00748,"Rhinitis, Allergic, Seasonal",D006255
+Carbinoxamine,DB00748,Pruritus,D011537
+Carbinoxamine,DB00748,Urticaria,D014581
+Carbinoxamine,DB00748,"Rhinitis, Vasomotor",D012223
+Carbinoxamine,DB00748,"Rhinitis, Allergic",D065631
+Carbinoxamine,DB00748,Common Cold,D003139
+Carbinoxamine,DB00748,"Conjunctivitis, Allergic",D003233
+Sonidegib,DB09143,"Carcinoma, Basal Cell",D002280
+Brexpiprazole,DB09128,Schizophrenia,D012559
+Brexpiprazole,DB09128,"Depressive Disorder, Major",D003865
+Cariprazine,DB06016,Schizophrenia,D012559
+Aripiprazole lauroxil,DB14185,Schizophrenia,D012559
+Aripiprazole lauroxil,DB14185,Schizophrenia,D012559
+Lusutrombopag,DB13125,Thrombocytopenia,D013921
+Ferric maltol,DB15598,"Anemia, Iron-Deficiency",D018798
+Carmustine,DB00262,Multiple Myeloma,D009101
+Carmustine,DB00262,Hodgkin Disease,D006689
+Carmustine,DB00262,"Lymphoma, Large B-Cell, Diffuse",D016403
+Carmustine,DB00262,"Lymphoma, Non-Hodgkin",D008228
+Carmustine,DB00262,Glioma,D005910
+Venetoclax,DB11581,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Gluconolactone,DB04564,Urinary Bladder Calculi,D001744
+Lifitegrast,DB11611,Dry Eye Syndromes,D015352
+Etelcalcetide,DB12865,"Hyperparathyroidism, Secondary",D006962
+Carteolol,DB00521,"Glaucoma, Open-Angle",D005902
+Carteolol,DB00521,Hypertension,D006973
+Carteolol,DB00521,Ocular Hypertension,D009798
+Deutetrabenazine,DB12161,Tardive Dyskinesia,D000071057
+Valbenazine,DB11915,Tardive Dyskinesia,D000071057
+Midostaurin,DB06595,"Leukemia, Myeloid, Acute",D015470
+Midostaurin,DB06595,"Mastocytosis, Systemic",D034721
+Midostaurin,DB06595,"Leukemia, Mast-Cell",D007946
+Tivozanib,DB11800,"Carcinoma, Renal Cell",D002292
+Acalabrutinib,DB11703,"Lymphoma, Mantle-Cell",D020522
+Latanoprostene bunod,DB11660,"Glaucoma, Open-Angle",D005902
+Latanoprostene bunod,DB11660,Ocular Hypertension,D009798
+Avatrombopag,DB11995,Thrombocytopenia,D013921
+Duvelisib,DB11952,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Duvelisib,DB11952,"Lymphoma, Follicular",D008224
+Cefazolin,DB01327,"Pneumonia, Staphylococcal",D011023
+Cefazolin,DB01327,"Pneumonia, Pneumococcal",D011018
+Cefazolin,DB01327,"Endocarditis, Bacterial",D004697
+Cefazolin,DB01327,"Pneumonia, Bacterial",D018410
+Cefazolin,DB01327,Cholangitis,D002761
+Revefenacin,DB11855,"Pulmonary Disease, Chronic Obstructive",D029424
+Gilteritinib,DB12141,"Leukemia, Myeloid, Acute",D015470
+Relebactam,DB12377,Urinary Tract Infections,D014552
+Relebactam,DB12377,Pyelonephritis,D011704
+Relebactam,DB12377,Intraabdominal Infections,D059413
+Lefamulin,DB12825,"Pneumonia, Bacterial",D018410
+Lefamulin,DB12825,"Pneumonia, Pneumococcal",D011018
+Lefamulin,DB12825,"Pneumonia, Mycoplasma",D011019
+Lefamulin,DB12825,Legionnaires' Disease,D007877
+Lefamulin,DB12825,"Pneumonia, Bacterial",D018410
+Lefamulin,DB12825,"Pneumonia, Pneumococcal",D011018
+Lefamulin,DB12825,"Pneumonia, Mycoplasma",D011019
+Lefamulin,DB12825,Legionnaires' Disease,D007877
+Lumateperone,DB06077,Schizophrenia,D012559
+Tazemetostat,DB12887,Sarcoma,D012509
+Cefoxitin,DB01331,Abdominal Abscess,D018784
+Cefoxitin,DB01331,"Pneumonia, Staphylococcal",D011023
+Cefoxitin,DB01331,Endometritis,D004716
+Cefoxitin,DB01331,Rhinoscleroma,D012226
+Cefoxitin,DB01331,Peritonitis,D010538
+Cefoxitin,DB01331,Intraabdominal Infections,D059413
+Cefoxitin,DB01331,Streptococcal Infections,D013290
+Cefoxitin,DB01331,"Pneumonia, Pneumococcal",D011018
+Cefoxitin,DB01331,"Pneumonia, Bacterial",D018410
+Cefoxitin,DB01331,Lung Abscess,D008169
+Cefoxitin,DB01331,Staphylococcal Infections,D013203
+Cefoxitin,DB01331,Escherichia coli Infections,D004927
+Cefoxitin,DB01331,Gonorrhea,D006069
+Acetazolamide,DB00819,"Glaucoma, Open-Angle",D005902
+Acetazolamide,DB00819,Edema,D004487
+Acetazolamide,DB00819,"Glaucoma, Angle-Closure",D015812
+Acetazolamide,DB00819,Altitude Sickness,D000532
+Acetohydroxamic acid,DB00551,Urinary Tract Infections,D014552
+Cetirizine,DB00341,"Conjunctivitis, Allergic",D003233
+Cetirizine,DB00341,"Rhinitis, Allergic, Seasonal",D006255
+Cetirizine,DB00341,Common Cold,D003139
+Cetirizine,DB00341,"Rhinitis, Allergic",D065631
+Cetirizine,DB00341,"Rhinitis, Vasomotor",D012223
+Cetirizine,DB00341,Sneezing,D012912
+Clofedanol,DB04837,Cough,D003371
+Clofedanol,DB04837,Common Cold,D003139
+Clofedanol,DB04837,"Rhinitis, Allergic",D065631
+Clofedanol,DB04837,"Rhinitis, Vasomotor",D012223
+Clofedanol,DB04837,Rhinitis,D012220
+Chlorambucil,DB00291,"Lymphoma, Follicular",D008224
+Chlorambucil,DB00291,Hodgkin Disease,D006689
+Chlorambucil,DB00291,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Chlorcyclizine,DB08936,Common Cold,D003139
+Chlorcyclizine,DB08936,"Rhinitis, Allergic, Seasonal",D006255
+Chlorcyclizine,DB08936,"Conjunctivitis, Allergic",D003233
+Chlorcyclizine,DB08936,"Rhinitis, Allergic",D065631
+Chlorcyclizine,DB08936,Sneezing,D012912
+Chlorcyclizine,DB08936,Cough,D003371
+Chlorcyclizine,DB08936,"Rhinitis, Vasomotor",D012223
+Chlordiazepoxide,DB00475,Anxiety,D001007
+Chlordiazepoxide,DB00475,Peptic Ulcer,D010437
+Chlordiazepoxide,DB00475,Irritable Bowel Syndrome,D043183
+Chlorhexidine,DB00878,Gingivitis,D005891
+Chlormezanone,DB01178,Anxiety,D001007
+Chloroquine,DB00608,"Arthritis, Rheumatoid",D001172
+Chloroquine,DB00608,"Malaria, Falciparum",D016778
+Chloroquine,DB00608,"Lupus Erythematosus, Systemic",D008180
+Chloroquine,DB00608,"Malaria, Vivax",D016780
+Chloroquine,DB00608,"Lupus Erythematosus, Discoid",D008179
+Chlorothiazide,DB00880,Edema,D004487
+Chlorothiazide,DB00880,Hypertension,D006973
+Chlorpromazine,DB00477,Schizophrenia,D012559
+Chlorpromazine,DB00477,"Porphyria, Acute Intermittent",D017118
+Chlorpromazine,DB00477,Psychotic Disorders,D011618
+Chlorpromazine,DB00477,Attention Deficit and Disruptive Behavior Disorders,D019958
+Chlorpropamide,DB00672,"Diabetes Mellitus, Type 2",D003924
+Chlorprothixene,DB01239,Schizophrenia,D012559
+Ciclopirox,DB01188,Onychomycosis,D014009
+Ciclopirox,DB01188,Tinea Versicolor,D014010
+Ciclopirox,DB01188,Tinea Pedis,D014008
+Ciclopirox,DB01188,"Dermatitis, Seborrheic",D012628
+Ciclopirox,DB01188,"Candidiasis, Cutaneous",D002179
+Cilazapril,DB01340,Hypertension,D006973
+Cilazapril,DB01340,Hypertension,D006973
+Cimetidine,DB00501,Duodenal Ulcer,D004381
+Cimetidine,DB00501,Dyspepsia,D004415
+Cimetidine,DB00501,Gastroesophageal Reflux,D005764
+Cimetidine,DB00501,Zollinger-Ellison Syndrome,D015043
+Cimetidine,DB00501,Heartburn,D006356
+Cimetidine,DB00501,"Mastocytosis, Systemic",D034721
+Cimetidine,DB00501,Multiple Endocrine Neoplasia,D009377
+Cimetidine,DB00501,Stomach Ulcer,D013276
+Citalopram,DB00215,"Depressive Disorder, Major",D003865
+Citalopram,DB00215,Depressive Disorder,D003866
+Citric acid,DB04272,Dyspepsia,D004415
+Clemastine,DB00283,Sneezing,D012912
+Clemastine,DB00283,Urticaria,D014581
+Clemastine,DB00283,"Rhinitis, Allergic",D065631
+Clemastine,DB00283,Pruritus,D011537
+Clemastine,DB00283,"Conjunctivitis, Allergic",D003233
+Clemastine,DB00283,"Rhinitis, Vasomotor",D012223
+Clevidipine,DB04920,Hypertension,D006973
+Clofibrate,DB00636,Hyperlipidemias,D006949
+Clomifene,DB00882,"Infertility, Female",D007247
+Clomipramine,DB01242,Obsessive-Compulsive Disorder,D009771
+Clonidine,DB00575,"Glaucoma, Open-Angle",D005902
+Clonidine,DB00575,Attention Deficit Disorder with Hyperactivity,D001289
+Clonidine,DB00575,Hypertension,D006973
+Clopidogrel,DB00758,Acute Coronary Syndrome,D054058
+Clotrimazole,DB00257,"Candidiasis, Vulvovaginal",D002181
+Clotrimazole,DB00257,Diaper Rash,D003963
+Clotrimazole,DB00257,"Candidiasis, Cutaneous",D002179
+Clotrimazole,DB00257,"Candidiasis, Oral",D002180
+Clotrimazole,DB00257,Tinea Pedis,D014008
+Clotrimazole,DB00257,Tinea Versicolor,D014010
+Codeine,DB00318,Sneezing,D012912
+Codeine,DB00318,Cough,D003371
+Codeine,DB00318,Common Cold,D003139
+Codeine,DB00318,Fever,D005334
+Codeine,DB00318,Pharyngitis,D010612
+Codeine,DB00318,Rhinitis,D012220
+Codeine,DB00318,"Rhinitis, Allergic",D065631
+Colchicine,DB01394,Familial Mediterranean Fever,D010505
+Colchicine,DB01394,Gout,D006073
+Acetylsalicylic acid,DB00945,"Arthritis, Rheumatoid",D001172
+Acetylsalicylic acid,DB00945,Osteoarthritis,D010003
+Acetylsalicylic acid,DB00945,Common Cold,D003139
+Acetylsalicylic acid,DB00945,Myocardial Infarction,D009203
+Crotamiton,DB00265,Scabies,D012532
+Crotamiton,DB00265,Pruritus,D011537
+Cyclophosphamide,DB00531,Lymphoma,D008223
+Cyclophosphamide,DB00531,Multiple Myeloma,D009101
+Cyclophosphamide,DB00531,Mycosis Fungoides,D009182
+Cyclophosphamide,DB00531,Neuroblastoma,D009447
+Cyclophosphamide,DB00531,Retinoblastoma,D012175
+Cyclophosphamide,DB00531,Breast Neoplasms,D001943
+Cycloserine,DB00260,"Tuberculosis, Pulmonary",D014397
+Acipimox,DB09055,Hyperlipoproteinemias,D006951
+Cyproheptadine,DB00434,"Conjunctivitis, Allergic",D003233
+Cyproheptadine,DB00434,Urticaria,D014581
+Cyproheptadine,DB00434,Sneezing,D012912
+Cyproheptadine,DB00434,"Rhinitis, Allergic",D065631
+Cyproheptadine,DB00434,Pruritus,D011537
+Cysteine,DB00151,Bronchitis,D001991
+Cysteine,DB00151,Amyloidosis,D000686
+Cysteine,DB00151,Cystic Fibrosis,D003550
+Cysteine,DB00151,Bronchiectasis,D001987
+Dacarbazine,DB00851,Hodgkin Disease,D006689
+Dapsone,DB00250,Acne Vulgaris,D000152
+Dapsone,DB00250,Leprosy,D007918
+Dapsone,DB00250,Dermatitis Herpetiformis,D003874
+Dasatinib,DB01254,Blast Crisis,D001752
+Dasatinib,DB01254,"Leukemia, Myeloid, Chronic-Phase",D015466
+Desipramine,DB01151,Depressive Disorder,D003866
+Desloratadine,DB00967,"Rhinitis, Vasomotor",D012223
+Desloratadine,DB00967,"Rhinitis, Allergic, Seasonal",D006255
+Desloratadine,DB00967,Sneezing,D012912
+Desloratadine,DB00967,"Conjunctivitis, Allergic",D003233
+Desloratadine,DB00967,Common Cold,D003139
+Desloratadine,DB00967,"Rhinitis, Allergic",D065631
+Acrivastine,DB09488,"Rhinitis, Allergic, Seasonal",D006255
+Acrivastine,DB09488,"Rhinitis, Vasomotor",D012223
+Acrivastine,DB09488,"Conjunctivitis, Allergic",D003233
+Acrivastine,DB09488,Sneezing,D012912
+Acrivastine,DB09488,Common Cold,D003139
+Acrivastine,DB09488,"Rhinitis, Allergic",D065631
+Dexbrompheniramine,DB00405,"Rhinitis, Vasomotor",D012223
+Dexbrompheniramine,DB00405,"Rhinitis, Allergic, Seasonal",D006255
+Dexbrompheniramine,DB00405,"Conjunctivitis, Allergic",D003233
+Dexbrompheniramine,DB00405,Pruritus,D011537
+Dexbrompheniramine,DB00405,Urticaria,D014581
+Dexbrompheniramine,DB00405,"Rhinitis, Allergic",D065631
+Dexmethylphenidate,DB06701,Attention Deficit Disorder with Hyperactivity,D001289
+Dexpanthenol,DB09357,Skin Diseases,D012871
+Dexpanthenol,DB09357,Diaper Rash,D003963
+Dexpanthenol,DB09357,Intestinal Pseudo-Obstruction,D007418
+Dexpanthenol,DB09357,Eczema,D004485
+Dextromethorphan,DB00514,Sneezing,D012912
+Dextromethorphan,DB00514,"Rhinitis, Allergic",D065631
+Dextromethorphan,DB00514,"Rhinitis, Vasomotor",D012223
+Dextromethorphan,DB00514,Cough,D003371
+Dextromethorphan,DB00514,Common Cold,D003139
+Dextromethorphan,DB00514,Fever,D005334
+Dextromethorphan,DB00514,Pharyngitis,D010612
+Dextromethorphan,DB00514,Rhinitis,D012220
+Diazepam,DB00829,Anxiety,D001007
+Diazepam,DB00829,Tetanus,D013742
+Diazoxide,DB01119,Hyperinsulinism,D006946
+Diazoxide,DB01119,Insulinoma,D007340
+Diazoxide,DB01119,Nesidioblastosis,D046768
+Cinchocaine,DB00527,Pruritus,D011537
+Dienestrol,DB00890,Dyspareunia,D004414
+Dienestrol,DB00890,Atrophic Vaginitis,D059268
+Diethylpropion,DB00937,Obesity,D009765
+Adefovir dipivoxil,DB00718,"Hepatitis B, Chronic",D019694
+Adefovir dipivoxil,DB00718,"Hepatitis B, Chronic",D019694
+Digoxin,DB00390,Atrial Fibrillation,D001281
+Dihydrocodeine,DB01551,"Rhinitis, Allergic",D065631
+Dihydrocodeine,DB01551,Rhinitis,D012220
+Dihydrocodeine,DB01551,Common Cold,D003139
+Dihydrocodeine,DB01551,Cough,D003371
+Diloxanide furoate,DB14638,Amebiasis,D000562
+Diloxanide furoate,DB14638,Amebiasis,D000562
+Diltiazem,DB00343,Hypertension,D006973
+Diltiazem,DB00343,Atrial Fibrillation,D001281
+Dimenhydrinate,DB00985,Vomiting,D014839
+Dimenhydrinate,DB00985,Motion Sickness,D009041
+Dimenhydrinate,DB00985,Nausea,D009325
+Diphenhydramine,DB01075,"Conjunctivitis, Allergic",D003233
+Diphenhydramine,DB01075,"Rhinitis, Vasomotor",D012223
+Diphenhydramine,DB01075,"Rhinitis, Allergic, Seasonal",D006255
+Diphenoxylate,DB01081,Diarrhea,D003967
+Adenosine phosphate,DB00131,Cystic Fibrosis,D003550
+Adenosine phosphate,DB00131,Cystic Fibrosis,D003550
+Disulfiram,DB00822,Alcoholism,D000437
+Levomenthol,DB00825,Tinea Versicolor,D014010
+Levomenthol,DB00825,Pruritus,D011537
+Levomenthol,DB00825,Diaper Rash,D003963
+Levomenthol,DB00825,"Dermatitis, Seborrheic",D012628
+Mannitol,DB00742,Ocular Hypertension,D009798
+Mannitol,DB00742,Edema,D004487
+Mannitol,DB00742,Cystic Fibrosis,D003550
+Docosanol,DB00632,Herpes Labialis,D006560
+Dofetilide,DB00204,Atrial Fibrillation,D001281
+Dopamine,DB00988,"Cardiac Output, Low",D002303
+Dopamine,DB00988,Hypotension,D007022
+Dorzolamide,DB00869,"Glaucoma, Open-Angle",D005902
+Dorzolamide,DB00869,Ocular Hypertension,D009798
+Dosulepin,DB09167,"Depressive Disorder, Major",D003865
+Doxapram,DB00561,Respiratory Insufficiency,D012131
+Doxazosin,DB00590,Hypertension,D006973
+Doxazosin,DB00590,Prostatic Hyperplasia,D011470
+Doxepin,DB01142,Bipolar Disorder,D001714
+Doxepin,DB01142,Anxiety,D001007
+Doxepin,DB01142,Depressive Disorder,D003866
+Doxepin,DB01142,Pruritus,D011537
+Doxepin,DB01142,"Dermatitis, Atopic",D003876
+Doxepin,DB01142,Neurodermatitis,D009450
+Doxylamine,DB00366,Pruritus,D011537
+Doxylamine,DB00366,"Conjunctivitis, Allergic",D003233
+Doxylamine,DB00366,"Rhinitis, Vasomotor",D012223
+Doxylamine,DB00366,Common Cold,D003139
+Doxylamine,DB00366,"Rhinitis, Allergic, Seasonal",D006255
+Doxylamine,DB00366,Sneezing,D012912
+Doxylamine,DB00366,Urticaria,D014581
+Doxylamine,DB00366,"Rhinitis, Allergic",D065631
+Duloxetine,DB00476,"Depressive Disorder, Major",D003865
+Dyclonine,DB00645,Pruritus,D011537
+Edetic acid,DB00974,Hypercalcemia,D006934
+Eflornithine,DB06243,"Trypanosomiasis, African",D014353
+Emedastine,DB01084,"Conjunctivitis, Allergic",D003233
+Emedastine,DB01084,Urticaria,D014581
+Emedastine,DB01084,Pruritus,D011537
+Epinephrine,DB00668,Asthma,D001249
+Albendazole,DB00518,Liver,D008099
+Albendazole,DB00518,Lung,D008168
+Erdosteine,DB05057,Accidents,D000059
+Erlotinib,DB00530,Adenocarcinoma,D000230
+Salbutamol,DB01001,Asthma,D001249
+Escitalopram,DB01175,Anxiety Disorders,D001008
+Esmolol,DB00187,Hypertension,D006973
+Esomeprazole,DB00736,Esophagitis,D004941
+Esomeprazole,DB00736,Esophagitis,D004941
+Ethambutol,DB00330,Tuberculosis,D014376
+Ethionamide,DB00609,Tuberculosis,D014376
+Famciclovir,DB00426,Herpes Genitalis,D006558
+Famciclovir,DB00426,Recurrence,D012008
+Famciclovir,DB00426,Herpes Genitalis,D006558
+Famciclovir,DB00426,Recurrence,D012008
+Famotidine,DB00927,Esophagitis,D004941
+Fenofibrate,DB01039,Hyperlipoproteinemia Type II,D006938
+Fenofibrate,DB01039,Hyperlipoproteinemia Type II,D006938
+Flavoxate,DB01148,Urination,D014554
+Fluconazole,DB00196,Sepsis,D018805
+Fluconazole,DB00196,"Candidiasis, Chronic Mucocutaneous",D002178
+Fluconazole,DB00196,Candidiasis,D002177
+Fomepizole,DB01213,Poisoning,D011041
+Formoterol,DB00983,Asthma,D001249
+Allopurinol,DB00437,Kidney Calculi,D007669
+Fosfomycin,DB00828,Escherichia coli Infections,D004927
+Furosemide,DB00695,Heart Failure,D006333
+Furosemide,DB00695,Pulmonary Edema,D011654
+Alosetron,DB00969,Irritable Bowel Syndrome,D043183
+Glycine,DB00145,Signs and Symptoms,D012816
+Goserelin,DB00014,Breast Neoplasms,D001943
+Guaiacol,DB11359,Signs and Symptoms,D012816
+Guaifenesin,DB00874,"Influenza, Human",D007251
+Guaifenesin,DB00874,Signs and Symptoms,D012816
+Haloprogin,DB00793,Tinea,D014005
+Haloprogin,DB00793,Disease,D004194
+Hydrochlorothiazide,DB00999,Heart Failure,D006333
+Hydrocodone,DB00956,Signs and Symptoms,D012816
+Hydroxychloroquine,DB01611,Malaria,D008288
+Hyoscyamine,DB00424,Bradycardia,D001919
+Imatinib,DB00619,Dermatofibrosarcoma,D018223
+Imiquimod,DB00724,Warts,D014860
+Isoniazid,DB00951,Tuberculosis,D014376
+Isosorbide dinitrate,DB00883,Heart Failure,D006333
+Ketoconazole,DB01026,Scalp,D012535
+Ketoconazole,DB01026,Tinea,D014005
+Ketoconazole,DB01026,Disease,D004194
+Lamotrigine,DB00555,Bipolar Disorder,D001714
+Lansoprazole,DB00448,Esophagitis,D004941
+Letrozole,DB01006,Breast Neoplasms,D001943
+Levosalbutamol,DB13139,Asthma,D001249
+Lidocaine,DB00281,Heart Ventricles,D006352
+Lidocaine,DB00281,Parasitic Diseases,D010272
+Lindane,DB00431,Parasitic Diseases,D010272
+Liothyronine,DB00279,Thyroid Neoplasms,D013964
+Loratadine,DB00455,Signs and Symptoms,D012816
+Malathion,DB00772,Parasitic Diseases,D010272
+Maprotiline,DB00934,Anxiety Disorders,D001008
+Mercaptopurine,DB01033,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Methazolamide,DB00703,Glaucoma,D005901
+Methdilazine,DB00902,Signs and Symptoms,D012816
+Methoxamine,DB00723,"Tachycardia, Supraventricular",D013617
+Metoclopramide,DB01233,Nausea,D009325
+Metoprolol,DB00264,Heart Failure,D006333
+Amisulpride,DB06288,Schizophrenia,D012559
+Metronidazole,DB00916,Bacterial Infections,D001424
+Metronidazole,DB00916,Sepsis,D018805
+Metronidazole,DB00916,"Dysentery, Amebic",D004404
+Metronidazole,DB00916,"Genitalia, Female",D005836
+Metronidazole,DB00916,Respiratory Tract Infections,D012141
+Metronidazole,DB00916,Abscess,D000038
+Metronidazole,DB00916,Communicable Diseases,D003141
+Mexiletine,DB00379,Heart Ventricles,D006352
+Amitriptyline,DB00321,Anxiety Disorders,D001008
+Milrinone,DB00235,Heart Failure,D006333
+Mitomycin,DB00305,Adenocarcinoma,D000230
+Mitotane,DB00648,Adrenocortical Carcinoma,D018268
+Mometasone furoate,DB14512,Pruritus,D011537
+Mometasone furoate,DB14512,Psoriasis,D011565
+Mometasone furoate,DB14512,Pruritus,D011537
+Mometasone furoate,DB14512,Psoriasis,D011565
+Montelukast,DB00471,Asthma,D001249
+Nabilone,DB00486,Nausea,D009325
+Naftifine,DB00735,Disease,D004194
+Naftifine,DB00735,Tinea,D014005
+Nalmefene,DB06230,Drug-Related Side Effects and Adverse Reactions,D064420
+Naloxone,DB01183,Drug-Related Side Effects and Adverse Reactions,D064420
+Omeprazole,DB00338,Esophagitis,D004941
+Amrinone,DB01427,Heart Failure,D006333
+Oxeladin,DB04822,Desiccation,D003890
+Oxybutynin,DB01062,Urination,D014554
+Oxybutynin,DB01062,Muscles,D009132
+Oxymetazoline,DB00935,Erythema,D004890
+Oxymetazoline,DB00935,Signs and Symptoms,D012816
+Oxymetazoline,DB00935,Eye,D005123
+Palonosetron,DB00377,Nausea,D009325
+Aminosalicylic acid,DB00233,Tuberculosis,D014376
+Pantoprazole,DB00213,Esophagitis,D004941
+Perphenazine,DB00850,Nausea,D009325
+Perphenazine,DB00850,Anxiety Disorders,D001008
+Pheniramine,DB01620,Eye,D005123
+Pheniramine,DB01620,"Influenza, Human",D007251
+Pheniramine,DB01620,Signs and Symptoms,D012816
+Phenylephrine,DB00388,Eye,D005123
+Phenylephrine,DB00388,Signs and Symptoms,D012816
+Phenylephrine,DB00388,"Influenza, Human",D007251
+Phenyltoloxamine,DB11160,"Influenza, Human",D007251
+Phenytoin,DB00252,Bipolar Disorder,D001714
+Pramiracetam,DB13247,"Arrhythmias, Cardiac",D001145
+Antazoline,DB08799,Signs and Symptoms,D012816
+Antazoline,DB08799,Eye,D005123
+Prednisolone acetate,DB15566,Blepharitis,D001762
+Prednisolone acetate,DB15566,Blepharitis,D001762
+Pregabalin,DB00230,Anxiety Disorders,D001008
+Prochlorperazine,DB00433,Nausea,D009325
+Promethazine,DB01069,Nausea,D009325
+Propafenone,DB01182,Atrial Flutter,D001282
+Propafenone,DB01182,"Tachycardia, Supraventricular",D013617
+Pseudoephedrine,DB00852,Signs and Symptoms,D012816
+Pseudoephedrine,DB00852,"Influenza, Human",D007251
+Pyrazinamide,DB00339,Tuberculosis,D014376
+Mepyramine,DB06691,"Influenza, Human",D007251
+Mepyramine,DB06691,Signs and Symptoms,D012816
+Quinapril,DB00881,Heart Failure,D006333
+Quinapril,DB00881,Heart Failure,D006333
+Ramipril,DB00178,Heart Failure,D006333
+Ramipril,DB00178,Heart,D006321
+Ramipril,DB00178,Heart Failure,D006333
+Ramipril,DB00178,Heart,D006321
+Risperidone,DB00734,Bipolar Disorder,D001714
+Aripiprazole,DB01238,Bipolar Disorder,D001714
+Solifenacin,DB01591,Muscles,D009132
+Solifenacin,DB01591,Urination,D014554
+Sulfacetamide,DB00634,Blepharitis,D001762
+Sulfacetamide,DB00634,Scalp,D012535
+Sulfacytine,DB01298,Bacterial Infections,D001424
+Sulfadiazine,DB00359,Acquired Immunodeficiency Syndrome,D000163
+Sulfamethoxazole,DB01015,Otitis Media,D010033
+Sulfamethoxazole,DB01015,Cystitis,D003556
+Sulfamethoxazole,DB01015,Urinary Tract Infections,D014552
+Sulfamethoxazole,DB01015,Bacterial Infections,D001424
+Sulfamethoxazole,DB01015,"Bronchitis, Chronic",D029481
+Sulfamethoxazole,DB01015,Escherichia coli Infections,D004927
+Tamoxifen,DB00675,Breast Neoplasms,D001943
+Tazobactam,DB01606,Pneumonia,D011014
+Terbinafine,DB00857,Nails,D009262
+Terbinafine,DB00857,Tinea,D014005
+Terbinafine,DB00857,Disease,D004194
+Thiabendazole,DB00730,Communicable Diseases,D003141
+Thiotepa,DB04572,Breast Neoplasms,D001943
+Levothyroxine,DB00451,Thyroid Neoplasms,D013964
+Tinidazole,DB00911,"Dysentery, Amebic",D004404
+Tolterodine,DB01036,Urination,D014554
+Tolterodine,DB01036,Muscles,D009132
+Trandolapril,DB00519,Heart,D006321
+Trandolapril,DB00519,Heart Failure,D006333
+Trandolapril,DB00519,Heart,D006321
+Trandolapril,DB00519,Heart Failure,D006333
+Alimemazine,DB01246,Signs and Symptoms,D012816
+Trimethoprim,DB00440,Escherichia coli Infections,D004927
+Trimethoprim,DB00440,Cystitis,D003556
+Trimethoprim,DB00440,Bacterial Infections,D001424
+Trimethoprim,DB00440,"Bronchitis, Chronic",D029481
+Trimethoprim,DB00440,Otitis Media,D010033
+Trolamine,DB13747,Cerumen,D002571
+Tropisetron,DB11699,Nausea,D009325
+Aztreonam,DB00355,Bacterial Infections,D001424
+Aztreonam,DB00355,Cystitis,D003556
+Aztreonam,DB00355,Sepsis,D018805
+Aztreonam,DB00355,Pseudomonas Infections,D011552
+Aztreonam,DB00355,Pneumonia,D011014
+Aztreonam,DB00355,"Genitalia, Female",D005836
+Aztreonam,DB00355,Respiratory Tract Infections,D012141
+Valsartan,DB00177,Heart Failure,D006333
+Valsartan,DB00177,Heart,D006321
+Vancomycin,DB00512,Pneumonia,D011014
+Vancomycin,DB00512,Sepsis,D018805
+Vancomycin,DB00512,Bacteremia,D016470
+Vancomycin,DB00512,Enterocolitis,D004760
+Vancomycin,DB00512,Endocarditis,D004696
+Vancomycin,DB00512,Osteomyelitis,D010019
+Bacitracin,DB00626,Blepharitis,D001762
+Venlafaxine,DB00285,Anxiety Disorders,D001008
+Thiamine,DB00152,Malnutrition,D044342
+Pyridoxine,DB00165,Breast Feeding,D001942
+Zileuton,DB00744,Asthma,D001249
+Ziprasidone,DB00246,Bipolar Disorder,D001714
+Mifamurtide,DB13615,Osteosarcoma,D012516
+Butacaine,DB11502,Muscles,D009132
+Butacaine,DB11502,Urination,D014554
+Benzocaine,DB01086,Disease,D004194
+Benzoyl peroxide,DB09096,Pruritus,D011537
+Ivabradine,DB09083,Heart Failure,D006333
+Naphazoline,DB06711,Eye,D005123
+Noxytiolin,DB13838,Cystitis,D003556
+Undecylenic acid,DB11117,Disease,D004194
+Betaine,DB06756,Bacterial Infections,D001424
+Betaine,DB06756,Urinary Tract Infections,D014552
+Betaine,DB06756,Escherichia coli Infections,D004927
+Pramocaine,DB09345,Tinea,D014005
+Pramocaine,DB09345,Bites and Stings,D001733
+Pramocaine,DB09345,Desiccation,D003890
+Pramocaine,DB09345,Disease,D004194
+Pramocaine,DB09345,Ear,D004423
+Pramocaine,DB09345,Inflammation,D007249
+Pyrithione,DB06815,Scalp,D012535
+Pyrithione,DB06815,Signs and Symptoms,D012816
+Roflumilast,DB01656,"Pulmonary Disease, Chronic Obstructive",D029424
+Tetryzoline,DB06764,Eye,D005123
+Tetryzoline,DB06764,Signs and Symptoms,D012816
+Tolnaftate,DB00525,Tinea,D014005
+Tolnaftate,DB00525,Disease,D004194
+Xylometazoline,DB06694,Signs and Symptoms,D012816
+Biotin,DB00121,Deficiency Diseases,D003677
+Bisacodyl,DB09020,Feces,D005243
+Ascorbic acid,DB00126,Breast Feeding,D001942
+Ascorbic acid,DB00126,Breast Feeding,D001942
+Ascorbic acid,DB00126,Breast Feeding,D001942
+Brompheniramine,DB00835,"Influenza, Human",D007251
+Dronabinol,DB00470,Nausea,D009325
+Asenapine,DB06216,Bipolar Disorder,D001714
+Lubiprostone,DB01046,Constipation,D003248
+Lubiprostone,DB01046,Irritable Bowel Syndrome,D043183
+Dexlansoprazole,DB05351,Esophagitis,D004941
+Vandetanib,DB05294,Thyroid Neoplasms,D013964
+Ruxolitinib,DB08877,Primary Myelofibrosis,D055728
+Fesoterodine,DB06702,Muscles,D009132
+Fesoterodine,DB06702,Urination,D014554
+Fesoterodine,DB06702,Muscles,D009132
+Fesoterodine,DB06702,Urination,D014554
+Zinc oxide,DB09321,Bites and Stings,D001733
+Zinc oxide,DB09321,Tinea,D014005
+Zinc oxide,DB09321,Disease,D004194
+Polymyxin B,DB00781,Blepharitis,D001762
+Polymyxin B,DB00781,Sepsis,D018805
+Allantoin,DB11100,Scalp,D012535
+Zinc acetate,DB14487,Ear,D004423
+Zinc acetate,DB14487,Bites and Stings,D001733
+Selenium Sulfide,DB00971,Scalp,D012535
+Zinc sulfate,DB09322,Eye,D005123
+Zinc sulfate,DB09322,Malnutrition,D044342
+Piperonyl butoxide,DB09350,Parasitic Diseases,D010272
+Piperonyl butoxide,DB09350,Lice Infestations,D010373
+Aceclofenac,DB06736,Periarthritis,D010489
+Zinc gluconate,DB11248,Malnutrition,D044342
+Calcium lactate,DB13231,Disease,D004194
+Calcium glucoheptonate,DB00326,Disease,D004194
+Butenafine,DB01091,Disease,D004194
+Butenafine,DB01091,Tinea,D014005
+Carbamide peroxide,DB11129,Cerumen,D002571
+Ammonium lactate,DB06768,Desiccation,D003890
+Carfilzomib,DB08889,Recurrence,D012008
+Magnesium gluconate,DB13749,Feces,D005243
+Spinosad,DB08823,Parasitic Diseases,D010272
+Levmetamfetamine,DB09571,Signs and Symptoms,D012816
+Trametinib,DB08911,Melanoma,D008545
+Macitentan,DB08932,Familial Primary Pulmonary Hypertension,D065627
+Luliconazole,DB08933,Tinea,D014005
+Luliconazole,DB08933,Disease,D004194
+Tasimelteon,DB09071,Sleep,D012890
+Prussian blue,DB06783,Poisoning,D011041
+Efinaconazole,DB09040,Nails,D009262
+Carbamazepine,DB00564,Bipolar Disorder,D001714
+Olaparib,DB09074,Peritoneal Neoplasms,D010534
+Pentoxyverine,DB11186,Signs and Symptoms,D012816
+Palbociclib,DB09073,Breast Neoplasms,D001943
+Avibactam,DB09060,Bacterial Infections,D001424
+Uridine triacetate,DB09144,Drug Overdose,D062787
+Uridine triacetate,DB09144,Drug Overdose,D062787
+Cariprazine,DB06016,Bipolar Disorder,D001714
+Cobimetinib,DB05239,Melanoma,D008545
+Selexipag,DB11362,Familial Primary Pulmonary Hypertension,D065627
+Plecanatide,DB13170,Constipation,D003248
+Neratinib,DB11828,Breast Neoplasms,D001943
+Fostamatinib,DB12010,Thrombocytopenia,D013921
+Fostamatinib,DB12010,Thrombocytopenia,D013921
+Fosnetupitant,DB14019,Nausea,D009325
+Fosnetupitant,DB14019,Nausea,D009325
+Cefazolin,DB01327,Bacterial Infections,D001424
+Cefazolin,DB01327,Respiratory Tract Infections,D012141
+Cefazolin,DB01327,Sepsis,D018805
+Relebactam,DB12377,Escherichia coli Infections,D004927
+Relebactam,DB12377,Klebsiella Infections,D007710
+Relebactam,DB12377,Intestines,D007422
+Relebactam,DB12377,Pseudomonas Infections,D011552
+Lefamulin,DB12825,Bronchopneumonia,D001996
+Lefamulin,DB12825,"Pneumonia, Staphylococcal",D011023
+Lefamulin,DB12825,Pneumonia,D011014
+Lefamulin,DB12825,Bronchopneumonia,D001996
+Lefamulin,DB12825,"Pneumonia, Staphylococcal",D011023
+Lefamulin,DB12825,Pneumonia,D011014
+Tenapanor,DB11761,Irritable Bowel Syndrome,D043183
+Bempedoic acid,DB11936,Hyperlipoproteinemia Type II,D006938
+Bempedoic acid,DB11936,Disease,D004194
+Pemigatinib,DB15102,Common Bile Duct Neoplasms,D003138
+Cefoxitin,DB01331,Sepsis,D018805
+Cefoxitin,DB01331,Bacterial Infections,D001424
+Cefoxitin,DB01331,Communicable Diseases,D003141
+Cefoxitin,DB01331,"Genitalia, Female",D005836
+Cefoxitin,DB01331,Cystitis,D003556
+Cefoxitin,DB01331,Pneumonia,D011014
+Cefoxitin,DB01331,Urinary Tract Infections,D014552
+Cefoxitin,DB01331,Osteomyelitis,D010019
+Cefoxitin,DB01331,Parametritis,D010249
+Cefoxitin,DB01331,Bacteremia,D016470
+Cefoxitin,DB01331,Uterine Cervicitis,D002575
+Acetazolamide,DB00819,Glaucoma,D005901
+Cetirizine,DB00341,Signs and Symptoms,D012816
+Clofedanol,DB04837,Signs and Symptoms,D012816
+Chlorcyclizine,DB08936,Signs and Symptoms,D012816
+Chlordiazepoxide,DB00475,Anxiety Disorders,D001008
+Chlordiazepoxide,DB00475,Substance Withdrawal Syndrome,D013375
+Chloroquine,DB00608,Malaria,D008288
+Chlorothiazide,DB00880,Heart Failure,D006333
+Chlorpromazine,DB00477,Bipolar Disorder,D001714
+Chlorpromazine,DB00477,Nausea,D009325
+Ciclopirox,DB01188,Scalp,D012535
+Ciclopirox,DB01188,Disease,D004194
+Ciclopirox,DB01188,Tinea,D014005
+Cimetidine,DB00501,Hemorrhage,D006470
+Citalopram,DB00215,Anxiety Disorders,D001008
+Clemastine,DB00283,Signs and Symptoms,D012816
+Clopidogrel,DB00758,Myocardial Infarction,D009203
+Clotrimazole,DB00257,Disease,D004194
+Clotrimazole,DB00257,Tinea,D014005
+Codeine,DB00318,Signs and Symptoms,D012816
+Codeine,DB00318,"Influenza, Human",D007251
+Colchicine,DB01394,"Arthritis, Gouty",D015210
+Acetylsalicylic acid,DB00945,"Influenza, Human",D007251
+Cycloserine,DB00260,Escherichia coli Infections,D004927
+Cycloserine,DB00260,Tuberculosis,D014376
+Cycloserine,DB00260,Bacterial Infections,D001424
+Cyproheptadine,DB00434,Signs and Symptoms,D012816
+Cysteine,DB00151,Poisoning,D011041
+Dacarbazine,DB00851,Melanoma,D008545
+Deferoxamine,DB00746,Poisoning,D011041
+Desloratadine,DB00967,Signs and Symptoms,D012816
+Desloratadine,DB00967,Urticaria,D014581
+Acrivastine,DB09488,Signs and Symptoms,D012816
+Dexbrompheniramine,DB00405,"Influenza, Human",D007251
+Dexpanthenol,DB09357,"Dermatitis, Toxicodendron",D011040
+Dexpanthenol,DB09357,Bites and Stings,D001733
+Dextromethorphan,DB00514,"Influenza, Human",D007251
+Dextromethorphan,DB00514,Affect,D000339
+Dextromethorphan,DB00514,Signs and Symptoms,D012816
+Diazepam,DB00829,Substance Withdrawal Syndrome,D013375
+Dichloroacetic acid,DB08809,Warts,D014860
+Dienestrol,DB00890,Atrophy,D001284
+Digoxin,DB00390,Poisoning,D011041
+Digoxin,DB00390,Heart Failure,D006333
+Dihydrocodeine,DB01551,Signs and Symptoms,D012816
+Diltiazem,DB00343,"Tachycardia, Supraventricular",D013617
+Disopyramide,DB00280,Heart Ventricles,D006352
+Levomenthol,DB00825,Scalp,D012535
+Dopamine,DB00988,Heart Failure,D006333
+Doxylamine,DB00366,"Influenza, Human",D007251
+Doxylamine,DB00366,Signs and Symptoms,D012816
+Duloxetine,DB00476,"Urinary Incontinence, Stress",D014550
+Duloxetine,DB00476,Anxiety Disorders,D001008
+Edetic acid,DB00974,Accidents,D000059
+Etidronic acid,DB01077,Humoral hypercalcemia of malignancy (disorder),C562390
+Fluconazole,DB00196,Systemic candidiasis,C536777
+Imatinib,DB00619,Chronic eosinophilic leukemia,C580364
+Ketoconazole,DB01026,Systemic candidiasis,C536777
+Pamidronic acid,DB00282,Humoral hypercalcemia of malignancy (disorder),C562390
+Zoledronic acid,DB00399,Humoral hypercalcemia of malignancy (disorder),C562390
+Pyrantel,DB11156,Mixed intestinal helminthiasis,C531698
+Uridine triacetate,DB09144,Hereditary orotic aciduria,C537136
+Uridine triacetate,DB09144,Hereditary orotic aciduria,C537136
+Levocarnitine,DB00583,Carnitine deficiency,C536778
+Ethanol,DB00898,Cystitis,D003556
+Docosanol,DB00632,Herpes Simplex,D006561
+Triclosan,DB08604,Malaria,D008288
+Tazemetostat,DB12887,"Lymphoma, Follicular",D008224
+Pseudoephedrine,DB00852,Nose,D009666
+Naftifine,DB00735,Dermatomycoses,D003881
+Trimipramine,DB00726,"Depressive Disorder, Major",D003865
+Albendazole,DB00518,Helminthiasis,D006373
+Triheptanoin,DB11677,Disease,D004194
+Protriptyline,DB00344,Depression,D003863
+Triamterene,DB00384,Heart Failure,D006333
+Cyproheptadine,DB00434,Rhinitis,D012220
+Pregabalin,DB00230,"Pulmonary Disease, Chronic Obstructive",D029424
+Terconazole,DB00251,Candidiasis,D002177
+Duloxetine,DB00476,Depression,D003863
+Terbinafine,DB00857,Mycoses,D009181
+Carbamide peroxide,DB11129,Ear Diseases,D004427
+Diphenhydramine,DB01075,Meniere Disease,D008575
+Fosfomycin,DB00828,Bacterial Infections,D001424
+Melphalan flufenamide,DB16627,Multiple Myeloma,D009101
+L-Glutamine,DB00130,Short Bowel Syndrome,D012778
+Cyclobenzaprine,DB00924,Depression,D003863
+Mifamurtide,DB13615,Neoplasms,D009369
+Betazole,DB00272,Stomach Diseases,D013272
+Desipramine,DB01151,Attention Deficit Disorder with Hyperactivity,D001289
+Metolazone,DB00524,Edema,D004487
+Simethicone,DB09512,Dyspepsia,D004415
+Moclobemide,DB01171,Depression,D003863
+Ajmaline,DB01426,Atrial Fibrillation,D001281
+Bufexamac,DB13346,Dermatitis,D003872
+Mebutamate,DB06797,Anxiety Disorders,D001008
+Ifosfamide,DB01181,Neoplasms,D009369
+Triclabendazole,DB12245,Helminthiasis,D006373
+Pirfenidone,DB04951,Idiopathic Pulmonary Fibrosis,D054990
+Ambroxol,DB06742,Bronchitis,D001991
+Propylhexedrine,DB06714,Obesity,D009765
+Pipobroman,DB00236,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Mupirocin,DB00410,Bacterial Infections,D001424
+Maprotiline,DB00934,"Depressive Disorder, Major",D003865
+Pioglitazone,DB01132,Diabetes Complications,D048909
+Pyrantel,DB11156,Helminthiasis,D006373
+Triptorelin,DB06825,Neoplasms,D009369
+Trabectedin,DB05109,Neoplasms,D009369
+Tolazoline,DB00797,"Hypertension, Pulmonary",D006976
+Mechlorethamine,DB00888,"Lymphoma, T-Cell",D016399
+Aminophylline,DB01223,Asthma,D001249
+Buclizine,DB00354,Nausea,D009325
+Tromethamine,DB03754,Acidosis,D000138
+Cidofovir,DB00369,Cytomegalovirus Infections,D003586
+Menthol,DB14123,Pharynx,D010614
+Mycophenolate mofetil,DB00688,Transplants,D019737
+Cilazapril,DB01340,Heart Failure,D006333
+Epinephrine,DB00668,Hypersensitivity,D006967
+Valaciclovir,DB00577,Virus Diseases,D014777
+Levallorphan,DB00504,Depression,D003863
+Toremifene,DB00539,Breast Neoplasms,D001943
+Selenium Sulfide,DB00971,Erythema,D004890
+Sotalol,DB00489,Paranasal Sinus Diseases,D010254
+Moricizine,DB00680,"Arrhythmias, Cardiac",D001145
+Nortriptyline,DB00540,Depression,D003863
+Treosulfan,DB11678,Melanoma,D008545
+Amphetamine,DB00182,Attention Deficit Disorder with Hyperactivity,D001289
+Butalbital,DB00241,Anxiety Disorders,D001008
+Pentamidine,DB00738,Mycoses,D009181
+Sulfadiazine,DB00359,Rheumatic Fever,D012213
+Carisoprodol,DB00395,Musculoskeletal Diseases,D009140
+Nalmefene,DB06230,Opioid-Related Disorders,D009293
+Gemfibrozil,DB01241,Hyperlipidemias,D006949
+Dexchlorpheniramine maleate,DB09555,Rhinitis,D012220
+Mirtazapine,DB00370,Depression,D003863
+Polidocanol,DB06811,Veins,D014680
+Loratadine,DB00455,Hypersensitivity,D006967
+Amifostine,DB01143,Mucositis,D052016
+Imiquimod,DB00724,Skin Neoplasms,D012878
+Amiodarone,DB01118,"Tachycardia, Ventricular",D017180
+Doxepin,DB01142,Depression,D003863
+Antazoline,DB08799,Nose,D009666
+Thymol,DB02513,Mycoses,D009181
+Fructose,DB04173,Vomiting,D014839
+Pyridoxal phosphate,DB00114,Malnutrition,D044342
+Lumefantrine,DB06708,Malaria,D008288
+Nicotinamide,DB02701,Disease,D004194
+Succinic acid,DB00139,Malnutrition,D044342
+Troglitazone,DB00197,Diabetes Complications,D048909
+Dexibuprofen,DB09213,"Spondylitis, Ankylosing",D013167
+Imipramine,DB00458,Depression,D003863
+Hydroxyurea,DB01005,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Apremilast,DB05676,Psoriasis,D011565
+Plecanatide,DB13170,Irritable Bowel Syndrome,D043183
+Ciclopirox,DB01188,Mycoses,D009181
+Perazine,DB12710,Psychotic Disorders,D011618
+Norepinephrine,DB00368,Sepsis,D018805
+Glucosamine,DB01296,Osteoarthritis,D010003
+Azathioprine,DB00993,Transplants,D019737
+Terpin hydrate,DB13163,Cough,D003371
+Pantothenic acid,DB01783,Avitaminosis,D001361
+Busulfan,DB01008,Syndrome,D013577
+Topiramate,DB00273,Alcoholism,D000437
+Diazoxide,DB01119,Hypertension,D006973
+Dexrazoxane,DB00380,Breast Neoplasms,D001943
+Acalabrutinib,DB11703,Leukemia,D007938
+Carbetocin,DB01282,Postpartum Hemorrhage,D006473
+Benorilate,DB13657,Arthritis,D001168
+Proflavine,DB01123,Sepsis,D018805
+Isoetharine,DB00221,Asthma,D001249
+Adenine,DB00173,Malnutrition,D044342
+Silver sulfadiazine,DB05245,Bacterial Infections,D001424
+Mepyramine,DB06691,Hypersensitivity,D006967
+Thiabendazole,DB00730,Helminthiasis,D006373
+Ammonium lactate,DB06768,Skin Diseases,D012871
+Ibandronate,DB00710,Osteoporosis,D010024
+Oxymetazoline,DB00935,Endophthalmitis,D009877
+Tolazamide,DB00839,Diabetes Complications,D048909
+Clotrimazole,DB00257,Mycoses,D009181
+Methoxamine,DB00723,Hypertension,D006973
+Amoxapine,DB00543,"Depressive Disorder, Major",D003865
+Fluconazole,DB00196,Mycoses,D009181
+Sorbitol,DB01638,Constipation,D003248
+Chlorthalidone,DB00310,Edema,D004487
+Dihydroergocristine,DB13345,Alcoholism,D000437
+Methylene blue,DB09241,Methemoglobinemia,D008708
+Methadone,DB00333,Desiccation,D003890
+Tetrabenazine,DB04844,Attention Deficit Disorder with Hyperactivity,D001289
+Idoxuridine,DB00249,Herpes Simplex,D006561
+Cangrelor,DB06441,Thrombosis,D013927
+Pentoxifylline,DB00806,Intermittent Claudication,D007383
+Voxelotor,DB14975,"Anemia, Sickle Cell",D000755
+Milnacipran,DB04896,Depression,D003863
+Gefitinib,DB00317,Neoplasms,D009369
+Ivermectin,DB00602,"Intestinal Diseases, Parasitic",D007411
+Pyrvinium,DB06816,Helminthiasis,D006373
+Silver nitrate,DB11080,Chlamydia Infections,D002690
+Metronidazole,DB00916,Amebiasis,D000562
+Iopanoic acid,DB08946,Vascular Diseases,D014652
+Imatinib,DB00619,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Chlorprothixene,DB01239,Psychotic Disorders,D011618
+Oxtriphylline,DB01303,Cough,D003371
+Cyclopentolate,DB00979,"Vision, Ocular",D014785
+Metyrosine,DB00765,Pheochromocytoma,D010673
+Butenafine,DB01091,Infections,D007239
+Ketoconazole,DB01026,Mycoses,D009181
+Trimethaphan,DB01116,Aneurysm,D000783
+Chlorpheniramine,DB01114,"Rhinitis, Allergic",D065631
+Etravirine,DB06414,Infections,D007239
+Tolterodine,DB01036,"Urinary Bladder, Overactive",D053201
+Choline C-11,DB09563,Prostatic Neoplasms,D011471
+Methazolamide,DB00703,Ocular Hypertension,D009798
+Levamisole,DB00848,Parasitic Diseases,D010272
+Cyclophosphamide,DB00531,Neoplasms,D009369
+Miglitol,DB00491,Diabetes Complications,D048909
+Podofilox,DB01179,Condylomata Acuminata,D003218
+Artesunate,DB09274,Malaria,D008288
+Enoximone,DB04880,Heart Failure,D006333
+Acetazolamide,DB00819,Ocular Hypertension,D009798
+Oseltamivir,DB00198,Orthomyxoviridae Infections,D009976
+Dasatinib,DB01254,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Moxonidine,DB09242,Alcoholism,D000437
+Spiramycin,DB06145,Bacterial Infections,D001424
+Theophylline,DB00277,"Pulmonary Disease, Chronic Obstructive",D029424
+Aminocaproic acid,DB00513,Blood Coagulation Disorders,D001778
+Methocarbamol,DB00423,Musculoskeletal Diseases,D009140
+Benzyl benzoate,DB00676,Lice Infestations,D010373
+Icosapent,DB00159,Malnutrition,D044342
+Efinaconazole,DB09040,Mycoses,D009181
+Pyruvic acid,DB00119,Malnutrition,D044342
+Vandetanib,DB05294,Neoplasms,D009369
+Rescinnamine,DB01180,Hypertension,D006973
+Amsacrine,DB00276,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Lanthanum carbonate,DB06792,Hypophosphatasia,D007014
+Probucol,DB01599,Coronary Disease,D003327
+Monobenzone,DB00600,Vitiligo,D014820
+Dexpanthenol,DB09357,Wound Healing,D014945
+Amiloride,DB00594,Heart Failure,D006333
+Isosorbide dinitrate,DB00883,Fissure in Ano,D005401
+Isocarboxazid,DB01247,Depression,D003863
+Droxidopa,DB06262,Neurogenesis,D055495
+Tenoxicam,DB00469,"Arthritis, Rheumatoid",D001172
+Streptozocin,DB00428,Pancreatic Neoplasms,D010190
+Propafenone,DB01182,Tachycardia,D013610
+Clofibrate,DB00636,Hyperlipoproteinemia Type III,D006952
+Armodafinil,DB06413,Neoplasms,D009369
+Quinethazone,DB01325,Hypertension,D006973
+Uracil mustard,DB00791,"Leukemia, Myeloid, Acute",D015470
+Torasemide,DB00214,Heart Failure,D006333
+Fulvestrant,DB00947,Breast Neoplasms,D001943
+Lofexidine,DB04948,Opioid-Related Disorders,D009293
+Famotidine,DB00927,Peptic Ulcer,D010437
+Erdosteine,DB05057,Bronchitis,D001991
+Indecainide,DB00192,"Arrhythmias, Cardiac",D001145
+Colistin,DB00803,Pseudomonas Infections,D011552
+Eribulin,DB08871,Breast Neoplasms,D001943
+Rabeprazole,DB01129,Bacterial Infections,D001424
+Phenyltoloxamine,DB11160,Hypersensitivity,D006967
+Benzthiazide,DB00562,Hypertension,D006973
+Sulfanilamide,DB00259,Bacterial Infections,D001424
+Solifenacin,DB01591,"Urinary Bladder, Overactive",D053201
+Phenyl aminosalicylate,DB06807,"Tuberculosis, Pulmonary",D014397
+Plerixafor,DB06809,"Lymphoma, Non-Hodgkin",D008228
+Amiodarone,DB01118,Tachycardia,D013610
+Praziquantel,DB01058,Infections,D007239
+Bacitracin,DB00626,"Skin Diseases, Infectious",D012874
+Gliclazide,DB01120,Diabetes Complications,D048909
+Disopyramide,DB00280,"Arrhythmias, Cardiac",D001145
+Cupric Chloride,DB09131,Mycoses,D009181
+Doxapram,DB00561,Respiratory Tract Diseases,D012140
+Glycine,DB00145,Malnutrition,D044342
+Artemether,DB06697,Malaria,D008288
+Dapsone,DB00250,"Pneumonia, Pneumocystis",D011020
+Adefovir dipivoxil,DB00718,Hepatitis B,D006509
+Apraclonidine,DB00964,Ocular Hypotension,D015814
+Deferiprone,DB08826,Thalassemia,D013789
+Clopidogrel,DB00758,Thrombosis,D013927
+Butoconazole,DB00639,Candidiasis,D002177
+Repaglinide,DB00912,Diabetes Complications,D048909
+Propyliodone,DB09366,Lung Diseases,D008171
+Dofetilide,DB00204,Paranasal Sinus Diseases,D010254
+Ethanolamine oleate,DB06689,Blood Coagulation Disorders,D001778
+Cannabidiol,DB09061,Syndrome,D013577
+Phenylephrine,DB00388,Fecal Incontinence,D005242
+Naphazoline,DB06711,Pruritus,D011537
+Hydroxyzine,DB00557,Anxiety Disorders,D001008
+Pemigatinib,DB15102,Cholangiocarcinoma,D018281
+Bosutinib,DB06616,Breast Neoplasms,D001943
+Methyl aminolevulinate,DB00992,Acne Vulgaris,D000152
+Uridine triacetate,DB09144,Pancreatic Neoplasms,D010190
+Venlafaxine,DB00285,Depression,D003863
+Iocetamic acid,DB09403,Urinary Bladder Diseases,D001745
+Mannitol,DB00742,Bronchiectasis,D001987
+Dibenzepin,DB13225,Anxiety Disorders,D001008
+Proguanil,DB01131,Malaria,D008288
+Phenelzine,DB00780,Depression,D003863
+Clothiapine,DB13256,Schizophrenia,D012559
+Colistimethate,DB01111,Respiratory Tract Infections,D012141
+Piracetam,DB09210,Cognitive Dysfunction,D060825
+Lindane,DB00431,Lice Infestations,D010373
+Tiludronic acid,DB01133,Osteoporosis,D010024
+Acetylcholine,DB03128,Cataract,D002386
+Amorolfine,DB09056,Onychomycosis,D014009
+Gallium citrate Ga-67,DB06784,Hodgkin Disease,D006689
+Tazobactam,DB01606,Bacterial Infections,D001424
+Roflumilast,DB01656,Asthma,D001249
+Mianserin,DB06148,Depression,D003863
+Bumetanide,DB00887,Heart Failure,D006333
+Aceclidine,DB13262,Ocular Hypertension,D009798
+Tepotinib,DB15133,"Carcinoma, Non-Small-Cell Lung",D002289
+Hyoscyamine,DB00424,Gastrointestinal Diseases,D005767
+Atropine,DB00572,Organophosphate Poisoning,D062025
+Potassium,DB14500,Hypokalemia,D007008
+Acipimox,DB09055,Arteriosclerosis,D001161
+Chlormezanone,DB01178,Anxiety Disorders,D001008
+Macitentan,DB08932,Cardiovascular Diseases,D002318
+Sulfacytine,DB01298,Cystitis,D003556
+Primaquine,DB01087,Malaria,D008288
+Dapiprazole,DB00298,Ocular Hypertension,D009798
+Barium sulfate,DB11150,Gastrointestinal Diseases,D005767
+Zotepine,DB09225,Anxiety Disorders,D001008
+Aceclofenac,DB06736,Inflammation,D007249
+Dexmedetomidine,DB00633,Irritable Mood,D007508
+Alectinib,DB11363,Lung Neoplasms,D008175
+Masoprocol,DB00179,Prostatic Neoplasms,D011471
+Leuprolide,DB00007,Prostatic Neoplasms,D011471
+Procainamide,DB01035,"Arrhythmias, Cardiac",D001145
+Bepotastine,DB04890,"Rhinitis, Allergic",D065631
+Cysteamine,DB00847,Fanconi Syndrome,D005198
+Chlorhexidine,DB00878,Bacterial Infections,D001424
+Lurbinectedin,DB12674,Small Cell Lung Carcinoma,D055752
+Fostamatinib,DB12010,"Purpura, Thrombocytopenic, Idiopathic",D016553
+Viloxazine,DB09185,"Depressive Disorder, Major",D003865
+Sulfamethazine,DB01582,Bacterial Infections,D001424
+Famciclovir,DB00426,Virus Diseases,D014777
+Lonafarnib,DB06448,Progeria,D011371
+Minaprine,DB00805,Depression,D003863
+Diphenidol,DB01231,Nausea,D009325
+Prazosin,DB00457,Heart Failure,D006333
+Gadoversetamide,DB00538,Myocardial Infarction,D009203
+Mexiletine,DB00379,"Tachycardia, Ventricular",D017180
+Phenoxybenzamine,DB00925,Essential Hypertension,D000075222
+Naloxone,DB01183,Depression,D003863
+Docusate,DB11089,Constipation,D003248
+Clenbuterol,DB01407,Chronic Disease,D002908
+Carbocisteine,DB04339,"Pulmonary Disease, Chronic Obstructive",D029424
+Benzoic acid,DB03793,Mycoses,D009181
+Betaine,DB06756,"Metabolism, Inborn Errors",D008661
+Pyrazinamide,DB00339,Mycobacterium Infections,D009164
+Mitomycin,DB00305,Breast Neoplasms,D001943
+Doxylamine,DB00366,Morning Sickness,D048968
+Meprobamate,DB00371,Malaria,D008288
+Citalopram,DB00215,Depression,D003863
+Amitriptyline,DB00321,Depression,D003863
+Ceruletide,DB00403,Pancreatic Juice,D010189
+Setmelanotide,DB11700,Obesity,D009765
+Carglumic acid,DB06775,Hyperammonemia,D022124
+Clozapine,DB00363,Schizophrenia,D012559
+Procaterol,DB01366,Asthma,D001249
+Cantharidin,DB12328,Molluscum Contagiosum,D008976
+Undecylenic acid,DB11117,Dermatitis,D003872
+Cephalexin,DB00567,Bacterial Infections,D001424
+Sodium tetradecyl sulfate,DB00464,Hemangioma,D006391
+Mycophenolic acid,DB01024,Crohn Disease,D003424
+Clomipramine,DB01242,Depression,D003863
+Desipramine,DB01151,Depression,D003863
+Aminosalicylic acid,DB00233,Inflammatory Bowel Diseases,D015212
+Tolnaftate,DB00525,Pruritus,D011537
+Digoxin,DB00390,"Arrhythmias, Cardiac",D001145
+Ruxolitinib,DB08877,"Thrombocythemia, Essential",D013920
+Benznidazole,DB11989,Trypanosomiasis,D014352
+Polidocanol,DB06811,Telangiectasis,D013684
+Haloprogin,DB00793,Candidiasis,D002177
+Thiabendazole,DB00730,Disease,D004194
+Podofilox,DB01179,Warts,D014860
+Probenecid,DB01032,Gout,D006073
+Phenylephrine,DB00388,Graves Ophthalmopathy,D049970
+Sulfacytine,DB01298,Urinary Tract Infections,D014552
+Dextroamphetamine,DB01576,Attention Deficit Disorder with Hyperactivity,D001289
+Secnidazole,DB12834,Amebiasis,D000562
+Prazosin,DB00457,Prostatic Hyperplasia,D011470
+Mitomycin,DB00305,Gastrointestinal Neoplasms,D005770
+Mitomycin,DB00305,Neoplasms,D009369
+Meprobamate,DB00371,Anxiety Disorders,D001008
+Acebutolol,DB01193,"Arrhythmias, Cardiac",D001145
+Acebutolol,DB01193,Myocardial Infarction,D009203
+Acetazolamide,DB00819,Heart Failure,D006333
+Albendazole,DB00518,Ancylostomiasis,D000724
+Albendazole,DB00518,Communicable Diseases,D003141
+Albendazole,DB00518,Echinococcosis,D004443
+Albendazole,DB00518,Enterobiasis,D017229
+Albendazole,DB00518,Giardiasis,D005873
+Albendazole,DB00518,Trichuriasis,D014257
+Albendazole,DB00518,Necatoriasis,D009332
+Albendazole,DB00518,Toxocariasis,D014120
+Alfuzosin,DB00346,Hypertension,D006973
+Allopurinol,DB00437,Arthritis,D001168
+Allopurinol,DB00437,Kidney Diseases,D007674
+Allopurinol,DB00437,Leukemia,D007938
+Allopurinol,DB00437,Lymphoma,D008223
+Allopurinol,DB00437,Neoplasms,D009369
+Allopurinol,DB00437,Tumor Lysis Syndrome,D015275
+Almotriptan,DB00918,Nausea,D009325
+Alosetron,DB00969,Diarrhea,D003967
+Altretamine,DB00488,Neoplasms,D009369
+Amifostine,DB01143,Head and Neck Neoplasms,D006258
+Amifostine,DB01143,Ovarian Neoplasms,D010051
+Amifostine,DB01143,Xerostomia,D014987
+Amiloride,DB00594,Ascites,D001201
+Amiloride,DB00594,Cystic Fibrosis,D003550
+Amiloride,DB00594,Hypokalemia,D007008
+Aminophylline,DB01223,Apnea,D001049
+Aminophylline,DB01223,Bradycardia,D001919
+Aminophylline,DB01223,Bronchial Spasm,D001986
+Aminophylline,DB01223,Bronchitis,D001991
+Aminophylline,DB01223,"Bronchitis, Chronic",D029481
+Aminophylline,DB01223,Lung Diseases,D008171
+Aminophylline,DB01223,Pulmonary Emphysema,D011656
+Aminosalicylic acid,DB00233,Crohn Disease,D003424
+Amiodarone,DB01118,"Arrhythmias, Cardiac",D001145
+Amiodarone,DB01118,"Tachycardia, Supraventricular",D013617
+Amitriptyline,DB00321,Irritable Bowel Syndrome,D043183
+Amoxapine,DB00543,Depression,D003863
+Amsacrine,DB00276,Leukemia,D007938
+Amsacrine,DB00276,"Leukemia, Myeloid, Acute",D015470
+Anthralin,DB11157,Psoriasis,D011565
+Antipyrine,DB01435,Otitis Media,D010033
+Apraclonidine,DB00964,Glaucoma,D005901
+Arformoterol,DB01274,Asthma,D001249
+Arformoterol,DB01274,Lung Diseases,D008171
+Aripiprazole,DB01238,Aggression,D000374
+Aripiprazole,DB01238,Depressive Disorder,D003866
+Aripiprazole,DB01238,Irritable Mood,D007508
+Aripiprazole,DB01238,"Depressive Disorder, Major",D003865
+Aripiprazole,DB01238,Depression,D003863
+Aripiprazole,DB01238,Mental Disorders,D001523
+Aripiprazole,DB01238,Psychotic Disorders,D011618
+Armodafinil,DB06413,Apnea,D001049
+Ascorbic acid,DB00126,Anemia,D000740
+Ascorbic acid,DB00126,Common Cold,D003139
+Ascorbic acid,DB00126,Methemoglobinemia,D008708
+Ascorbic acid,DB00126,Pneumonia,D011014
+Ascorbic acid,DB00126,Scurvy,D012614
+Atenolol,DB00335,Atrial Fibrillation,D001281
+Atenolol,DB00335,"Arrhythmias, Cardiac",D001145
+Atenolol,DB00335,Heart Failure,D006333
+Atenolol,DB00335,Myocardial Ischemia,D017202
+Atenolol,DB00335,"Tachycardia, Supraventricular",D013617
+Atropine,DB00572,Asthma,D001249
+Atropine,DB00572,Bradycardia,D001919
+Atropine,DB00572,Bronchial Spasm,D001986
+Atropine,DB00572,Heart Arrest,D006323
+Atropine,DB00572,Diarrhea,D003967
+Atropine,DB00572,Stomach Ulcer,D013276
+Atropine,DB00572,Heart Block,D006327
+Atropine,DB00572,Peptic Ulcer,D010437
+Atropine,DB00572,Poisoning,D011041
+Atropine,DB00572,Sialorrhea,D012798
+Atropine,DB00572,Uveitis,D014605
+Atropine,DB00572,Vomiting,D014839
+Azathioprine,DB00993,Arthritis,D001168
+Azathioprine,DB00993,Crohn Disease,D003424
+Azathioprine,DB00993,Graft vs Host Disease,D006086
+Azathioprine,DB00993,Hemorrhage,D006470
+Azathioprine,DB00993,"Lupus Erythematosus, Systemic",D008180
+Azathioprine,DB00993,Rheumatic Diseases,D012216
+Azathioprine,DB00993,"Colitis, Ulcerative",D003093
+Aztreonam,DB00355,Abscess,D000038
+Aztreonam,DB00355,Cystic Fibrosis,D003550
+Aztreonam,DB00355,"Genital Diseases, Female",D005831
+Aztreonam,DB00355,Pyelonephritis,D011704
+Bacitracin,DB00626,Empyema,D004653
+Bacitracin,DB00626,"Enterocolitis, Pseudomembranous",D004761
+Bacitracin,DB00626,Eye Infections,D015817
+Bacitracin,DB00626,"Eye Infections, Bacterial",D015818
+Bacitracin,DB00626,Pneumonia,D011014
+Bacitracin,DB00626,Staphylococcal Infections,D013203
+Bacitracin,DB00626,Streptococcal Infections,D013290
+Bacitracin,DB00626,Wound Infection,D014946
+Baclofen,DB00181,Hiccup,D006606
+Bendamustine,DB06769,"Lymphoma, Non-Hodgkin",D008228
+Benzocaine,DB01086,Hemorrhoids,D006484
+Benzocaine,DB01086,Otitis Externa,D010032
+Benzocaine,DB01086,Otitis Media,D010033
+Benzoyl peroxide,DB09096,Rosacea,D012393
+Benzthiazide,DB00562,Edema,D004487
+Betaxolol,DB00195,Glaucoma,D005901
+Bethanechol,DB01019,Gastroesophageal Reflux,D005764
+Biotin,DB00121,"Metabolism, Inborn Errors",D008661
+Bisoprolol,DB00612,Heart Failure,D006333
+Bisoprolol,DB00612,Myocardial Infarction,D009203
+Brimonidine,DB00484,Glaucoma,D005901
+Brimonidine,DB00484,Hypertension,D006973
+Brinzolamide,DB01194,Glaucoma,D005901
+Bromocriptine,DB01200,Adenoma,D000236
+Bromocriptine,DB01200,Amenorrhea,D000568
+Bromocriptine,DB01200,Diabetes Mellitus,D003920
+Bromocriptine,DB01200,"Diabetes Mellitus, Type 2",D003924
+Bromocriptine,DB01200,Diabetic Ketoacidosis,D016883
+Bromocriptine,DB01200,Endocrine System Diseases,D004700
+Bromocriptine,DB01200,Hypogonadism,D007006
+Bromocriptine,DB01200,Infertility,D007246
+Bromocriptine,DB01200,Menstruation Disturbances,D008599
+Bromocriptine,DB01200,Neoplasms,D009369
+Brompheniramine,DB00835,Common Cold,D003139
+Brompheniramine,DB00835,Lacrimal Apparatus Diseases,D007766
+Brompheniramine,DB00835,"Rhinitis, Allergic, Perennial",D012221
+Buclizine,DB00354,Vomiting,D014839
+Bumetanide,DB00887,Ascites,D001201
+Bumetanide,DB00887,Hypertension,D006973
+Bumetanide,DB00887,Kidney Diseases,D007674
+Bumetanide,DB00887,"Kidney Failure, Chronic",D007676
+Bumetanide,DB00887,Nephrotic Syndrome,D009404
+Buprenorphine,DB00921,"Behavior, Addictive",D016739
+Buprenorphine,DB00921,Heroin Dependence,D006556
+Bupropion,DB01156,Attention Deficit Disorder with Hyperactivity,D001289
+Bupropion,DB01156,Bipolar Disorder,D001714
+Bupropion,DB01156,Fatigue,D005221
+Bupropion,DB01156,Depression,D003863
+Busulfan,DB01008,Leukemia,D007938
+Busulfan,DB01008,"Leukemia, Myeloid, Acute",D015470
+Busulfan,DB01008,"Leukemia, Lymphoid",D007945
+Busulfan,DB01008,Lymphoma,D008223
+Busulfan,DB01008,Neoplasms,D009369
+Busulfan,DB01008,Multiple Myeloma,D009101
+Busulfan,DB01008,"Leukemia, Myeloid",D007951
+Busulfan,DB01008,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Busulfan,DB01008,Polycythemia Vera,D011087
+Busulfan,DB01008,Primary Myelofibrosis,D055728
+Butoconazole,DB00639,Communicable Diseases,D003141
+Cabergoline,DB00248,Adenoma,D000236
+Capsaicin,DB06774,Herpes Zoster,D006562
+Carbamazepine,DB00564,Depression,D003863
+Carbamazepine,DB00564,Mental Disorders,D001523
+Carbamazepine,DB00564,"Stress Disorders, Post-Traumatic",D013313
+Carbamazepine,DB00564,Psychotic Disorders,D011618
+Carbamazepine,DB00564,Schizophrenia,D012559
+Carbinoxamine,DB00748,Angioedema,D000799
+Carbinoxamine,DB00748,Hypersensitivity,D006967
+Carbinoxamine,DB00748,"Rhinitis, Allergic, Perennial",D012221
+Carmustine,DB00262,Astrocytoma,D001254
+Carmustine,DB00262,Carcinoma,D002277
+Carmustine,DB00262,Colonic Neoplasms,D003110
+Carmustine,DB00262,Ependymoma,D004806
+Carmustine,DB00262,Glioblastoma,D005909
+Carmustine,DB00262,Lung Neoplasms,D008175
+Carmustine,DB00262,Lymphoma,D008223
+Carmustine,DB00262,Neoplasms,D009369
+Carmustine,DB00262,Medulloblastoma,D008527
+Carmustine,DB00262,Melanoma,D008545
+Carteolol,DB00521,Glaucoma,D005901
+Cefazolin,DB01327,Escherichia coli Infections,D004927
+Cefazolin,DB01327,Fever,D005334
+Cefazolin,DB01327,Pneumonia,D011014
+Cefazolin,DB01327,"Skin Diseases, Bacterial",D017192
+Cefazolin,DB01327,Soft Tissue Infections,D018461
+Cefazolin,DB01327,Staphylococcal Infections,D013203
+Cefazolin,DB01327,Streptococcal Infections,D013290
+Cefazolin,DB01327,Surgical Wound Infection,D013530
+Cefazolin,DB01327,Urinary Tract Infections,D014552
+Cefoxitin,DB01331,Abscess,D000038
+Cefoxitin,DB01331,Bacteroides Infections,D001442
+Cefoxitin,DB01331,Cellulitis,D002481
+Cefoxitin,DB01331,"Genital Diseases, Female",D005831
+Cefoxitin,DB01331,Pelvic Inflammatory Disease,D000292
+Cefoxitin,DB01331,Respiratory Tract Infections,D012141
+Cefoxitin,DB01331,Surgical Wound Infection,D013530
+Cephalexin,DB00567,Communicable Diseases,D003141
+Cephalexin,DB00567,Escherichia coli Infections,D004927
+Cephalexin,DB00567,Osteomyelitis,D010019
+Cephalexin,DB00567,Otitis Media,D010033
+Cephalexin,DB00567,Pharyngitis,D010612
+Cephalexin,DB00567,Pneumonia,D011014
+Cephalexin,DB00567,Prostatitis,D011472
+Cephalexin,DB00567,Proteus Infections,D011512
+Cephalexin,DB00567,Respiratory Tract Infections,D012141
+Cephalexin,DB00567,Staphylococcal Infections,D013203
+Cephalexin,DB00567,Streptococcal Infections,D013290
+Cephalexin,DB00567,Urinary Tract Infections,D014552
+Cetirizine,DB00341,Lacrimal Apparatus Diseases,D007766
+Cetirizine,DB00341,Hypersensitivity,D006967
+Cetirizine,DB00341,Pruritus,D011537
+Cetirizine,DB00341,Rhinitis,D012220
+Cetirizine,DB00341,"Rhinitis, Allergic, Perennial",D012221
+Cetirizine,DB00341,Urticaria,D014581
+Chlorambucil,DB00291,Choriocarcinoma,D002822
+Chlorambucil,DB00291,"Leukemia, Lymphoid",D007945
+Chlorambucil,DB00291,Lymphoma,D008223
+Chlorambucil,DB00291,"Lymphoma, Non-Hodgkin",D008228
+Chlorambucil,DB00291,Neoplasms,D009369
+Chlorambucil,DB00291,Breast Neoplasms,D001943
+Chlorambucil,DB00291,Ovarian Neoplasms,D010051
+Chlorambucil,DB00291,Testicular Neoplasms,D013736
+Chlorambucil,DB00291,Waldenstrom Macroglobulinemia,D008258
+Chlorcyclizine,DB08936,Motion Sickness,D009041
+Chlorcyclizine,DB08936,Vomiting,D014839
+Chlordiazepoxide,DB00475,Alcoholism,D000437
+Chlorhexidine,DB00878,Chronic Periodontitis,D055113
+Chlorhexidine,DB00878,Gingival Hemorrhage,D005884
+Chlorhexidine,DB00878,"Candidiasis, Oral",D002180
+Chlorhexidine,DB00878,Periodontal Diseases,D010510
+Chlorhexidine,DB00878,Periodontitis,D010518
+Chloroquine,DB00608,Amebiasis,D000562
+Chloroquine,DB00608,Lichen Planus,D008010
+Chloroquine,DB00608,Pemphigus,D010392
+Chloroquine,DB00608,Porphyria Cutanea Tarda,D017119
+Chloroquine,DB00608,Rheumatic Fever,D012213
+Chloroquine,DB00608,Sarcoidosis,D012507
+Chloroquine,DB00608,"Scleroderma, Systemic",D012595
+Chlorothiazide,DB00880,Liver Cirrhosis,D008103
+Chlorothiazide,DB00880,Nephrotic Syndrome,D009404
+Chlorpheniramine,DB01114,Asthma,D001249
+Chlorpheniramine,DB01114,Common Cold,D003139
+Chlorpheniramine,DB01114,"Rhinitis, Allergic, Seasonal",D006255
+Chlorpheniramine,DB01114,Hypersensitivity,D006967
+Chlorpheniramine,DB01114,Pruritus,D011537
+Chlorpheniramine,DB01114,Rhinitis,D012220
+Chlorpheniramine,DB01114,"Rhinitis, Allergic, Perennial",D012221
+Chlorpheniramine,DB01114,Urticaria,D014581
+Chlorpromazine,DB00477,Anxiety Disorders,D001008
+Chlorpromazine,DB00477,Depressive Disorder,D003866
+Chlorpromazine,DB00477,Hiccup,D006606
+Chlorpromazine,DB00477,Depression,D003863
+Chlorpromazine,DB00477,Mental Disorders,D001523
+Chlorpromazine,DB00477,Tetanus,D013742
+Chlorpromazine,DB00477,Vomiting,D014839
+Chlorpropamide,DB00672,Diabetes Mellitus,D003920
+Chlorpropamide,DB00672,Hyperglycemia,D006943
+Chlorprothixene,DB01239,Bipolar Disorder,D001714
+Chlorthalidone,DB00310,Heart Failure,D006333
+Chlorthalidone,DB00310,Hypertension,D006973
+Chlorthalidone,DB00310,Kidney Calculi,D007669
+Chlorthalidone,DB00310,Nephrotic Syndrome,D009404
+Ciclopirox,DB01188,Dermatomycoses,D003881
+Cidofovir,DB00369,Acquired Immunodeficiency Syndrome,D000163
+Cidofovir,DB00369,Cytomegalovirus Retinitis,D017726
+Cimetidine,DB00501,Esophagitis,D004941
+Cimetidine,DB00501,Gastrointestinal Hemorrhage,D006471
+Cimetidine,DB00501,"Esophagitis, Peptic",D004942
+Cimetidine,DB00501,Peptic Ulcer,D010437
+Cimetidine,DB00501,Pruritus,D011537
+Cimetidine,DB00501,Ulcer,D014456
+Cimetidine,DB00501,Urticaria,D014581
+Citalopram,DB00215,Alcoholism,D000437
+Citalopram,DB00215,Fatigue,D005221
+Citalopram,DB00215,Obsessive-Compulsive Disorder,D009771
+Citalopram,DB00215,Panic Disorder,D016584
+Citalopram,DB00215,Premenstrual Syndrome,D011293
+Clemastine,DB00283,Angioedema,D000799
+Clemastine,DB00283,"Rhinitis, Allergic, Seasonal",D006255
+Clemastine,DB00283,Hypersensitivity,D006967
+Clemastine,DB00283,"Rhinitis, Allergic, Perennial",D012221
+Clodronic acid,DB00720,Hypercalcemia,D006934
+Clomipramine,DB01242,Autistic Disorder,D001321
+Clomipramine,DB01242,Depressive Disorder,D003866
+Clomipramine,DB01242,Compulsive Behavior,D003192
+Clomipramine,DB01242,Panic Disorder,D016584
+Clomipramine,DB01242,Schizophrenia,D012559
+Clomipramine,DB01242,Trichotillomania,D014256
+Clonidine,DB00575,Diarrhea,D003967
+Clonidine,DB00575,Glaucoma,D005901
+Clonidine,DB00575,Hot Flashes,D019584
+Clonidine,DB00575,Neoplasms,D009369
+Clonidine,DB00575,Mental Disorders,D001523
+Clonidine,DB00575,Opioid-Related Disorders,D009293
+Clonidine,DB00575,Pheochromocytoma,D010673
+Clonidine,DB00575,Psychotic Disorders,D011618
+Clonidine,DB00575,Tachycardia,D013610
+Clopidogrel,DB00758,Atherosclerosis,D050197
+Clopidogrel,DB00758,Atrial Fibrillation,D001281
+Clopidogrel,DB00758,Coronary Thrombosis,D003328
+Clopidogrel,DB00758,Ischemia,D007511
+Clopidogrel,DB00758,Peripheral Vascular Diseases,D016491
+Clotrimazole,DB00257,Candidiasis,D002177
+Clotrimazole,DB00257,Dermatomycoses,D003881
+Clozapine,DB00363,Bipolar Disorder,D001714
+Clozapine,DB00363,Mental Disorders,D001523
+Clozapine,DB00363,Psychotic Disorders,D011618
+Colchicine,DB01394,Amyloidosis,D000686
+Colchicine,DB01394,"Liver Cirrhosis, Biliary",D008105
+Colchicine,DB01394,Fever,D005334
+Colistin,DB00803,Pneumonia,D011014
+Cyclophosphamide,DB00531,Adenocarcinoma,D000230
+Cyclophosphamide,DB00531,"Anemia, Hemolytic, Autoimmune",D000744
+Cyclophosphamide,DB00531,Burkitt Lymphoma,D002051
+Cyclophosphamide,DB00531,Carcinoma,D002277
+Cyclophosphamide,DB00531,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Cyclophosphamide,DB00531,"Lymphoma, Large B-Cell, Diffuse",D016403
+Cyclophosphamide,DB00531,Endometrial Neoplasms,D016889
+Cyclophosphamide,DB00531,"Sarcoma, Ewing",D012512
+Cyclophosphamide,DB00531,Hemosiderosis,D006486
+Cyclophosphamide,DB00531,Hodgkin Disease,D006689
+Cyclophosphamide,DB00531,Kidney Diseases,D007674
+Cyclophosphamide,DB00531,Leukemia,D007938
+Cyclophosphamide,DB00531,"Leukemia, Myeloid, Acute",D015470
+Cyclophosphamide,DB00531,Lung Neoplasms,D008175
+Cyclophosphamide,DB00531,Lupus Nephritis,D008181
+Cyclophosphamide,DB00531,"Leukemia, Lymphoid",D007945
+Cyclophosphamide,DB00531,"Lymphoma, Follicular",D008224
+Cyclophosphamide,DB00531,"Lymphoma, T-Cell, Cutaneous",D016410
+Cyclophosphamide,DB00531,Lymphoproliferative Disorders,D008232
+Cyclophosphamide,DB00531,Ovarian Neoplasms,D010051
+Cyclophosphamide,DB00531,"Leukemia, Myeloid",D007951
+Cyclophosphamide,DB00531,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Cyclophosphamide,DB00531,Nephrotic Syndrome,D009404
+Cyclophosphamide,DB00531,Osteosarcoma,D012516
+Cyclophosphamide,DB00531,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Cyclophosphamide,DB00531,"Red-Cell Aplasia, Pure",D012010
+Cyclophosphamide,DB00531,Rhabdomyosarcoma,D012208
+Cyclophosphamide,DB00531,Rheumatic Diseases,D012216
+Cyclophosphamide,DB00531,Sarcoma,D012509
+Cyclophosphamide,DB00531,Small Cell Lung Carcinoma,D055752
+Cyclophosphamide,DB00531,Testicular Neoplasms,D013736
+Cyclophosphamide,DB00531,Thymoma,D013945
+Cyclophosphamide,DB00531,Waldenstrom Macroglobulinemia,D008258
+Cyproheptadine,DB00434,Anaphylaxis,D000707
+Cyproheptadine,DB00434,Angioedema,D000799
+Cyproheptadine,DB00434,Cushing Syndrome,D003480
+Cyproheptadine,DB00434,"Rhinitis, Allergic, Seasonal",D006255
+Cyproheptadine,DB00434,Hypersensitivity,D006967
+Cyproheptadine,DB00434,"Rhinitis, Allergic, Perennial",D012221
+Cyproheptadine,DB00434,"Rhinitis, Vasomotor",D012223
+Cyproheptadine,DB00434,Schizophrenia,D012559
+Cysteamine,DB00847,Cystinosis,D003554
+Dacarbazine,DB00851,Carcinoma,D002277
+Dacarbazine,DB00851,Fibrosarcoma,D005354
+Dacarbazine,DB00851,Lymphoma,D008223
+Dacarbazine,DB00851,"Carcinoma, Medullary",D018276
+Dacarbazine,DB00851,Neuroblastoma,D009447
+Dacarbazine,DB00851,"Carcinoma, Islet Cell",D018273
+Dacarbazine,DB00851,Rhabdomyosarcoma,D012208
+Dacarbazine,DB00851,Sarcoma,D012509
+Dapsone,DB00250,Dermatitis,D003872
+Dapsone,DB00250,"Leprosy, Lepromatous",D015440
+Dapsone,DB00250,Malaria,D008288
+Dapsone,DB00250,"Polychondritis, Relapsing",D011081
+Dapsone,DB00250,Toxoplasmosis,D014123
+Dasatinib,DB01254,Leukemia,D007938
+Dasatinib,DB01254,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Desipramine,DB01151,Panic Disorder,D016584
+Desloratadine,DB00967,Hypersensitivity,D006967
+Desloratadine,DB00967,Pruritus,D011537
+Desloratadine,DB00967,"Rhinitis, Allergic, Perennial",D012221
+Dexbrompheniramine,DB00405,Hypersensitivity,D006967
+Dexlansoprazole,DB05351,Heartburn,D006356
+Dextroamphetamine,DB01576,Mental Disorders,D001523
+Diazepam,DB00829,Anxiety Disorders,D001008
+Diazepam,DB00829,Panic Disorder,D016584
+Diazoxide,DB01119,Hypoglycemia,D007003
+Diazoxide,DB01119,"Hypertension, Malignant",D006974
+Digoxin,DB00390,Atrial Flutter,D001282
+Digoxin,DB00390,"Cardiac Output, Low",D002303
+Digoxin,DB00390,Myocardial Infarction,D009203
+Digoxin,DB00390,"Shock, Cardiogenic",D012770
+Digoxin,DB00390,"Tachycardia, Supraventricular",D013617
+Diltiazem,DB00343,Atrial Flutter,D001282
+Diltiazem,DB00343,"Arrhythmias, Cardiac",D001145
+Diltiazem,DB00343,Coronary Vasospasm,D003329
+Diltiazem,DB00343,Myocardial Infarction,D009203
+Diltiazem,DB00343,Tachycardia,D013610
+Diltiazem,DB00343,Wolff-Parkinson-White Syndrome,D014927
+Diphenhydramine,DB01075,Anaphylaxis,D000707
+Diphenhydramine,DB01075,Angioedema,D000799
+Diphenhydramine,DB01075,Common Cold,D003139
+Diphenhydramine,DB01075,Cough,D003371
+Diphenhydramine,DB01075,Lacrimal Apparatus Diseases,D007766
+Diphenhydramine,DB01075,Hypersensitivity,D006967
+Diphenhydramine,DB01075,Motion Sickness,D009041
+Diphenhydramine,DB01075,Nausea,D009325
+Diphenhydramine,DB01075,Pruritus,D011537
+Diphenhydramine,DB01075,Urticaria,D014581
+Diphenidol,DB01231,Vomiting,D014839
+Disopyramide,DB00280,Atrial Fibrillation,D001281
+Disopyramide,DB00280,Atrial Flutter,D001282
+Disopyramide,DB00280,Myocardial Infarction,D009203
+Disopyramide,DB00280,Ventricular Premature Complexes,D018879
+Disopyramide,DB00280,Tachycardia,D013610
+Disopyramide,DB00280,"Tachycardia, Ventricular",D017180
+Dofetilide,DB00204,Atrial Flutter,D001282
+Dofetilide,DB00204,"Arrhythmias, Cardiac",D001145
+Dopamine,DB00988,Bradycardia,D001919
+Dopamine,DB00988,Kidney Diseases,D007674
+Dopamine,DB00988,Renal Insufficiency,D051437
+Dopamine,DB00988,Myocardial Infarction,D009203
+Dopamine,DB00988,Sepsis,D018805
+Dopamine,DB00988,Shock,D012769
+Dorzolamide,DB00869,Glaucoma,D005901
+Doxapram,DB00561,Apnea,D001049
+Doxapram,DB00561,"Pulmonary Disease, Chronic Obstructive",D029424
+Doxapram,DB00561,Hypercapnia,D006935
+Doxazosin,DB00590,Urinary Retention,D016055
+Doxepin,DB01142,Anxiety Disorders,D001008
+Duloxetine,DB00476,Osteoarthritis,D010003
+Duloxetine,DB00476,Depressive Disorder,D003866
+Duloxetine,DB00476,Fatigue,D005221
+Edetic acid,DB00974,"Arrhythmias, Cardiac",D001145
+Edetic acid,DB00974,Lead Poisoning,D007855
+Epinephrine,DB00668,Airway Obstruction,D000402
+Epinephrine,DB00668,Angioedema,D000799
+Epinephrine,DB00668,Bradycardia,D001919
+Epinephrine,DB00668,Bronchial Spasm,D001986
+Epinephrine,DB00668,Heart Arrest,D006323
+Epinephrine,DB00668,Glaucoma,D005901
+Epinephrine,DB00668,Heart Block,D006327
+Epinephrine,DB00668,Heart Failure,D006333
+Epinephrine,DB00668,"Shock, Septic",D012772
+Epinephrine,DB00668,Shock,D012769
+Epinephrine,DB00668,"Shock, Cardiogenic",D012770
+Epinephrine,DB00668,Urticaria,D014581
+Epinephrine,DB00668,Ventricular Fibrillation,D014693
+Erlotinib,DB00530,Pancreatic Neoplasms,D010190
+Escitalopram,DB01175,Depressive Disorder,D003866
+Esomeprazole,DB00736,Duodenal Ulcer,D004381
+Esomeprazole,DB00736,Stomach Ulcer,D013276
+Esomeprazole,DB00736,Heartburn,D006356
+Esomeprazole,DB00736,Ulcer,D014456
+Ethambutol,DB00330,"Mycobacterium Infections, Nontuberculous",D009165
+Etodolac,DB00749,Arthritis,D001168
+Famciclovir,DB00426,Exanthema,D005076
+Famciclovir,DB00426,Herpes Labialis,D006560
+Famciclovir,DB00426,Herpes Simplex,D006561
+Famciclovir,DB00426,Herpes Zoster Ophthalmicus,D006563
+Famciclovir,DB00426,Herpesviridae Infections,D006566
+Famotidine,DB00927,Ulcer,D014456
+Felbamate,DB00949,"Anemia, Aplastic",D000741
+Felbamate,DB00949,Liver Failure,D017093
+Felodipine,DB01023,Essential Hypertension,D000075222
+Fenofibrate,DB01039,Atherosclerosis,D050197
+Fenofibrate,DB01039,Coronary Artery Disease,D003324
+Fenofibrate,DB01039,Coronary Disease,D003327
+Fenofibrate,DB01039,Diabetes Mellitus,D003920
+Fenofibrate,DB01039,"Diabetes Mellitus, Type 2",D003924
+Fenofibrate,DB01039,Dyslipidemias,D050171
+Fenofibrate,DB01039,Hyperlipoproteinemia Type IV,D006953
+Fenofibrate,DB01039,Hyperlipoproteinemias,D006951
+Fenofibrate,DB01039,Hypertension,D006973
+Fenoprofen,DB00573,Arthritis,D001168
+Fesoterodine,DB06702,"Urinary Bladder, Overactive",D053201
+Flavoxate,DB01148,Cystitis,D003556
+Flavoxate,DB01148,Prostatitis,D011472
+Flavoxate,DB01148,Urethritis,D014526
+Fluconazole,DB00196,Acquired Immunodeficiency Syndrome,D000163
+Fluconazole,DB00196,Blastomycosis,D001759
+Fluconazole,DB00196,Coccidioidomycosis,D003047
+Fluconazole,DB00196,Communicable Diseases,D003141
+Fluconazole,DB00196,Esophageal Diseases,D004935
+Fluconazole,DB00196,Esophagitis,D004941
+Fluconazole,DB00196,"Eye Infections, Fungal",D015821
+Fluconazole,DB00196,Fungemia,D016469
+Fluconazole,DB00196,Histoplasmosis,D006660
+Fluconazole,DB00196,Peritonitis,D010538
+Fluconazole,DB00196,Pneumonia,D011014
+Fluconazole,DB00196,Urinary Tract Infections,D014552
+Fluconazole,DB00196,Vaginitis,D014627
+Fomepizole,DB01213,Acidosis,D000138
+Formoterol,DB00983,"Asthma, Exercise-Induced",D001250
+Formoterol,DB00983,Bronchial Spasm,D001986
+Formoterol,DB00983,"Bronchitis, Chronic",D029481
+Formoterol,DB00983,"Pulmonary Disease, Chronic Obstructive",D029424
+Formoterol,DB00983,Dyspnea,D004417
+Formoterol,DB00983,Lung Diseases,D008171
+Foscarnet,DB00529,Acquired Immunodeficiency Syndrome,D000163
+Foscarnet,DB00529,Cytomegalovirus Infections,D003586
+Foscarnet,DB00529,Cytomegalovirus Retinitis,D017726
+Foscarnet,DB00529,Herpes Genitalis,D006558
+Foscarnet,DB00529,Retinitis,D012173
+Fosfomycin,DB00828,Bacteriuria,D001437
+Fosfomycin,DB00828,Cystitis,D003556
+Furosemide,DB00695,Anuria,D001002
+Furosemide,DB00695,Ascites,D001201
+Furosemide,DB00695,Kidney Diseases,D007674
+Furosemide,DB00695,Acute Kidney Injury,D058186
+Furosemide,DB00695,"Kidney Failure, Chronic",D007676
+Furosemide,DB00695,Liver Cirrhosis,D008103
+Furosemide,DB00695,Liver Diseases,D008107
+Furosemide,DB00695,Nephrotic Syndrome,D009404
+Furosemide,DB00695,Oliguria,D009846
+Gefitinib,DB00317,Lung Neoplasms,D008175
+Gemfibrozil,DB01241,Coronary Artery Disease,D003324
+Gemfibrozil,DB01241,Coronary Disease,D003327
+Gemfibrozil,DB01241,Dyslipidemias,D050171
+Gemfibrozil,DB01241,Heart Diseases,D006331
+Gemfibrozil,DB01241,Hypercholesterolemia,D006937
+Gemfibrozil,DB01241,"Hyperlipidemia, Familial Combined",D006950
+Gemfibrozil,DB01241,Hyperlipoproteinemia Type IV,D006953
+Gemfibrozil,DB01241,Hyperlipoproteinemias,D006951
+Gemfibrozil,DB01241,Pancreatitis,D010195
+Glycerin,DB09462,Constipation,D003248
+Goserelin,DB00014,Carcinoma,D002277
+Goserelin,DB00014,Prostatic Neoplasms,D011471
+Goserelin,DB00014,Neoplasms,D009369
+Goserelin,DB00014,Menorrhagia,D008595
+Goserelin,DB00014,"Puberty, Precocious",D011629
+Goserelin,DB00014,Uterine Hemorrhage,D014592
+Guaifenesin,DB00874,Asthma,D001249
+Guaifenesin,DB00874,Bronchitis,D001991
+Guaifenesin,DB00874,Respiratory Tract Infections,D012141
+Guanethidine,DB01170,"Hypertension, Renal",D006977
+Hydrochlorothiazide,DB00999,Cardiovascular Diseases,D002318
+Hydrochlorothiazide,DB00999,Heart Diseases,D006331
+Hydrochlorothiazide,DB00999,Kidney Calculi,D007669
+Hydrochlorothiazide,DB00999,Kidney Diseases,D007674
+Hydrochlorothiazide,DB00999,"Kidney Failure, Chronic",D007676
+Hydrochlorothiazide,DB00999,Liver Cirrhosis,D008103
+Hydrochlorothiazide,DB00999,Nephrotic Syndrome,D009404
+Hydrochlorothiazide,DB00999,Pre-Eclampsia,D011225
+Hydromorphone,DB00327,Neoplasms,D009369
+Hydroquinone,DB09526,Skin Diseases,D012871
+Hydroquinone,DB09526,Hyperpigmentation,D017495
+Hydroxychloroquine,DB01611,Arthritis,D001168
+Hydroxychloroquine,DB01611,Photosensitivity Disorders,D010787
+Hydroxychloroquine,DB01611,Porphyria Cutanea Tarda,D017119
+Hydroxychloroquine,DB01611,Rheumatic Fever,D012213
+Hydroxyurea,DB01005,Anemia,D000740
+Hydroxyurea,DB01005,"Anemia, Sickle Cell",D000755
+Hydroxyurea,DB01005,Carcinoma,D002277
+Hydroxyurea,DB01005,Head and Neck Neoplasms,D006258
+Hydroxyurea,DB01005,Hypereosinophilic Syndrome,D017681
+Hydroxyurea,DB01005,Leukocytosis,D007964
+Hydroxyurea,DB01005,Ovarian Neoplasms,D010051
+Hydroxyurea,DB01005,Neoplasms,D009369
+Hydroxyurea,DB01005,Melanoma,D008545
+Hydroxyurea,DB01005,"Leukemia, Myeloid",D007951
+Hydroxyurea,DB01005,Myeloproliferative Disorders,D009196
+Hydroxyurea,DB01005,"Carcinoma, Non-Small-Cell Lung",D002289
+Hydroxyurea,DB01005,Polycythemia Vera,D011087
+Hydroxyurea,DB01005,Prostatic Neoplasms,D011471
+Hydroxyurea,DB01005,Psoriasis,D011565
+Hydroxyurea,DB01005,"Thrombocythemia, Essential",D013920
+Hydroxyurea,DB01005,Uterine Neoplasms,D014594
+Hydroxyzine,DB00557,Asthma,D001249
+Hydroxyzine,DB00557,Nausea,D009325
+Hydroxyzine,DB00557,Neurotic Disorders,D009497
+Hydroxyzine,DB00557,Vomiting,D014839
+Hyoscyamine,DB00424,Colic,D003085
+Hyoscyamine,DB00424,Cystitis,D003556
+Hyoscyamine,DB00424,Disease,D004194
+Hyoscyamine,DB00424,Diverticulitis,D004238
+Hyoscyamine,DB00424,Hyperhidrosis,D006945
+Hyoscyamine,DB00424,Irritable Bowel Syndrome,D043183
+Hyoscyamine,DB00424,Pancreatitis,D010195
+Hyoscyamine,DB00424,Rhinitis,D012220
+Idoxuridine,DB00249,Keratitis,D007634
+Idoxuridine,DB00249,"Keratitis, Dendritic",D007635
+Idoxuridine,DB00249,Keratoconjunctivitis,D007637
+Ifosfamide,DB01181,Carcinoma,D002277
+Ifosfamide,DB01181,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Ifosfamide,DB01181,Hodgkin Disease,D006689
+Ifosfamide,DB01181,Leukemia,D007938
+Ifosfamide,DB01181,Lung Neoplasms,D008175
+Ifosfamide,DB01181,Lymphoma,D008223
+Ifosfamide,DB01181,"Lymphoma, Non-Hodgkin",D008228
+Ifosfamide,DB01181,Ovarian Neoplasms,D010051
+Ifosfamide,DB01181,Testicular Neoplasms,D013736
+Ifosfamide,DB01181,Urinary Bladder Neoplasms,D001749
+Ifosfamide,DB01181,Breast Neoplasms,D001943
+Ifosfamide,DB01181,Osteosarcoma,D012516
+Ifosfamide,DB01181,Pancreatic Neoplasms,D010190
+Ifosfamide,DB01181,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Ifosfamide,DB01181,Rhabdomyosarcoma,D012208
+Ifosfamide,DB01181,Sarcoma,D012509
+Ifosfamide,DB01181,Small Cell Lung Carcinoma,D055752
+Imatinib,DB00619,Gastrointestinal Neoplasms,D005770
+Imatinib,DB00619,Leukemia,D007938
+Imatinib,DB00619,"Leukemia, Myeloid, Accelerated Phase",D015465
+Imatinib,DB00619,"Leukemia, Myeloid",D007951
+Imatinib,DB00619,Myeloproliferative Disorders,D009196
+Imatinib,DB00619,Neoplasms,D009369
+Imatinib,DB00619,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Imatinib,DB00619,Sarcoma,D012509
+Imipramine,DB00458,Attention Deficit Disorder with Hyperactivity,D001289
+Imipramine,DB00458,Feeding and Eating Disorders,D001068
+Imipramine,DB00458,Enuresis,D004775
+Imipramine,DB00458,Panic Disorder,D016584
+Imipramine,DB00458,Schizophrenia,D012559
+Imiquimod,DB00724,"Carcinoma, Basal Cell",D002280
+Imiquimod,DB00724,Keratosis,D007642
+Imiquimod,DB00724,Molluscum Contagiosum,D008976
+Indapamide,DB00808,Heart Failure,D006333
+Iodine,DB05382,Burns,D002056
+Iodine,DB05382,Leg Ulcer,D007871
+Isocarboxazid,DB01247,Depressive Disorder,D003866
+Isoflurane,DB00753,Status Asthmaticus,D013224
+Isoniazid,DB00951,HIV Infections,D015658
+Isosorbide dinitrate,DB00883,Coronary Artery Disease,D003324
+Isosorbide dinitrate,DB00883,Coronary Disease,D003327
+Isoxsuprine,DB08941,Arteriosclerosis,D001161
+Isoxsuprine,DB08941,"Obstetric Labor, Premature",D007752
+Isoxsuprine,DB08941,Thromboangiitis Obliterans,D013919
+Ivermectin,DB00602,Ascariasis,D001196
+Ivermectin,DB00602,Enterobiasis,D017229
+Ivermectin,DB00602,Trichuriasis,D014257
+Ivermectin,DB00602,Mansonelliasis,D008368
+Ivermectin,DB00602,Nematode Infections,D009349
+Ivermectin,DB00602,"Onchocerciasis, Ocular",D015827
+Ivermectin,DB00602,Pruritus,D011537
+Ivermectin,DB00602,Scabies,D012532
+Ketoconazole,DB01026,Acanthamoeba Keratitis,D015823
+Ketoconazole,DB01026,Candidiasis,D002177
+Ketoconazole,DB01026,"Candidiasis, Chronic Mucocutaneous",D002178
+Ketoconazole,DB01026,"Candidiasis, Vulvovaginal",D002181
+Ketoconazole,DB01026,Leishmaniasis,D007896
+Ketotifen,DB00920,Asthma,D001249
+Ketotifen,DB00920,Conjunctivitis,D003231
+Ketotifen,DB00920,Hypersensitivity,D006967
+Ketotifen,DB00920,Pruritus,D011537
+Ketotifen,DB00920,"Rhinitis, Allergic, Perennial",D012221
+Labetalol,DB00598,"Hypertension, Malignant",D006974
+Labetalol,DB00598,Myocardial Infarction,D009203
+Labetalol,DB00598,Pheochromocytoma,D010673
+Labetalol,DB00598,Pre-Eclampsia,D011225
+Lamotrigine,DB00555,Depression,D003863
+Lansoprazole,DB00448,Heartburn,D006356
+Lansoprazole,DB00448,Ulcer,D014456
+Lanthanum carbonate,DB06792,Kidney Diseases,D007674
+Leuprolide,DB00007,Anemia,D000740
+Leuprolide,DB00007,Endometrial Neoplasms,D016889
+Leuprolide,DB00007,Endometriosis,D004715
+Leuprolide,DB00007,Leiomyoma,D007889
+Leuprolide,DB00007,Breast Neoplasms,D001943
+Leuprolide,DB00007,Menorrhagia,D008595
+Leuprolide,DB00007,Ovarian Neoplasms,D010051
+Leuprolide,DB00007,"Puberty, Precocious",D011629
+Leuprolide,DB00007,Prostatic Hyperplasia,D011470
+Levamisole,DB00848,Colonic Neoplasms,D003110
+Levamisole,DB00848,Helminthiasis,D006373
+Levamisole,DB00848,Melanoma,D008545
+Levobunolol,DB01210,Glaucoma,D005901
+Levocetirizine,DB06282,"Rhinitis, Allergic, Perennial",D012221
+Levocetirizine,DB06282,Urticaria,D014581
+Lidocaine,DB00281,Fissure in Ano,D005401
+Lidocaine,DB00281,Burns,D002056
+Lidocaine,DB00281,Herpes Zoster,D006562
+Lidocaine,DB00281,Myocardial Infarction,D009203
+Lidocaine,DB00281,"Tachycardia, Paroxysmal",D013614
+Lidocaine,DB00281,"Tachycardia, Ventricular",D017180
+Lidocaine,DB00281,Ventricular Fibrillation,D014693
+Lomustine,DB01206,Colonic Neoplasms,D003110
+Lomustine,DB01206,Kidney Neoplasms,D007680
+Lomustine,DB01206,Lung Neoplasms,D008175
+Lomustine,DB01206,"Lymphoma, Non-Hodgkin",D008228
+Lomustine,DB01206,Melanoma,D008545
+Lomustine,DB01206,Neoplasms,D009369
+Loperamide,DB00836,"Dysentery, Bacillary",D004405
+Loperamide,DB00836,Gastroenteritis,D005759
+Loperamide,DB00836,Inflammatory Bowel Diseases,D015212
+Loratadine,DB00455,Pruritus,D011537
+Loratadine,DB00455,Rhinitis,D012220
+Loratadine,DB00455,"Rhinitis, Allergic, Perennial",D012221
+Loratadine,DB00455,Urticaria,D014581
+Loxapine,DB00408,Psychotic Disorders,D011618
+Mafenide,DB06795,Bacterial Infections,D001424
+Mafenide,DB06795,Burns,D002056
+Mafenide,DB06795,Wound Infection,D014946
+Maprotiline,DB00934,Bipolar Disorder,D001714
+Maprotiline,DB00934,Depression,D003863
+Mechlorethamine,DB00888,"Carcinoma, Bronchogenic",D002283
+Mechlorethamine,DB00888,Carcinoma,D002277
+Mechlorethamine,DB00888,Leukemia,D007938
+Mechlorethamine,DB00888,"Leukemia, Lymphoid",D007945
+Mechlorethamine,DB00888,Lymphoma,D008223
+Mechlorethamine,DB00888,Neoplasms,D009369
+Mechlorethamine,DB00888,"Pleural Effusion, Malignant",D016066
+Meclizine,DB00737,Motion Sickness,D009041
+Meclizine,DB00737,Nausea,D009325
+Meclizine,DB00737,Vomiting,D014839
+Melatonin,DB01065,Developmental Disabilities,D002658
+Melatonin,DB01065,Neoplasms,D009369
+Melatonin,DB01065,Thrombocytopenia,D013921
+Mercaptopurine,DB01033,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Mercaptopurine,DB01033,Crohn Disease,D003424
+Mercaptopurine,DB01033,Hodgkin Disease,D006689
+Mercaptopurine,DB01033,Leukemia,D007938
+Mercaptopurine,DB01033,"Leukemia, Myeloid, Acute",D015470
+Mercaptopurine,DB01033,"Leukemia, Lymphoid",D007945
+Mercaptopurine,DB01033,Lymphoma,D008223
+Mercaptopurine,DB01033,"Lymphoma, Non-Hodgkin",D008228
+Mercaptopurine,DB01033,Neoplasms,D009369
+Mercaptopurine,DB01033,"Leukemia, Myeloid",D007951
+Mercaptopurine,DB01033,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Mercaptopurine,DB01033,"Colitis, Ulcerative",D003093
+Metformin,DB00331,Diabetes Mellitus,D003920
+Metformin,DB00331,"Diabetes Mellitus, Type 1",D003922
+Metformin,DB00331,Hyperglycemia,D006943
+Metformin,DB00331,Polycystic Ovary Syndrome,D011085
+Methadone,DB00333,"Behavior, Addictive",D016739
+Methadone,DB00333,Opioid-Related Disorders,D009293
+Methenamine,DB06799,Bacteriuria,D001437
+Methenamine,DB06799,Cystitis,D003556
+Methotrimeprazine,DB01403,Bipolar Disorder,D001714
+Methotrimeprazine,DB01403,Psychotic Disorders,D011618
+Methotrimeprazine,DB01403,Schizophrenia,D012559
+Metoclopramide,DB01233,Anorexia,D000855
+Metoclopramide,DB01233,Heartburn,D006356
+Metoclopramide,DB01233,Postoperative Nausea and Vomiting,D020250
+Metoclopramide,DB01233,Stomach Diseases,D013272
+Metoclopramide,DB01233,Vomiting,D014839
+Metolazone,DB00524,Heart Failure,D006333
+Metolazone,DB00524,Kidney Diseases,D007674
+Metolazone,DB00524,Nephrotic Syndrome,D009404
+Metoprolol,DB00264,Atrial Fibrillation,D001281
+Metoprolol,DB00264,Atrial Flutter,D001282
+Metoprolol,DB00264,"Arrhythmias, Cardiac",D001145
+Metoprolol,DB00264,"Tachycardia, Supraventricular",D013617
+Metoprolol,DB00264,Tachycardia,D013610
+Metoprolol,DB00264,"Tachycardia, Ventricular",D017180
+Metoprolol,DB00264,Ventricular Fibrillation,D014693
+Metronidazole,DB00916,Bacteroides Infections,D001442
+Metronidazole,DB00916,Colitis,D003092
+Metronidazole,DB00916,Duodenal Ulcer,D004381
+Metronidazole,DB00916,"Enterocolitis, Pseudomembranous",D004761
+Metronidazole,DB00916,Erythema,D004890
+Metronidazole,DB00916,Gastroenteritis,D005759
+Metronidazole,DB00916,Lung Abscess,D008169
+Metronidazole,DB00916,Pneumonia,D011014
+Metronidazole,DB00916,Sexually Transmitted Diseases,D012749
+Metronidazole,DB00916,Surgical Wound Infection,D013530
+Metronidazole,DB00916,Trichomonas Vaginitis,D014247
+Metronidazole,DB00916,Uterine Cervicitis,D002575
+Metronidazole,DB00916,Vaginitis,D014627
+Metronidazole,DB00916,Vulvovaginitis,D014848
+Metyrosine,DB00765,Hypertension,D006973
+Mexiletine,DB00379,"Arrhythmias, Cardiac",D001145
+Mexiletine,DB00379,Ventricular Premature Complexes,D018879
+Mexiletine,DB00379,Tachycardia,D013610
+Mexiletine,DB00379,Ventricular Fibrillation,D014693
+Midodrine,DB00211,Hypotension,D007022
+Miglitol,DB00491,Diabetes Mellitus,D003920
+Minoxidil,DB00350,"Hypertension, Malignant",D006974
+Mirtazapine,DB00370,Depressive Disorder,D003866
+Mitomycin,DB00305,Urinary Bladder Neoplasms,D001749
+Mitomycin,DB00305,Colorectal Neoplasms,D015179
+Mitomycin,DB00305,Glaucoma,D005901
+Mitomycin,DB00305,"Carcinoma, Non-Small-Cell Lung",D002289
+Mitotane,DB00648,Carcinoma,D002277
+Mitotane,DB00648,Cushing Syndrome,D003480
+Mitotane,DB00648,Adrenal Cortex Neoplasms,D000306
+Montelukast,DB00471,Cough,D003371
+Montelukast,DB00471,"Rhinitis, Allergic, Seasonal",D006255
+Montelukast,DB00471,Pruritus,D011537
+Montelukast,DB00471,Rhinitis,D012220
+Montelukast,DB00471,"Rhinitis, Allergic, Perennial",D012221
+Moricizine,DB00680,Tachycardia,D013610
+Moricizine,DB00680,"Tachycardia, Ventricular",D017180
+Morphine,DB00295,Dyspnea,D004417
+Morphine,DB00295,Myocardial Infarction,D009203
+Morphine,DB00295,Pulmonary Edema,D011654
+Mycophenolate mofetil,DB00688,Crohn Disease,D003424
+Mycophenolate mofetil,DB00688,Graft vs Host Disease,D006086
+Mycophenolate mofetil,DB00688,Psoriasis,D011565
+Mycophenolic acid,DB01024,Graft vs Host Disease,D006086
+Mycophenolic acid,DB01024,Psoriasis,D011565
+Nabilone,DB00486,Neoplasms,D009369
+Nabilone,DB00486,Vomiting,D014839
+Nabumetone,DB00461,Arthritis,D001168
+Nadolol,DB01203,"Arrhythmias, Cardiac",D001145
+Naloxone,DB01183,Drug Overdose,D062787
+Naloxone,DB01183,Hypotension,D007022
+Naloxone,DB01183,Respiration Disorders,D012120
+Naloxone,DB01183,Respiratory Insufficiency,D012131
+Naloxone,DB01183,"Shock, Septic",D012772
+Naloxone,DB01183,Shock,D012769
+Naltrexone,DB00704,"Behavior, Addictive",D016739
+Naltrexone,DB00704,Opioid-Related Disorders,D009293
+Naphazoline,DB06711,Hyperemia,D006940
+Naphazoline,DB06711,Sinusitis,D012852
+Nedocromil,DB00716,Pruritus,D011537
+Nefazodone,DB01149,Depressive Disorder,D003866
+Nefazodone,DB01149,Depression,D003863
+Nefazodone,DB01149,"Stress Disorders, Post-Traumatic",D013313
+Nelfinavir,DB00220,Acquired Immunodeficiency Syndrome,D000163
+Nelfinavir,DB00220,HIV Seropositivity,D006679
+Nevirapine,DB00238,Acquired Immunodeficiency Syndrome,D000163
+Nevirapine,DB00238,Communicable Diseases,D003141
+Nevirapine,DB00238,HIV Seropositivity,D006679
+Niacin,DB00627,Arteriosclerosis,D001161
+Niacin,DB00627,Atherosclerosis,D050197
+Niacin,DB00627,Coronary Artery Disease,D003324
+Niacin,DB00627,Coronary Disease,D003327
+Niacin,DB00627,Diabetes Mellitus,D003920
+Niacin,DB00627,Dyslipidemias,D050171
+Niacin,DB00627,Heart Diseases,D006331
+Niacin,DB00627,Hypercholesterolemia,D006937
+Niacin,DB00627,Hyperlipidemias,D006949
+Niacin,DB00627,Hyperlipoproteinemias,D006951
+Niacin,DB00627,Hypertriglyceridemia,D015228
+Niacin,DB00627,Myocardial Infarction,D009203
+Niacin,DB00627,Pellagra,D010383
+Nicotine,DB00184,"Colitis, Ulcerative",D003093
+Nifedipine,DB01115,Coronary Vasospasm,D003329
+Nifedipine,DB01115,"Hypertrophy, Left Ventricular",D017379
+Nifedipine,DB01115,"Obstetric Labor, Premature",D007752
+Nifedipine,DB01115,Raynaud Disease,D011928
+Nimodipine,DB00393,Hemorrhage,D006470
+Nitroglycerin,DB00727,Fissure in Ano,D005401
+Nitroglycerin,DB00727,Heart Failure,D006333
+Nitroglycerin,DB00727,Coronary Artery Disease,D003324
+Nitroglycerin,DB00727,Hypertension,D006973
+Nitroglycerin,DB00727,Myocardial Infarction,D009203
+Nitroglycerin,DB00727,"Hypertension, Pulmonary",D006976
+Norepinephrine,DB00368,Heart Arrest,D006323
+Norepinephrine,DB00368,Myocardial Infarction,D009203
+Norepinephrine,DB00368,"Shock, Septic",D012772
+Norepinephrine,DB00368,Shock,D012769
+Nortriptyline,DB00540,Anxiety Disorders,D001008
+Nortriptyline,DB00540,Attention Deficit Disorder with Hyperactivity,D001289
+Nortriptyline,DB00540,Enuresis,D004775
+Nortriptyline,DB00540,Panic Disorder,D016584
+Olanzapine,DB00334,Depressive Disorder,D003866
+Olanzapine,DB00334,Depression,D003863
+Olanzapine,DB00334,Mental Disorders,D001523
+Olanzapine,DB00334,Psychotic Disorders,D011618
+Omeprazole,DB00338,Dyspepsia,D004415
+Omeprazole,DB00338,Gastritis,D005756
+Omeprazole,DB00338,Heartburn,D006356
+Omeprazole,DB00338,"Mastocytosis, Systemic",D034721
+Omeprazole,DB00338,Ulcer,D014456
+Orlistat,DB01083,Diabetes Mellitus,D003920
+Orlistat,DB01083,Hypercholesterolemia,D006937
+Orlistat,DB01083,Hypertension,D006973
+Orlistat,DB01083,Overweight,D050177
+Oseltamivir,DB00198,Fever,D005334
+Oseltamivir,DB00198,Influenza in Birds,D005585
+Oxamniquine,DB01096,Schistosomiasis mansoni,D012555
+Oxaprozin,DB00991,Arthritis,D001168
+Oxcarbazepine,DB00776,Bipolar Disorder,D001714
+Oxtriphylline,DB01303,Asthma,D001249
+Oxtriphylline,DB01303,Bronchitis,D001991
+Oxtriphylline,DB01303,Pulmonary Emphysema,D011656
+Oxybutynin,DB01062,"Urinary Bladder, Overactive",D053201
+Oxybutynin,DB01062,Urinary Incontinence,D014549
+Oxymetazoline,DB00935,Common Cold,D003139
+Oxymetazoline,DB00935,Conjunctivitis,D003231
+Oxymetazoline,DB00935,"Rhinitis, Allergic, Seasonal",D006255
+Oxymetazoline,DB00935,Hypersensitivity,D006967
+Oxymetazoline,DB00935,Rhinitis,D012220
+Palonosetron,DB00377,Vomiting,D014839
+Pantoprazole,DB00213,Duodenal Ulcer,D004381
+Pantoprazole,DB00213,Dyspepsia,D004415
+Pantoprazole,DB00213,Stomach Ulcer,D013276
+Pantoprazole,DB00213,Gastrointestinal Diseases,D005767
+Pantoprazole,DB00213,Heartburn,D006356
+Pantoprazole,DB00213,"Esophagitis, Peptic",D004942
+Papaverine,DB01113,Colic,D003085
+Papaverine,DB01113,Arterial Occlusive Diseases,D001157
+Papaverine,DB01113,Embolism,D004617
+Papaverine,DB01113,Erectile Dysfunction,D007172
+Papaverine,DB01113,Myocardial Infarction,D009203
+Papaverine,DB01113,Pulmonary Embolism,D011655
+Papaverine,DB01113,Vascular Diseases,D014652
+Pentamidine,DB00738,"Leishmaniasis, Visceral",D007898
+Pentoxifylline,DB00806,"Anemia, Sickle Cell",D000755
+Pentoxifylline,DB00806,Arterial Occlusive Diseases,D001157
+Pentoxifylline,DB00806,Leg Ulcer,D007871
+Pentoxifylline,DB00806,Thrombosis,D013927
+Pentoxifylline,DB00806,Vascular Diseases,D014652
+Pentoxifylline,DB00806,Vasculitis,D014657
+Perindopril,DB00790,Heart Failure,D006333
+Perindopril,DB00790,Coronary Artery Disease,D003324
+Perindopril,DB00790,Coronary Disease,D003327
+Perindopril,DB00790,Diabetic Nephropathies,D003928
+Perindopril,DB00790,Essential Hypertension,D000075222
+Perindopril,DB00790,"Hypertrophy, Left Ventricular",D017379
+Perindopril,DB00790,Myocardial Infarction,D009203
+Perphenazine,DB00850,Mental Disorders,D001523
+Perphenazine,DB00850,Psychotic Disorders,D011618
+Perphenazine,DB00850,Vomiting,D014839
+Phenazopyridine,DB01438,Urinary Tract Infections,D014552
+Phenelzine,DB00780,"Depressive Disorder, Major",D003865
+Phenol,DB03255,"Stomatitis, Aphthous",D013281
+Phenol,DB03255,Pharyngitis,D010612
+Phenoxybenzamine,DB00925,Urinary Bladder Neck Obstruction,D001748
+Phenoxybenzamine,DB00925,Hypertension,D006973
+Phenoxybenzamine,DB00925,Urinary Incontinence,D014549
+Phentermine,DB00191,Overweight,D050177
+Phenylalanine,DB00120,Depression,D003863
+Phenylalanine,DB00120,Vitiligo,D014820
+Phenylbutazone,DB00812,"Spondylitis, Ankylosing",D013167
+Phenylephrine,DB00388,Glaucoma,D005901
+Phenylephrine,DB00388,"Glaucoma, Open-Angle",D005902
+Phenylephrine,DB00388,Hypersensitivity,D006967
+Phenylephrine,DB00388,Hypotension,D007022
+Phenylephrine,DB00388,"Shock, Septic",D012772
+Phenylephrine,DB00388,Shock,D012769
+Phenylephrine,DB00388,"Tachycardia, Supraventricular",D013617
+Phenylephrine,DB00388,Tachycardia,D013610
+Phenytoin,DB00252,"Arrhythmias, Cardiac",D001145
+Phenytoin,DB00252,Epidermolysis Bullosa,D004820
+Physostigmine,DB00981,Glaucoma,D005901
+Pilocarpine,DB01085,"Glaucoma, Angle-Closure",D015812
+Pilocarpine,DB01085,Glaucoma,D005901
+Pilocarpine,DB01085,Sjogren's Syndrome,D012859
+Pindolol,DB00960,Atrial Fibrillation,D001281
+Pindolol,DB00960,Myocardial Infarction,D009203
+Pioglitazone,DB01132,Coronary Artery Disease,D003324
+Pioglitazone,DB01132,Diabetes Mellitus,D003920
+Pioglitazone,DB01132,"Diabetes Mellitus, Type 1",D003922
+Pioglitazone,DB01132,Diabetic Ketoacidosis,D016883
+Pioglitazone,DB01132,Hepatitis,D006505
+Pioglitazone,DB01132,Hyperglycemia,D006943
+Pioglitazone,DB01132,Hypertension,D006973
+Pirbuterol,DB01291,Bronchial Spasm,D001986
+Piroxicam,DB00554,"Spondylitis, Ankylosing",D013167
+Piroxicam,DB00554,Arthritis,D001168
+Piroxicam,DB00554,Inflammation,D007249
+Podophyllin,DB09094,Condylomata Acuminata,D003218
+Polymyxin B,DB00781,Bacteremia,D016470
+Polymyxin B,DB00781,"Eye Infections, Bacterial",D015818
+Polymyxin B,DB00781,Pseudomonas Infections,D011552
+Pralidoxime,DB00733,Drug Overdose,D062787
+Pralidoxime,DB00733,Poisoning,D011041
+Pramipexole,DB00413,Depressive Disorder,D003866
+Prasugrel,DB06209,Myocardial Infarction,D009203
+Praziquantel,DB01058,Clonorchiasis,D003003
+Praziquantel,DB01058,Cysticercosis,D003551
+Praziquantel,DB01058,Helminthiasis,D006373
+Praziquantel,DB01058,"Intestinal Diseases, Parasitic",D007411
+Praziquantel,DB01058,Schistosomiasis haematobia,D012553
+Praziquantel,DB01058,Schistosomiasis japonica,D012554
+Praziquantel,DB01058,Schistosomiasis mansoni,D012555
+Prazosin,DB00457,Adrenal Gland Neoplasms,D000310
+Prazosin,DB00457,Pheochromocytoma,D010673
+Prazosin,DB00457,"Stress Disorders, Post-Traumatic",D013313
+Prazosin,DB00457,Raynaud Disease,D011928
+Pregabalin,DB00230,Fatigue,D005221
+Primaquine,DB01087,"Malaria, Falciparum",D016778
+Probenecid,DB01032,Arthritis,D001168
+Probenecid,DB01032,Gonorrhea,D006069
+Probucol,DB01599,Coronary Artery Disease,D003324
+Probucol,DB01599,Hyperlipoproteinemias,D006951
+Procainamide,DB01035,Atrial Fibrillation,D001281
+Procainamide,DB01035,Atrial Flutter,D001282
+Procainamide,DB01035,Heart Diseases,D006331
+Procainamide,DB01035,Myocardial Infarction,D009203
+Procainamide,DB01035,Ventricular Premature Complexes,D018879
+Procainamide,DB01035,"Tachycardia, Supraventricular",D013617
+Procainamide,DB01035,Tachycardia,D013610
+Procainamide,DB01035,"Tachycardia, Ventricular",D017180
+Procarbazine,DB01168,Glioma,D005910
+Procarbazine,DB01168,Lung Neoplasms,D008175
+Procarbazine,DB01168,Lymphoma,D008223
+Procarbazine,DB01168,"Lymphoma, Non-Hodgkin",D008228
+Procarbazine,DB01168,Neoplasms,D009369
+Procarbazine,DB01168,Melanoma,D008545
+Procarbazine,DB01168,Multiple Myeloma,D009101
+Prochlorperazine,DB00433,Anxiety Disorders,D001008
+Prochlorperazine,DB00433,Psychotic Disorders,D011618
+Prochlorperazine,DB00433,Vomiting,D014839
+Promethazine,DB01069,"Rhinitis, Allergic",D065631
+Promethazine,DB01069,Anaphylaxis,D000707
+Promethazine,DB01069,Hypersensitivity,D006967
+Promethazine,DB01069,Motion Sickness,D009041
+Promethazine,DB01069,Vomiting,D014839
+Propafenone,DB01182,"Arrhythmias, Cardiac",D001145
+Propafenone,DB01182,"Tachycardia, Ventricular",D017180
+Propranolol,DB00571,Atrial Flutter,D001282
+Propranolol,DB00571,"Arrhythmias, Cardiac",D001145
+Propranolol,DB00571,Heart Diseases,D006331
+Propranolol,DB00571,Myocardial Infarction,D009203
+Propranolol,DB00571,Neoplasms,D009369
+Propranolol,DB00571,Pheochromocytoma,D010673
+Propranolol,DB00571,"Cardiac Complexes, Premature",D005117
+Propranolol,DB00571,Tachycardia,D013610
+Propranolol,DB00571,"Tachycardia, Ventricular",D017180
+Propranolol,DB00571,Thyrotoxicosis,D013971
+Propranolol,DB00571,Ventricular Fibrillation,D014693
+Propylthiouracil,DB00550,Goiter,D006042
+Propylthiouracil,DB00550,Graves Disease,D006111
+Pseudoephedrine,DB00852,Sinusitis,D012852
+Pyrantel,DB11156,Ancylostomiasis,D000724
+Pyrantel,DB11156,Trichuriasis,D014257
+Pyrantel,DB11156,Nematode Infections,D009349
+Pyrazinamide,DB00339,HIV Infections,D015658
+Pyridoxine,DB00165,Anemia,D000740
+Pyridoxine,DB00165,"Metabolism, Inborn Errors",D008661
+Pyridoxine,DB00165,Nausea,D009325
+Pyridoxine,DB00165,Tuberculosis,D014376
+Pyridoxine,DB00165,Vomiting,D014839
+Quetiapine,DB01224,Depressive Disorder,D003866
+Quetiapine,DB01224,"Depressive Disorder, Major",D003865
+Quetiapine,DB01224,Depression,D003863
+Quetiapine,DB01224,Mental Disorders,D001523
+Quetiapine,DB01224,Psychotic Disorders,D011618
+Rabeprazole,DB01129,Heartburn,D006356
+Rabeprazole,DB01129,Ulcer,D014456
+Ramipril,DB00178,Coronary Artery Disease,D003324
+Ramipril,DB00178,Diabetes Mellitus,D003920
+Ramipril,DB00178,Diabetic Nephropathies,D003928
+Ramipril,DB00178,Kidney Diseases,D007674
+Ramipril,DB00178,"Hypertrophy, Left Ventricular",D017379
+Ramipril,DB00178,Myocardial Infarction,D009203
+Ramipril,DB00178,Peripheral Vascular Diseases,D016491
+Repaglinide,DB00912,Diabetes Mellitus,D003920
+Rilpivirine,DB08864,Communicable Diseases,D003141
+Risperidone,DB00734,Aggression,D000374
+Risperidone,DB00734,Depression,D003863
+Risperidone,DB00734,Mental Disorders,D001523
+Risperidone,DB00734,Psychotic Disorders,D011618
+Selegiline,DB01037,Attention Deficit Disorder with Hyperactivity,D001289
+Selegiline,DB01037,Depressive Disorder,D003866
+Selegiline,DB01037,Depression,D003863
+Selegiline,DB01037,Schizophrenia,D012559
+Sevelamer,DB00658,Kidney Diseases,D007674
+Silver sulfadiazine,DB05245,Burns,D002056
+Silver sulfadiazine,DB05245,Wound Infection,D014946
+Solifenacin,DB01591,Urinary Incontinence,D014549
+Sotalol,DB00489,Atrial Flutter,D001282
+Sotalol,DB00489,"Arrhythmias, Cardiac",D001145
+Sotalol,DB00489,"Tachycardia, Supraventricular",D013617
+Sotalol,DB00489,Tachycardia,D013610
+Sotalol,DB00489,"Tachycardia, Ventricular",D017180
+Sotalol,DB00489,Ventricular Fibrillation,D014693
+Streptozocin,DB00428,Carcinoid Tumor,D002276
+Streptozocin,DB00428,Carcinoma,D002277
+Streptozocin,DB00428,Hodgkin Disease,D006689
+Streptozocin,DB00428,Neoplasms,D009369
+Streptozocin,DB00428,"Carcinoma, Islet Cell",D018273
+Sulfacetamide,DB00634,Conjunctivitis,D003231
+Sulfacetamide,DB00634,Eye Infections,D015817
+Sulfacetamide,DB00634,Rosacea,D012393
+Sulfadiazine,DB00359,Malaria,D008288
+Sulfadiazine,DB00359,Nocardia Infections,D009617
+Sulfadiazine,DB00359,Urinary Tract Infections,D014552
+Sulfadoxine,DB01299,Malaria,D008288
+Sulfadoxine,DB01299,"Malaria, Falciparum",D016778
+Sulfamethoxazole,DB01015,Bronchitis,D001991
+Sulfamethoxazole,DB01015,Communicable Diseases,D003141
+Sulfamethoxazole,DB01015,Enterobacteriaceae Infections,D004756
+Sulfamethoxazole,DB01015,Pneumonia,D011014
+Sulfamethoxazole,DB01015,Prostatitis,D011472
+Sulfapyridine,DB00891,Pyoderma Gangrenosum,D017511
+Sulindac,DB00605,Adenomatous Polyposis Coli,D011125
+Sulindac,DB00605,Arthritis,D001168
+Sulindac,DB00605,Colonic Polyps,D003111
+Sulindac,DB00605,Inflammation,D007249
+Sulindac,DB00605,Rheumatic Diseases,D012216
+Tamoxifen,DB00675,Carcinoma,D002277
+Tamoxifen,DB00675,Carcinoma in Situ,D002278
+Tamoxifen,DB00675,Gynecomastia,D006177
+Tamoxifen,DB00675,Melanoma,D008545
+Tamoxifen,DB00675,Neoplasms,D009369
+Tamoxifen,DB00675,"Carcinoma, Intraductal, Noninfiltrating",D002285
+Tamoxifen,DB00675,Pancreatic Neoplasms,D010190
+Tamoxifen,DB00675,"Puberty, Precocious",D011629
+Tazarotene,DB00799,Skin Neoplasms,D012878
+Temozolomide,DB00853,Glioblastoma,D005909
+Temozolomide,DB00853,Melanoma,D008545
+Temozolomide,DB00853,Neoplasms,D009369
+Tenofovir disoproxil,DB00300,Acquired Immunodeficiency Syndrome,D000163
+Terbinafine,DB00857,Candidiasis,D002177
+Terbinafine,DB00857,Dermatomycoses,D003881
+Terbutaline,DB00871,Bronchial Spasm,D001986
+Terbutaline,DB00871,Dyspnea,D004417
+Terbutaline,DB00871,"Obstetric Labor, Premature",D007752
+Theophylline,DB00277,Apnea,D001049
+Theophylline,DB00277,Bradycardia,D001919
+Theophylline,DB00277,"Bronchitis, Chronic",D029481
+Theophylline,DB00277,Dyspnea,D004417
+Thiabendazole,DB00730,Dracunculiasis,D004320
+Thiabendazole,DB00730,Eosinophilia,D004802
+Thiabendazole,DB00730,"Larva Migrans, Visceral",D007816
+Thiabendazole,DB00730,Nematode Infections,D009349
+Thiamine,DB00152,Beriberi,D001602
+Thiamine,DB00152,Heart Diseases,D006331
+Thiamine,DB00152,Heart Failure,D006333
+Thiamine,DB00152,Pellagra,D010383
+Thiothixene,DB01623,Mental Disorders,D001523
+Thiothixene,DB01623,Psychotic Disorders,D011618
+Tiagabine,DB00906,Bipolar Disorder,D001714
+Timolol,DB00373,Glaucoma,D005901
+Timolol,DB00373,Myocardial Infarction,D009203
+Tinidazole,DB00911,Amebiasis,D000562
+Tinidazole,DB00911,Diarrhea,D003967
+Tinidazole,DB00911,Sexually Transmitted Diseases,D012749
+Tinidazole,DB00911,Vaginitis,D014627
+Tolazamide,DB00839,Diabetes Mellitus,D003920
+Tolazamide,DB00839,Hyperglycemia,D006943
+Tolnaftate,DB00525,"Skin Diseases, Infectious",D012874
+Tolterodine,DB01036,Urinary Bladder Diseases,D001745
+Tolterodine,DB01036,Urinary Incontinence,D014549
+Topiramate,DB00273,Bipolar Disorder,D001714
+Topiramate,DB00273,Obesity,D009765
+Toremifene,DB00539,Neoplasms,D009369
+Trandolapril,DB00519,Diabetic Nephropathies,D003928
+Trandolapril,DB00519,Myocardial Infarction,D009203
+Tranylcypromine,DB00752,Depressive Disorder,D003866
+Tranylcypromine,DB00752,Depression,D003863
+Triamterene,DB00384,Hyperaldosteronism,D006929
+Triamterene,DB00384,Hypokalemia,D007008
+Triamterene,DB00384,Liver Cirrhosis,D008103
+Triamterene,DB00384,Nephrotic Syndrome,D009404
+Trimethaphan,DB01116,Aortic Aneurysm,D001014
+Trimethaphan,DB01116,"Hypertension, Malignant",D006974
+Trimethobenzamide,DB00662,Gastroenteritis,D005759
+Trimethoprim,DB00440,Bronchitis,D001991
+Trimethoprim,DB00440,Diarrhea,D003967
+Trimethoprim,DB00440,"Eye Infections, Bacterial",D015818
+Trimethoprim,DB00440,Nocardia Infections,D009617
+Trimethoprim,DB00440,Pneumonia,D011014
+Trimethoprim,DB00440,Proteus Infections,D011512
+Trimethoprim,DB00440,Pyelonephritis,D011704
+Trimethoprim,DB00440,Respiratory Tract Infections,D012141
+Trimethoprim,DB00440,Staphylococcal Infections,D013203
+Trimethoprim,DB00440,Toxoplasmosis,D014123
+Trimipramine,DB00726,Depression,D003863
+Trioxsalen,DB04571,Psoriasis,D011565
+Triptorelin,DB06825,Prostatic Neoplasms,D011471
+Troglitazone,DB00197,Diabetes Mellitus,D003920
+Tryptophan,DB00150,Depressive Disorder,D003866
+Tryptophan,DB00150,Depression,D003863
+Valsartan,DB00177,Coronary Artery Disease,D003324
+Valsartan,DB00177,Diabetic Nephropathies,D003928
+Valsartan,DB00177,Kidney Diseases,D007674
+Valsartan,DB00177,Myocardial Infarction,D009203
+Vancomycin,DB00512,Colitis,D003092
+Vancomycin,DB00512,Heart Valve Diseases,D006349
+Vancomycin,DB00512,Neutropenia,D009503
+Vancomycin,DB00512,Respiratory Tract Infections,D012141
+Venlafaxine,DB00285,Attention Deficit Disorder with Hyperactivity,D001289
+Venlafaxine,DB00285,Depressive Disorder,D003866
+Venlafaxine,DB00285,Hot Flashes,D019584
+Venlafaxine,DB00285,Obsessive-Compulsive Disorder,D009771
+Venlafaxine,DB00285,Phobic Disorders,D010698
+Venlafaxine,DB00285,Sweating,D013546
+Xylometazoline,DB06694,Common Cold,D003139
+Zinc acetate,DB14487,Common Cold,D003139
+Ziprasidone,DB00246,Mental Disorders,D001523
+Ziprasidone,DB00246,Psychotic Disorders,D011618
+Zoledronic acid,DB00399,Bone Diseases,D001847
+Zoledronic acid,DB00399,Bone Neoplasms,D001859
+Zoledronic acid,DB00399,Hypercalcemia,D006934
+Zoledronic acid,DB00399,Neoplasms,D009369
+Zoledronic acid,DB00399,Multiple Myeloma,D009101
+Zoledronic acid,DB00399,"Carcinoma, Renal Cell",D002292
+Amoxapine,DB00543,Thrombocytopenia,D013921
+Aripiprazole,DB01238,Hypoventilation,D007040
+Armodafinil,DB06413,Bipolar Disorder,D001714
+Asenapine,DB06216,Weight Loss,D015431
+Baclofen,DB00181,Parasitic Diseases,D010272
+Bepotastine,DB04890,Stomach,D013270
+Brompheniramine,DB00835,Myelodysplastic Syndromes,D009190
+Cantharidin,DB12328,Colonic Neoplasms,D003110
+Carbamazepine,DB00564,Bacteriuria,D001437
+Carisoprodol,DB00395,Sepsis,D018805
+Cephalexin,DB00567,Erythema,D004890
+Cetirizine,DB00341,"Lymphoma, Non-Hodgkin",D008228
+Cimetidine,DB00501,Cystitis,D003556
+Citalopram,DB00215,Maxillary Sinusitis,D015523
+Clodronic acid,DB00720,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Cyclopentolate,DB00979,Neuroblastoma,D009447
+Cyclophosphamide,DB00531,"Purpura, Thrombocytopenic, Idiopathic",D016553
+Cyclophosphamide,DB00531,Granulomatosis with Polyangiitis,D014890
+Cyproheptadine,DB00434,Myelodysplastic Syndromes,D009190
+Diazepam,DB00829,Weight Loss,D015431
+Diethylpropion,DB00937,Osteomalacia,D010018
+Diphenhydramine,DB01075,"Tachycardia, Ventricular",D017180
+Doxapram,DB00561,Osteosarcoma,D012516
+Duloxetine,DB00476,Urinary Retention,D016055
+Famciclovir,DB00426,Urination,D014554
+Flavoxate,DB01148,"Tachycardia, Supraventricular",D013617
+Hydromorphone,DB00327,Disease,D004194
+Ifosfamide,DB01181,Dermatofibrosarcoma,D018223
+Imatinib,DB00619,Warts,D014860
+Indapamide,DB00808,Gout,D006073
+Ketotifen,DB00920,Bipolar Disorder,D001714
+Lamotrigine,DB00555,Intraocular Pressure,D007429
+Lindane,DB00431,Diarrhea,D003967
+Mechlorethamine,DB00888,Neoplasm Metastasis,D009362
+Meprobamate,DB00371,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Methocarbamol,DB00423,Cognition,D003071
+Metolazone,DB00524,Myocardial Infarction,D009203
+Morphine,DB00295,Transplants,D019737
+Nefazodone,DB01149,Bipolar Disorder,D001714
+Omeprazole,DB00338,Weight Loss,D015431
+Orlistat,DB01083,Colonic Neoplasms,D003110
+Oxaprozin,DB00991,Substance Withdrawal Syndrome,D013375
+Oxymetazoline,DB00935,Esophagitis,D004941
+Phenazopyridine,DB01438,Weight Loss,D015431
+Phenylephrine,DB00388,Warts,D014860
+Primaquine,DB01087,"Arthritis, Gouty",D015210
+Probenecid,DB01032,Anxiety Disorders,D001008
+Pseudoephedrine,DB00852,Tuberculosis,D014376
+Solifenacin,DB01591,Fistula,D005402
+Sotalol,DB00489,Tinea,D014005
+Sulfadoxine,DB01299,Otitis Media,D010033
+Sulindac,DB00605,Familial Primary Pulmonary Hypertension,D065627
+Tamsulosin,DB00706,Urinary Tract,D014551
+Tolnaftate,DB00525,Urination,D014554
+Tolterodine,DB01036,Uterine Cervical Neoplasms,D002583
+Tramadol,DB00193,Myocardial Infarction,D009203
+Trandolapril,DB00519,Intraocular Pressure,D007429
+Triamterene,DB00384,"Pneumonia, Pneumocystis",D011020
+Trimethoprim,DB00440,"Pneumonia, Pneumocystis",D011020
+Tropicamide,DB00809,Urination,D014554
+Venlafaxine,DB00285,"Purpura, Thrombocytopenic, Idiopathic",D016553
+Alfuzosin,DB00346,Rivers,D045483
+Amifostine,DB01143,Heart Ventricles,D006352
+Busulfan,DB01008,Disease,D004194
+Chlorpromazine,DB00477,Lower Extremity,D035002
+Clonidine,DB00575,Disease,D004194
+Disopyramide,DB00280,Respiratory Insufficiency,D012131
+Fosfomycin,DB00828,Body Fluids,D001826
+Imiquimod,DB00724,Body Fluids,D001826
+Loperamide,DB00836,Pruritus,D011537
+Metoclopramide,DB01233,Body Fluids,D001826
+Metoprolol,DB00264,Disease,D004194
+Mycophenolic acid,DB01024,Disease,D004194
+Naftifine,DB00735,Signs and Symptoms,D012816
+Olanzapine,DB00334,Pruritus,D011537
+Oxycodone,DB00497,Signs and Symptoms,D012816
+Phenazopyridine,DB01438,Emotions,D004644
+Prochlorperazine,DB00433,Amenorrhea,D000568
+Pyrazinamide,DB00339,Lower Extremity,D035002
+Silver sulfadiazine,DB05245,Hyperlipoproteinemia Type II,D006938
+Sotalol,DB00489,Heart Ventricles,D006352
+Sulindac,DB00605,Rotator Cuff,D017006
+Tamsulosin,DB00706,Disease,D004194
+Ziprasidone,DB00246,Neoplasm Metastasis,D009362
+Bromocriptine,DB01200,Galactorrhea not associated with childbirth,C537072
+Etacrynic acid,DB00903,Edema,D004487
+L-Glutamine,DB00130,Short Bowel Syndrome,D012778
+Glycerin,DB09462,Constipation,D003248
+Hydroxyurea,DB01005,Head and Neck Neoplasms,D006258
+Hydroxyurea,DB01005,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Hydroxyurea,DB01005,Ovarian Neoplasms,D010051
+Hydroxyurea,DB01005,"Anemia, Sickle Cell",D000755
+Hydroxyurea,DB01005,Melanoma,D008545
+Ibandronate,DB00710,Hypercalcemia,D006934
+Ibandronate,DB00710,"Osteoporosis, Postmenopausal",D015663
+Leuprolide,DB00007,"Puberty, Precocious",D011629
+Leuprolide,DB00007,Endometriosis,D004715
+Levacetylmethadol,DB01227,Opioid-Related Disorders,D009293
+Meclizine,DB00737,Motion Sickness,D009041
+Metamfetamine,DB01577,Attention Deficit Disorder with Hyperactivity,D001289
+Metamfetamine,DB01577,Obesity,D009765
+Methylene blue,DB09241,Methemoglobinemia,D008708
+Metyrosine,DB00765,Pheochromocytoma,D010673
+Amphetamine,DB00182,Obesity,D009765
+Amphetamine,DB00182,Attention Deficit Disorder with Hyperactivity,D001289
+Nylidrin,DB06152,Vascular Diseases,D014652
+Oxyphenisatin acetate,DB14627,Constipation,D003248
+Pantothenic acid,DB01783,Ascorbic Acid Deficiency,D001206
+Terpin hydrate,DB13163,Cough,D003371
+Tioguanine,DB00352,"Leukemia, Myeloid, Acute",D015470
+Torasemide,DB00214,Hypertension,D006973
+Torasemide,DB00214,Edema,D004487
+Triethylenetetramine,DB06824,"Carcinoma, Renal Cell",D002292
+Trimethaphan,DB01116,Pulmonary Edema,D011654
+Tromethamine,DB03754,"Conjunctivitis, Allergic",D003233
+Niacin,DB00627,Hypercholesterolemia,D006937
+Niacin,DB00627,Hypertriglyceridemia,D015228
+Niacin,DB00627,"Hyperlipidemia, Familial Combined",D006950
+Niacin,DB00627,Avitaminosis,D001361
+Niacin,DB00627,Hyperlipidemias,D006949
+Podofilox,DB01179,Condylomata Acuminata,D003218
+Silver sulfadiazine,DB05245,Skin Ulcer,D012883
+Potassium alum,DB09087,Heartburn,D006356
+Potassium alum,DB09087,Dyspepsia,D004415
+Potassium alum,DB09087,Peptic Ulcer,D010437
+Potassium alum,DB09087,Gastroesophageal Reflux,D005764
+Calcium glycerophosphate,DB11264,Hypocalcemia,D006996
+Calcium glycerophosphate,DB11264,Heart Arrest,D006323
+Calcium glycerophosphate,DB11264,Hyperkalemia,D006947
+Aluminum chloride,DB11081,Hyperhidrosis,D006945
+Paliperidone,DB01267,Schizophrenia,D012559
+Tetraferric tricitrate decahydrate,DB14520,Hyperphosphatemia,D054559
+Thonzonium,DB09552,Otitis Externa,D010032
+Cephalexin,DB00567,Prostatitis,D011472
+Cephalexin,DB00567,"Pneumonia, Pneumococcal",D011018
+Cephalexin,DB00567,Streptococcal Infections,D013290
+Cephalexin,DB00567,Staphylococcal Infections,D013203
+Chlorpheniramine,DB01114,Urticaria,D014581
+Chlorpheniramine,DB01114,"Rhinitis, Vasomotor",D012223
+Chlorpheniramine,DB01114,"Conjunctivitis, Allergic",D003233
+Chlorpheniramine,DB01114,Sneezing,D012912
+Chlorpheniramine,DB01114,"Rhinitis, Allergic, Seasonal",D006255
+Chlorpheniramine,DB01114,"Rhinitis, Allergic",D065631
+Chlorpheniramine,DB01114,Common Cold,D003139
+Chlorpheniramine,DB01114,Pruritus,D011537
+Chlorthalidone,DB00310,Edema,D004487
+Chlorthalidone,DB00310,Hypertension,D006973
+Colistimethate,DB01111,Escherichia coli Infections,D004927
+Cysteamine,DB00847,Cystinosis,D003554
+Dextroamphetamine,DB01576,Attention Deficit Disorder with Hyperactivity,D001289
+Diclofenamide,DB01144,"Glaucoma, Open-Angle",D005902
+Diclofenamide,DB01144,"Glaucoma, Angle-Closure",D015812
+Epinephrine,DB00668,"Glaucoma, Open-Angle",D005902
+Docusate,DB11089,Constipation,D003248
+Docusate,DB11089,"Anemia, Iron-Deficiency",D018798
+Moricizine,DB00680,Heart Ventricles,D006352
+Nitrofural,DB00336,Escherichia coli Infections,D004927
+Nitrofural,DB00336,Cystitis,D003556
+Nitroglycerin,DB00727,Hypertension,D006973
+Nitroglycerin,DB00727,Heart,D006321
+Pantothenic acid,DB01783,Malnutrition,D044342
+Torasemide,DB00214,Heart Failure,D006333
+Triethylenetetramine,DB06824,Psoriasis,D011565
+Niacin,DB00627,Hyperlipoproteinemia Type II,D006938
+Icosapent,DB00159,Breast Feeding,D001942
+Calcium glycerophosphate,DB11264,Disease,D004194
+Cephalexin,DB00567,Otitis Media,D010033
+Cephalexin,DB00567,Bacterial Infections,D001424
+Cephalexin,DB00567,Cystitis,D003556
+Cephalexin,DB00567,Urinary Tract Infections,D014552
+Cephalexin,DB00567,Osteomyelitis,D010019
+Cephalexin,DB00567,Tonsillitis,D014069
+Cephalexin,DB00567,Escherichia coli Infections,D004927
+Chlorpheniramine,DB01114,Signs and Symptoms,D012816
+Chlorpheniramine,DB01114,"Influenza, Human",D007251
+Antipyrine,DB01435,Otitis Media,D010033
+Diclofenamide,DB01144,Glaucoma,D005901
+Docusate,DB11089,"Anemia, Megaloblastic",D000749
+Docusate,DB11089,Breast Feeding,D001942
